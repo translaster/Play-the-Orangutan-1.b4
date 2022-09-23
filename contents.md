@@ -1,20 +1,20 @@
 # Содержание
 
-[Bibliography](bibliography.md)
+[Библиография](bibliography.md)
 
-[Dedication to my father][dedication.md]
+[Посвящение моему отцу](dedication.md)
 
-[Foreword by IM Michael Basman](foreword.md)
+[Предисловие IM Михаила Басмана](foreword.md)
 
-[History of the Orangutan Opening](history.md)
+[История дебюта орангутана](history.md)
 
-[My Own Experiences with the Orangutan](experiences.md)
+[Мой собственный опыт общения с орангутаном](experiences.md)
 
-[Chapter 1: 1...e5 – The Exchange Variation](chapter-01.md)
+[Глава 1: 1...e5 – Вариант обмена](chapter-01.md)
 
-[Chapter 2: 1...e5 2.Bb2 f6](chapter-02.md)
+[Глава 2: 1...e5 2.Bb2 f6](chapter-02.md)
 
-[Chapter 3: 1...e5 2.Bb2 d6](chapter-03.md)
+[Глава 3: 1...e5 2.Bb2 d6](chapter-03.md)
 
 [Chapter 4: King’s Indian Set-ups
 
