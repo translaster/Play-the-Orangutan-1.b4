@@ -16,27 +16,27 @@
 
 [Глава 3: 1...e5 2.Bb2 d6](chapter-03.md)
 
-[Chapter 4: King’s Indian Set-ups
+[Chapter 4: King’s Indian Set-ups](chapter-04.md)
 
-[Chapter 5: Grünfeld Indian Set-ups
+[Chapter 5: Grünfeld Indian Set-ups](chapter-05.md)
 
-[Chapter 6: Queen’s Indian Set-ups
+[Chapter 6: Queen’s Indian Set-ups](chapter-06.md)
 
-[Chapter 7: Main Lines with 1...Nf6 2.Bb2 e6 & 3...d5
+[Chapter 7: Main Lines with 1...Nf6 2.Bb2 e6 & 3...d5](chapter-07.md)
 
-[Chapter 8: Other Set-ups with 1...Nf6 & 2...e6
+[Chapter 8: Other Set-ups with 1...Nf6 & 2...e6](chapter-08.md)
 
-[Chapter 9: 1...d5 followed by ...Bf5 or ...Bg4
+[Chapter 9: 1...d5 followed by ...Bf5 or ...Bg4](chapter-09.md)
 
-[Chapter 10: Black attacks the b4-pawn with the Queen
+[Chapter 10: Black attacks the b4-pawn with the Queen](chapter-10.md)
 
-[Chapter 11: Dutch Set-ups
+[Chapter 11: Dutch Set-ups](chapter-11.md)
 
-[Chapter 12: Various Other 1st Moves for Black
+[Chapter 12: Various Other 1st Moves for Black](chapter-12.md)
 
 
-[A Repertoire in a few lines]
+[Репертуар в нескольких строчках](repertoire.md)
 
-[Join Me in Saving The Orangutan in the Wild]
+[Присоединяйтесь ко мне в деле спасения орангутанга в дикой природе](join_me.md)
 
-[Books by Carsten Hansen]
+[Книги Карстена Хансена](books.md)
