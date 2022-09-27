@@ -12,39 +12,42 @@
 
 ![](pics/pic-1-1.png)
 
-a) 3...Be6 4.Bb2 f6 with a transposition to 3.Bb2 f6 4.e3 Be6 below.
-b) 3...a5 4.Bb2 Nd7 5.c4 axb4 6.axb4 (White got himself in trouble after 6.Nf3 e4 7.Nd4 Ngf6 8.axb4 Rxa1 9.Bxa1 Bxb4 in Basman-Kopec, London 1979) 6...Rxa1 7.Bxa1 Bxb4 8.cxd5 with chances to both sides.
-c) 3...c5 4.Bb2 f6 5.bxc5 Bxc5 6.d4 exd4 7.Bxd4 Bxd4 8.Qxd4 Nc6 9.Qb2 when both sides have less than an ideal pawn structure, but long-term, the weakness of ...f7–f6 could cause problems for Black.
-d) 3...c6 4.Bb2 Bd6 5.Nf3 Nd7 6.c4 Ngf6 is another transposition.
+a) 3...Be6 4.Bb2 f6 с переходом на 3.Bb2 f6 4.e3 Be6 ниже.
+
+b) 3...a5 4.Bb2 Nd7 5.c4 axb4 6.axb4 (белые попали в беду после 6.Nf3 e4 7.Nd4 Ngf6 8.axb4 Rxa1 9.Bxa1 Bxb4 в партии Басман - Копец, Лондон 1979) 6...Rxa1 7.Bxa1 Bxb4 8.cxd5 с шансами для обеих сторон.
+
+c) 3...c5 4.Bb2 f6 5.bxc5 Bxc5 6.d4 exd4 7.Bxd4 Bxd4 8.Qxd4 Nc6 9.Qb2 когда у обеих сторон менее чем идеальная пешечная структура, но в перспективе слабость ...f7-f6 может создать проблемы для черных.
+
+d) 3...c6 4.Bb2 Bd6 5.Nf3 Nd7 6.c4 Ngf6 - еще одна перестановка.
 e) 3...Nf6 4.Bb2 Bd6 5.c4 c6 6.Nf3 Nbd7
 
 ![](pics/pic-1-2.png)
 
-(another try is 6...Qe7 7.cxd5 cxd5 8.Nc3 a6 9.Na4!? (9.d4 e4 10.Ne5 Nbd7 11.Nxd7 Bxd7 was better for Black in an online blitz game) 9...Nbd7 10.Be2 (but not 10.Nh4 g6) 10...0-0 11.0-0 with chances to both sides), and here:
+(другая попытка - 6...Qe7 7.cxd5 cxd5 8.Nc3 a6 9.Na4!?? (9.d4 e4 10.Ne5 Nbd7 11.Nxd7 Bxd7 было лучше для черных в онлайн блице) 9...Nbd7 10.Be2 (но не 10.Nh4 g6) 10...0-0 11.0-0 с шансами для обеих сторон), и здесь:
 
-e1) 7.cxd5 cxd5 8.Nc3 (or 8.Be2 e4 9.Nd4 Ne5, S.Schweber-Bulcourf, Lomas de Zamora 1995, and now 10.Qb3 Bb8 11.Nc3 would have led to an interesting position with chances to both sides) 8...0-0 (another option is 8...a6 9.Qb3 (9.Be2 0-0 10.0-0 (10.Rc1?! b6 11.0-0 Qe7 12.Nh4 Qe6 13.Nf3 Bb7 14.Qb3 Rfc8 and the chances are about even, Luzuriaga-Royer, CADAP corr 2000) 10...Re8 11.Rc1 Nf8 12.Na4 Ng6 13.d3 h5 14.Nd2 h4 looks pleasant for Black Kutuzov-Jumabayev, Moscow 2011) 9...Nb6 10.Na4 Nxa4 11.Qxa4+ Bd7 12.Qb3 Qe7 13.Be2 0-0 14.0-0 h6 15.d3 Bb5 16.a4 Bd7 with chances to both sides) 9.Rc1 Re8 10.Qb3 d4 11.Ne2 dxe3 12.dxe3 Nf8 13.Ng3 Be6 14.Bc4 Bxc4 15.Rxc4 and White had a pleasant position in an online blitz game.
+e1) 7.cxd5 cxd5 8.Nc3 (или 8.Be2 e4 9.Nd4 Ne5, S.Schweber-Bulcourf, Lomas de Zamora 1995, и сейчас 10.Qb3 Bb8 11.Nc3 привело бы к интересной позиции с шансами для обеих сторон) 8. ...0-0 (другой вариант 8...a6 9.Qb3 (9.Be2 0-0 10.0-0 (10.Rc1?! b6 11.0-0 Qe7 12.Nh4 Qe6 13.Nf3 Bb7 14.Qb3 Rfc8 и шансы примерно равны, Luzuriaga-Royer, CADAP corr 2000) 10. ...Re8 11.Rc1 Nf8 12.Na4 Ng6 13.d3 h5 14.Nd2 h4 выглядит неплохо для черных Кутузов - Джумабаев, Москва 2011) 9...Nb6 10.Na4 Nxa4 11.Qxa4+ Bd7 12.Qb3 Qe7 13.Be2 0-0 14.0-0 h6 15. d3 Bb5 16.a4 Bd7 с шансами для обеих сторон) 9.Rc1 Re8 10.Qb3 d4 11.Ne2 dxe3 12.dxe3 Nf8 13.Ng3 Be6 14.Bc4 Bxc4 15.Rxc4 и белые получили хорошую позицию в онлайн-блиц партии.
 
-e2) White should probably stay away from 7.d4?! e4 8.Nfd2 Nf8!? 9.h3 (or 9.Nc3 Ng6 10.Qb3 Bc7 11.h3 0-0 12.a4 Be6 13.g3 Re8 14.cxd5 cxd5 15.a5 Rc8 gave Black a very pleasant position in Vastrukhin-Grigoriants, Voronezh 2014) 9...Ng6 10.Nc3 0-0 11.g3 Re8 12.c5 Bc7 when Black’s prospects on the kingside were clearly better than White’s on the queenside, Bernadskiy-Kuzubov, Lvov 2017.
+e2) белым, вероятно, следует держаться подальше от 7.d4! e4 8.Nfd2 Nf8!? 9.h3 (или 9.Nc3 Ng6 10.Qb3 Bc7 11.h3 0-0 12.a4 Be6 13.g3 Re8 14.cxd5 cxd5 15.a5 Rc8 дало черным очень удобную позицию в партии Ваструхин - Григорянц, Воронеж 2014) 9. ...Ng6 10.Nc3 0-0 11.g3 Re8 12.c5 Bc7, когда перспективы черных на королевском фланге были явно лучше, чем у белых на ферзевом, Бернадский - Кузубов, Львов 2017.
 
-e3) 7.Be2 0-0 8.0-0 Qe7 9.d3 Re8 10.Nc3 a6 11.Qb3 dxc4 12.Qxc4 Nf8 13.Ne4 Nxe4 14.Qxe4 f5 15.Qh4 Qxh4 16.Nxh4 Be6 was Ooi-Buchenau, Chess.com INT 2020, and now 17.e4!? would have given White an edge.
+e3) 7.Be2 0-0 8.0-0 Qe7 9.d3 Re8 10.Nc3 a6 11.Qb3 dxc4 12.Qxc4 Nf8 13.Ne4 Nxe4 14.Qxe4 f5 15.Qh4 Qxh4 16.Nxh4 Be6 было Ooi-Buchenau, Chess.com INT 2020, а теперь 17.e4!? дало бы белым преимущество.
 
-e4) 7.Nc3 0-0 (or 7...dxc4 8.Bxc4 0-0 9.Qc2 Qe7, and here White has an interesting idea: 10.Ng5 Nb6 11.Ba2 g6 12.h4 Bf5 13.Nce4 Nxe4 14.Nxe4 with approximately equal chances, but now Black went wrong with 14...Rad8? 15.h5 Nd7 16.g4 Bxg4 17.hxg6 hxg6 18.Nc5 Kg7 19.Nxb7 Rh8 20.Rg1 Qh4 21.Qc4 and White was winning in Schmittdiel-Medunova, Liechtenstein 1994) 8.Be2 Re8 9.d3 Nf8 10.Rc1 Ng6 11.cxd5 cxd5 12.Nb5 Bb8 13.Qc2 Bd7 14.Nc7 Ba4 15.Qxa4 Bxc7 16.0-0 Bd6 17.Rfd1 h5 18.Qb3 with a pleasant position for White as tested in an online game.
+e4) 7.Nc3 0-0 (или 7...dxc4 8.Bxc4 0-0 9.Qc2 Qe7, и здесь у белых интересная идея: 10.Ng5 Nb6 11.Ba2 g6 12.h4 Bf5 13.Nce4 Nxe4 14.Nxe4 с примерно равными шансами, но сейчас черные ошиблись с 14...Rad8? 15.h5 Nd7 16.g4 Bxg4 17.hxg6 hxg6 18.Nc5 Kg7 19.Nxb7 Rh8 20.Rg1 Qh4 21.Qc4 и белые выигрывали в партии Шмиттдиль - Медунова, Лихтенштейн 1994) 8.Be2 Re8 9.d3 Nf8 10. Rc1 Ng6 11.cxd5 cxd5 12.Nb5 Bb8 13.Qc2 Bd7 14.Nc7 Ba4 15.Qxa4 Bxc7 16.0-0 Bd6 17.Rfd1 h5 18.Qb3 с выгодной позицией для белых, как проверено в онлайн партии.
 
-**B) 3.Bb2** is the more “Orangutan” choice for White. Now Black has tried several things:
+**B) 3.Bb2** - более "орангутанговый" выбор для белых. Теперь черные попробовали несколько вариантов:
 
-a) 3...d4?! 4.Nf3 Nd7 5.e3 dxe3 6.dxe3 is pleasant for White.
+a) 3...d4?! 4.Nf3 Nd7 5.e3 dxe3 6.dxe3 устраивает белых.
 
-b) 3...f6 is a natural alternative: 4.e3 Be6 5.d4 (5.Nf3 will transpose), and here:
+b) 3...f6 - естественная альтернатива: 4.e3 Be6 5.d4 (5.Nf3 переставляется), и здесь:
 
-b1) 5...e4 6.Nh3 f5 (6...Bxh3 7.Qh5+ g6 8.Qxh3) 7.c4 c6 8.Nc3 Nf6 when White can play 9.c5 (or 9.Qb3) 9...Be7 10.b5 (or 10.a4) 10...h6 11.Nf4 Bf7 12.h4 with chances to both sides, but where I prefer White.
+b1) 5...e4 6.Nh3 f5 (6...Bxh3 7.Qh5+ g6 8.Qxh3) 7.c4 c6 8.Nc3 Nf6, когда белые могут сыграть 9.c5 (или 9.Qb3) 9...Be7 10.b5 (или 10.a4) 10...h6 11.Nf4 Bf7 12.h4 с шансами для обеих сторон, но где я предпочитаю белых.
 
-b2) After 5...Nd7, I prefer 6.dxe5!? (I think Black gets a good game after 6.Nf3 Bd6?! (6...e4!? is the better move) 7.dxe5 (7.c4 dxc4 8.d5 Bf7 9.Bxc4 Ne7 10.e4 0-0 11.Nc3 a5 is fine for Black) 7...fxe5 8.Nbd2 with chances to both sides) 6...fxe5 (6...Nxe5 7.Nd2 Bd6 8.f4 (or the more normal 8.Ngf3 Ne7 9.c4 Nxf3+ 10.Nxf3 dxc4 11.Rc1 c3 12.Bxc3 0-0 13.Bd3 Qd7 14.Qc2 with a clear positional advantage for White in D.Mueller-Pontoppidan, ICCF email 2016) 8...Ng4 (or 8...Nc4 9.Bxc4 dxc4 10.Qh5+ Bf7 11.Qg4 looks promising for White) 9.Qf3 and White’s position looks more harmonious, particularly the knight on g4 is a bit odd) 7.Nf3 Bd6 8.Nbd2 Ngf6 9.c4 c6 10.cxd5 (or 10.Qc2!? 0-0 11.Ng5 Qe7 12.Be2 g6? (12...e4 was a much better choice) 13.Nxe6 Qxe6 14.e4 Rac8 15.cxd5 cxd5 16.Qb3 and White had a clear advantage in Zilberman-Brenner, Tel Aviv 2011) 10...Bxd5 11.Nc4 Qe7 12.Nxd6+ Qxd6 13.Qc2 0-0 14.Be2 gave White a pleasant position in Letzelter-Hedin, Hersonissos 2017.
+b2) После 5...Nd7 я предпочитаю 6.dxe5!? (думаю, черные получают хорошую игру после 6.Nf3 Bd6?! (6...e4!? - лучший ход) 7.dxe5 (7.c4 dxc4 8.d5 Bf7 9.Bxc4 Ne7 10.e4 0-0 11. Nc3 a5 хорошо для черных) 7...fxe5 8.Nbd2 с шансами для обеих сторон) 6...fxe5 (6...Nxe5 7.Nd2 Bd6 8.f4 (или более подходящий вариант 8.Ngf3 Ne7 9.c4 Nxf3+ 10.Nxf3 dxc4 11.Rc1 c3 12. Bxc3 0-0 13.Bd3 Qd7 14.Qc2 с явным позиционным перевесом у белых в партии Д.Мюллер-Понтоппидан, ICCF email 2016) 8...Ng4 (или 8...Nc4 9.Bxc4 dxc4 10.Qh5+ Bf7 11. Qg4 выглядит перспективно для белых) 9.Qf3 и позиция белых выглядит более гармонично, в частности, конь на g4 немного странным) 7.Nf3 Bd6 8.Nbd2 Ngf6 9.c4 c6 10.cxd5 (или 10.Qc2!? 0-0 11.Ng5 Qe7 12.Be2 g6? (12...e4 было гораздо лучшим выбором) 13.Nxe6 Qxe6 14.e4 Rac8 15.cxd5 cxd5 16.Qb3 и у белых явное преимущество в партии Зильберман-Бреннер, Тель-Авив 2011) 10. ..Bxd5 11.Nc4 Qe7 12.Nxd6+ Qxd6 13.Qc2 0-0 14.Be2 давало белым неплохую позицию в партии Летцельтер - Хедин, Херсониссос 2017.
 
-c) 3...Nd7, with another split in the path:
+c) 3...Nd7, с очередным раздвоением на пути:
 
-c1) 4.Nf3 Bd6 (4...e4!? 5.Nd4 Ngf6 6.e3 c6 7.c4 (The standard pawn break) 7...dxc4 8.Bxc4 Ne5 9.Be2 Bd6 10.Qc2 with a sharp position where White has to be a bit careful about his light squares but otherwise has excellent chances) 5.e3 c6 (or 5...f5?! 6.c4 c6 7.cxd5 cxd5 8.Nc3 Ne7 9.Qb3 Nf6 10.Nb5 e4 11.Nxd6+ Qxd6 12.Nd4 Bd7 13.b5 and White had a positionally much better position; the absence of the dark-squared bishop is going to be a major problem for Black, Kutuzov- Kuznetsov, Moscow 2011) 6.c4 Ne7 7.Nc3 0-0 8.cxd5 cxd5 9.Qb3 e4 10.Nd4 Nf6 11.Rc1 Bd7 12.Be2 Rc8 13.0-0 Bg4 was played in V.Alekseev-Driamin, St Petersburg 2000, and now 14.h3 Bxe2 15.Ncxe2 would have been pleasant for White.
+c1) 4.Nf3 Bd6 (4...e4!?? 5.Nd4 Ngf6 6.e3 c6 7.c4 (Стандартный прорыв пешки) 7...dxc4 8.Bxc4 Ne5 9.Be2 Bd6 10.Qc2 с острой позицией, где белые должны быть немного осторожны со своими светлыми клетками, но в остальном имеют отличные шансы) 5.e3 c6 (или 5...f5?! 6.c4 c6 7.cxd5 cxd5 8.Nc3 Ne7 9.Qb3 Nf6 10.Nb5 e4 11.Nxd6+ Qxd6 12.Nd4 Bd7 13.b5 и у белых позиционно намного лучше; отсутствие чернопольного слона станет большой проблемой для черных, Кутузов - Кузнецов, Москва 2011) 6. c4 Ne7 7.Nc3 0-0 8.cxd5 cxd5 9.Qb3 e4 10.Nd4 Nf6 11.Rc1 Bd7 12.Be2 Rc8 13.0-0 Bg4 было сыграно в партии В.Алексеев - Дрямин, Санкт-Петербург 2000, и теперь 14.h3 Bxe2 15.Ncxe2 было бы удачнее для белых.
 
-c2) A critical alternative is 4.e3 Ngf6, and now:
+c2) Критической альтернативой является 4.e3 Ngf6, и сейчас:
 
 ![](pics/pic-1-3.png)
 
