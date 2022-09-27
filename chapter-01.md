@@ -1,14 +1,14 @@
-# Chapter 1: 1...e5 – The Exchange Variation
+# Глава 1: 1...e5 – Вариант размена
 
-We will start the theoretical coverage with the line played more frequently than any other line, both in my games and in those by other players, the Exchange Variation. It is worth making this thought that just because Black is opting for this line, it does not mean that he or she has prepared anything; it is likely because it looks “normal” and rapid developing moves are involved in reaching a playable position.
+Мы начнем теоретический обзор с линии, которую играют чаще других, как в моих партиях, так и в партиях других игроков - с разменного варианта. Стоит сразу оговориться, что если черные выбирают эту линию, это не значит, что они что-то подготовили; скорее всего, это происходит потому, что она выглядит "нормально", а для достижения играбельной позиции требуются быстрые развивающие ходы.
 
-**Minor Lines**
+**Незначительные линии**
 
 **1.b4 e5 2.Bb2**
 
-I should mention that White, of course, has the additional option of what Lichess’ Opening Explorer calls the Bugayev Attack (more about Bugayev in the Introduction). Still, I refer to it as the Basman Variation or St.George Attack (many will recall the St.George Defense is 1.e4 a6 2.d4 b5, which the English grandmaster Tony Miles used to defeat the reigning world champion Anatoly Karpov in 1980), namely 2.a3. It is a perfectly playable option for White. The only attempt for Black to demonstrate any kind of superiority from the opening is 2...d5, but even then, it is far from evident that Black should be any better because White can enjoy many of the benefits of the Orangutan without too many downsides:
+Должен отметить, что у белых, конечно, есть дополнительная возможность того, что в "База дебютов Lichess" называется атакой Бугаева (подробнее о Бугаеве во Введении). Тем не менее, я называю ее Басманным вариантом или атакой Святого Георгия (многие помнят защиту Святого Георгия 1.e4 a6 2.d4 b5, которую английский гроссмейстер Тони Майлз использовал для победы над действующим чемпионом мира Анатолием Карповым в 1980 году), а именно 2.a3. Это вполне играбельный вариант для белых. Единственная попытка черных продемонстрировать какое-то превосходство в дебюте - 2...d5, но даже в этом случае далеко не очевидно, что черные должны быть лучше, поскольку белые могут пользоваться многими преимуществами "орангутанга" без особых минусов:
 
-A) 3.e3 is the true St.George Attack, and now:
+A) 3.e3 - настоящая атака Святого Георгия, и теперь:
 
 ![](pics/pic-1-1.png)
 
