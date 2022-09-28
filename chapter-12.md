@@ -1,7 +1,7 @@
-# Chapter 12: Various Other 1st Moves for Black
+# Глава 12: Различные другие 1-ые ходы за черных
 
-The lines covered in this chapter are mostly oddball options, trying to provoke a reaction out of White.
-After 1.b4, we will consider the following moves:
+Линии, рассматриваемые в этой главе, в основном представляют собой странные варианты, пытающиеся спровоцировать реакцию белых.
+После **1.b4** мы рассмотрим следующие ходы:
 
 A: 1...c5
 B: 1...a5
@@ -11,34 +11,59 @@ E: 1...Nh6
 F: 1...f6
 G: 1...g5
 
-A) 1...c5
+**A)**
+**1...c5**
 
-This line is called the Birmingham Gambit. If White is not adequately prepared, Black can easily get a decent position. I have experimented with a couple of ideas in my own games and believe that White can get an edge, but it does require some original play.
-    2. bxc5 e5 3.e3
-The pawn advance is considered the main line. White has some alternatives:
-    3. Bb2 is played more frequently but is, in my opinion, more or less harmless for Black, for instance, 3...Nc6 4.Nf3 Bxc5 5.e3 d6 6.d4 (6.Be2!?) 6...Qb6 7.Bc3 Bb4 and Black is very close to having equalized.
-3.Ba3!? is my favorite continuation. In the two games I used it, my opponents reacted quite befuddled and soon got into trouble.
+![](pics/pic-12-1.png)
 
+Эта линия называется Бирмингемским гамбитом. Если белые не подготовлены должным образом, черные могут легко получить приличную позицию. Я экспериментировал с парой идей в своих собственных партиях и считаю, что белые могут получить преимущество, но это требует некоторой оригинальной игры.
 
-3...Qa5 (Black has to play this move at some point if the c5–pawn has to be recovered; an alternative is 3...Nc6 4.e3 Qa5 and now 5.Nf3 transposes to our main line) 4.Nf3 Nc6 5.Bb2 (or 5.c3 Bxc5 6.Bxc5 Qxc5 7.d4 Qe7 8.d5 Na5 9.d6 Qe6 10.Na3 a6 11.e4 with a fascinating position where White is marginally better whereas; 5.e3 transposes) 5...Bxc5 6.e3 d6 7.Be2 Nf6 8.0-0 0-0 9.c4 Bf5 10.Nc3 and White has the somewhat better chances.
-3...Bxc5 4.Nf3
-Unless developed on the third move, White should abstain from developing the bishop for now as it may not be needed on b2. A couple of alternatives are:
-    a) 4.c4 Nc6 5.Nc3 Nf6 6.Nge2 0-0 7.Nd5 d6 8.Nec3 Be6 9.Be2 Bxd5 10.cxd5 was comfortable for White in Sitnikov-Aveskulov, Kharkov 2005.
-    b) 4.d4 exd4 5.exd4 Be7 6.Nf3 (or 6.g3 Nf6 7.Bg2 d5 8.Ne2 Nc6 9.0-0 0-0 with about even chances, M.Bach-J.O.Fries Nielsen, Hamburg 2016) 6...Nf6 7.Bd3 0-0 8.0-0 d5 9.h3 Nc6 10.Re1 Re8 and Black had equalized in Vasiukov-Hecht, Dresden 2010.
-4...Nc6
-A reasonable and untried alternative is 4...d6 5.c3!? (or 5.d4 exd4 6.exd4 Bb6 7.Bb5+ Bd7 8.Bxd7+ Qxd7 9.0-0 and White has the marginally better position) 5...Nc6 6.d4 Bb6 7.Ba3 (White can improve with 7.Bb5! exd4 8.cxd4 a6 9.Bd3 when White has the better pawn structure) 7...e4 8.Nfd2 (or 8.d5 Nce7 9.Ng5 Nf6 10.Qa4+ Bd7 11.Bb5 Nexd5 12.Nxe4 Nxe4 13.Bxd7+ Qxd7 14.Qxe4+ Ne7 15.0-0 with about even chances) 8...Nf6 (8...d5 9.c4 is more or less winning for White) 9.Be2 0- 0 10.0-0 Re8 is fine for Black.
-5.d4 exd4 6.exd4
+**2.bxc5 e5 3.e3**
 
-6...Bb6
-This is the better square. By contrast, 6...Be7 is too passive: 7.d5 Bf6 8.c3 Ne5 9.Nbd2 Nh6 10.Nxe5 Bxe5 11.Bd3 Bxc3 (or 11...d6 12.0-0 0-0 13.Rb1 Bxc3 14.Qc2 and White has a clear advantage) 12.Ba3 and White has a massive lead in development, and Black will be lucky to stay in the game.
-    7. d5 Qf6!
-Necessary as the alternatives, knight moves, are terrible, for instance, 7...Nce7 8.d6 Nc6 9.Bc4 and White is overwhelmingly better; or 7...Na5 8.Ba3 (8.Bd3!?) 8...d6 9.Nc3 and White has a clear advantage.
-    8. c3 Ne5 9.Qe2 d6 10.Nbd2 Ne7 11.Nxe5 Qxe5 12.Qxe5 dxe5 13.c4 and White has the better chances.
-B) 1...a5
-Whenever Black flings this move at me, I instantly start enjoying myself because there is no good reason for Black to play this move at this point. It can, of course, transpose to lines covered elsewhere in this book.
+Продвижение пешки считается главной линией. У белых есть несколько альтернатив:
 
+3.Bb2 играется чаще, но, на мой взгляд, более или менее безвредно для черных, например, 3...Nc6 4.Nf3 Bxc5 5.e3 d6 6.d4 (6.Be2!?) 6...Qb6 7.Bc3 Bb4 и черные очень близки к уравниванию.
 
-    2. b5 Nf6
+3.Ba3!? - мое любимое продолжение. В двух партиях, в которых я его использовал, мои соперники реагировали довольно растерянно и вскоре попали в беду.
+
+![](pics/pic-12-2.png)
+
+3...Qa5 (черные должны сделать этот ход в какой-то момент, если пешка c5 должна быть восстановлена; альтернатива - 3...Nc6 4.e3 Qa5 и теперь 5.Nf3 переходит на нашу главную линию) 4.Nf3 Nc6 5.Bb2 (или 5.c3 Bxc5 6.Bxc5 Qxc5 7.d4 Qe7 8. d5 Na5 9.d6 Qe6 10.Na3 a6 11.e4 с увлекательной позицией, где у белых незначительно лучше, тогда как; 5.e3 переставляется) 5...Bxc5 6.e3 d6 7.Be2 Nf6 8.0-0 0-0 9.c4 Bf5 10.Nc3 и у белых несколько лучшие шансы.
+
+**3...Bxc5 4.Nf3**
+
+Если на третьем ходу слон не будет развит, белым пока лучше воздержаться от его развития, так как на b2 он может и не понадобиться. Есть несколько альтернатив:
+
+a) 4.c4 Nc6 5.Nc3 Nf6 6.Nge2 0-0 7.Nd5 d6 8.Nec3 Be6 9.Be2 Bxd5 10.cxd5 было удобно для белых в партии Ситников-Авескулов, Харьков 2005.
+
+b) 4.d4 exd4 5.exd4 Be7 6.Nf3 (или 6.g3 Nf6 7.Bg2 d5 8.Ne2 Nc6 9.0-0 0-0 с примерно равными шансами, М.Бах-Дж.О. Фрис Нильсенn, Гамбург 2016) 6...Nf6 7.Bd3 0-0 8.0-0 d5 9.h3 Nc6 10.Re1 Re8 и черные уравняли в партии Васюков-Хехт, Дрезден 2010.
+
+**4...Nc6**
+
+Разумной и неопробованной альтернативой является 4...d6 5.c3!? (или 5.d4 exd4 6.exd4 Bb6 7.Bb5+ Bd7 8.Bxd7+ Qxd7 9.0-0 и у белых немного лучшая позиция) 5...Nc6 6.d4 Bb6 7.Ba3 (белые могут улучшить с помощью 7.Bb5! exd4 8.cxd4 a6 9.Bd3, когда у белых лучшая пешечная структура) 7... e4 8.Nfd2 (или 8.d5 Nce7 9.Ng5 Nf6 10.Qa4+ Bd7 11.Bb5 Nexd5 12.Nxe4 Nxe4 13.Bxd7+ Qxd7 14.Qxe4+ Ne7 15.0-0 с примерно равными шансами) 8...Nf6 (8...d5 9.c4 более или менее выигрывает для белых) 9.Be2 0- 0 10.0-0 Re8 - все в порядке для черных.
+
+**5.d4 exd4 6.exd4**
+
+![](pics/pic-12-3.png)
+
+**6...Bb6**
+
+Это лучшая клетка. Напротив, 6...Be7 слишком пассивно: 7.d5 Bf6 8.c3 Ne5 9.Nbd2 Nh6 10.Nxe5 Bxe5 11.Bd3 Bxc3 (или 11...d6 12.0-0 0-0 13.Rb1 Bxc3 14.Qc2 и у белых явный перевес) 12.Ba3 и у белых огромный перевес в развитии, и черным повезет остаться в партии.
+
+**7.d5 Qf6!**
+
+Необходимо, так как альтернативы, ходы конем, ужасны, например, 7...Nce7 8.d6 Nc6 9.Bc4 и у белых подавляющее преимущество; или 7...Na5 8.Ba3 (8.Bd3!?) 8...d6 9.Nc3 и у белых явное преимущество.
+
+**8.c3 Ne5 9.Qe2 d6 10.Nbd2 Ne7 11.Nxe5 Qxe5 12.Qxe5 dxe5 13.c4** и у белых лучшие шансы.
+
+**B)**
+**1...a5**
+
+Всякий раз, когда черные делают этот ход, я сразу же начинаю радоваться, потому что в данный момент у черных нет ни одной хорошей причины играть этот ход. Конечно, он может переходить к ходам, описанным в других разделах этой книги.
+
+![](pics/pic-12-4.png)
+
+**2.b5 Nf6**
 
 Black has tried a whole bunch of other moves:
     a) 2...c6 3.e3 transposes to 1...c6 2.e3 a5 which is covered in chapter 10.
