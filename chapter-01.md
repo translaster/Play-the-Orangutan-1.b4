@@ -51,26 +51,25 @@ c2) Критической альтернативой является 4.e3 Ngf6
 
 ![](pics/pic-1-3.png)
 
-c21) 5.Nf3 Bd6 6.d4 (or 6.c4 dxc4 (6...c6 transposes to the lines we covered after 3.e3) 7.Bxc4 0-0 8.Qc2 Qe7 9.Nc3 a5 10.b5 Nc5 11.d4 Ncd7 as seen in Poley-J.Akesson, Gothenburg 2004, and here White could have considered 12.Ng5!? h6 13.Nd5 Qe8 14.dxe5 Bxe5 15.Nxc7!? (15.Nxf6+ Nxf6 16.Nf3 is less committal) 15...Bxc7 16.Nxf7 Rxf7 17.Bxf7+ Qxf7 18.Qxc7 Nd5 19.Qd6 and with rook and two pawns for the two minor pieces, White should be doing fine) 6...Qe7 7.c4 c6 8.Nc3 0-0 9.cxd5 cxd5 10.dxe5 Nxe5 11.Nxd5 Nxd5 12.Qxd5 Be6 (12...Rd8!?) 13.Qd4 f6 14.Be2 Rfd8? (14...Rac8!?) 15.Qh4 Ng6 16.Qe4 and White had an extra pawn, Xiong-Gupta, Chess.com INT 2015.
+c21) 5.Nf3 Bd6 6.d4 (или 6.c4 dxc4 (6...c6 переходит к линиям, которые мы рассматривали после 3.e3) 7.Bxc4 0-0 8.Qc2 Qe7 9.Nc3 a5 10.b5 Nc5 11. d4 Ncd7, как в партии Poley-J.Akesson, Gothenburg 2004, и здесь белые могли рассмотреть 12.Ng5!? h6 13.Nd5 Qe8 14.dxe5 Bxe5 15.Nxc7!? (15.Nxf6+ Nxf6 16.Nf3 менее компромиссно) 15...Bxc7 16.Nxf7 Rxf7 17.Bxf7+ Qxf7 18.Qxc7 Nd5 19.Qd6 и с ладьей и двумя пешками за две второстепенные фигуры у белых все должно быть в порядке) 6...Qe7 7. c4 c6 8.Nc3 0-0 9.cxd5 cxd5 10.dxe5 Nxe5 11.Nxd5 Nxd5 12.Qxd5 Be6 (12...Rd8!?) 13.Qd4 f6 14.Be2 Rfd8? (14...Rac8!?) 15.Qh4 Ng6 16.Qe4 и у белых лишняя пешка, Xiong-Gupta, Chess.com INT 2015.
 
-c22) 5.c4, with another set of options:
+c22) 5.c4, с другим набором вариантов:
 
-c221) 5...a5 6.c5 g6 7.Nf3 e4 8.Nd4 Bg7 9.h3 Ne5 10.Be2 0-0 11.Nc3 Nh5 12.Qb3 axb4 13.axb4 Rxa1+ 14.Bxa1 c6 with chances to both sides, Feist Verhoeven-Pirs, Remote email 2012;
+c221) 5...a5 6.c5 g6 7.Nf3 e4 8.Nd4 Bg7 9.h3 Ne5 10.Be2 0-0 11.Nc3 Nh5 12.Qb3 axb4 13.axb4 Rxa1+ 14.Bxa1 c6 с шансами для обеих сторон, Feist Verhoeven-Pirs, Remote email 2012;
 
-c222) 5...c5 6.cxd5 cxb4 7.Nf3!? (I think this is better than 7.axb4 Bxb4 8.Nc3 (8.Bxe5!? can be considered) 8	0-0 9.Bc4 Nb6 10.Qb3 Bxc3 11.Bxc3 Nxc4 12.Qxc4 Nxd5 13.Bxe5 Be6 and White was in trouble, Vastrukhin-Zhurikhin, Voronezh 2010) 7	Bd6 8.axb4 Nxd5 9.b5 with a typical Orangutan position where I prefer White but where the chances are more or less even.
+c222) 5...c5 6.cxd5 cxb4 7.Nf3!? (думаю, это лучше, чем 7.axb4 Bxb4 8.Nc3 (можно рассмотреть 8.Bxe5!?) 8 0-0 9.Bc4 Nb6 10.Qb3 Bxc3 11.Bxc3 Nxc4 12.Qxc4 Nxd5 13.Bxe5 Be6 и у белых проблемы, Ваструхин-Журихин, Воронеж 2010) 7...Bd6 8.axb4 Nxd5 9.b5 с типичной позицией орангутанга, где я предпочитаю белых, но где шансы более или менее равны.
 
-c223) 5...c6 6.Qb3 (6.Nf3 transposes to the 3.e3 lines above) 6...a5 (6	Bd6!?) 7.cxd5 cxd5?! (7...Nxd5!?) 8.Nc3 axb4 9.axb4 Rxa1+ 10.Bxa1 d4 11.Bc4 Qe7 12.Nb5 dxe3 13.fxe3 Qxb4 14.Bxf7+ Kd8 15.Nf3 Ne4 16.0-0 Qxb3 17.Bxb3 is horrible for Black, Pasiev-Bivol, St Petersburg 2014.
+c223) 5...c6 6.Qb3 (6.Nf3 переходит к линии 3.e3 выше) 6...a5 (6 Bd6!?) 7.cxd5 cxd5?! (7...Nxd5!?) 8.Nc3 axb4 9.axb4 Rxa1+ 10. Bxa1 d4 11.Bc4 Qe7 12.Nb5 dxe3 13.fxe3 Qxb4 14.Bxf7+ Kd8 15.Nf3 Ne4 16.0-0 Qxb3 17.Bxb3 - ужасно для черных, Пасиев-Бивол, Санкт-Петербург 2014.
 
 **2...e4**
 
 ![](pics/pic-1-4.png)
 
-This move looks slightly ridiculous because it, without much justification, pushes the pawn forward into enemy territory, where it will soon need protection. At the same time, Black no longer threatens to capture on b4 because White will capture directly on g7. Of course, both of these «problems» are remedied through Black playing ...Nf6.
+Этот ход выглядит несколько нелепо, потому что он без особых оснований продвигает пешку вперед на территорию противника, где ей вскоре понадобится защита. В то же время, черные больше не угрожают взятием на b4, потому что белые возьмут непосредственно на g7. Конечно, обе эти "проблемы" решаются, если черные сыграют ...Nf6.
 
-A common beginner mistake is 2...Nc6? which loses a pawn after 3.b5 Surprisingly, in more than 10% of the games with Black playing the pawn-losing mistake, White fails to realize the opportunity to win material is there. (and plays 3.a3 or 3.e3) 3...Nd4 4.e3 and now the pawn on b5 is protected, and the knight is forced to move away from d4, allowing White to capture the e5–pawn next...
-4...Ne6 5.Bxe5. Against lower-rated players, I encountered this mistake several times. Rather interestingly, on lichess, I have seen games with players rated above 2600 make this mistake... We do not need to analyze this further as Black has lost a pawn without the shadow of compensation.
+Частой ошибкой новичков является 2...Nc6?, при этом пешка теряется после 3.b5 Удивительно, но более чем в 10% партий с ошибкой потери пешки черными, белые не понимают, что возможность выиграть материал существует. (и играют 3.a3 или 3.e3) 3...Nd4 4.e3, и теперь пешка на b5 защищена, а конь вынужден уйти с d4, позволяя белым взять пешку e5... 4...Ne6 5.Bxe5. Против игроков с более низким рейтингом я несколько раз сталкивался с этой ошибкой. Довольно интересно, что в шахматах я видел партии с игроками с рейтингом выше 2600, которые допускали эту ошибку... Нам не нужно анализировать это дальше, так как черные потеряли пешку без тени компенсации.
 
-A) Another try is 2...d5 3.Bxe5, and now 3...Nc6
+A) Другая попытка - 2...d5 3.Bxe5, а теперь 3...Nc6
 
 ![](pics/pic-1-5.png)
 
