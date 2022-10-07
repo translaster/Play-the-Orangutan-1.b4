@@ -73,30 +73,29 @@ A) Другая попытка - 2...d5 3.Bxe5, а теперь 3...Nc6
 
 ![](pics/pic-1-5.png)
 
-(3...f6?! should not be played as 4.Bc3 d4 5.Bb2 Bxb4 6.Bxd4 Qxd4 7.c3 gives White a clear advantage) 4.Bb2 Nxb4 5.a3 Nc6 (Another try is the peculiar-looking 5...Na6 6.e3 Nc5 (Black aims to control the e4–square with his knights) 7.Nf3 c6 8.d4 (8.Be2 to keep d2–d4 in reserve is also entirely possible) 8...Ne4 9.Bd3 Ngf6 10.0-0 Bd6 11.Ne5 Qb6 12.Qc1 Qc7 13.Nd2 Nxd2 14.Qxd2 Ne4 (14...Be6 15.f4 gives White something resembling a Colle Attack where White has exchanged the b-pawn for Black’s e-pawn, something that does not happen in Colle; I think White chances are preferable) 15.Qe2 and with the option of breaking with c2–c4, White has the somewhat better chances, Hess-Yordanova, ICCF email 2018) 6.e3 Nf6 7.Nf3, and here Black has tried several of alternatives:
+(3...f6?! не следует играть, так как 4.Bc3 d4 5.Bb2 Bxb4 6.Bxd4 Qxd4 7.c3 дает белым явное преимущество) 4.Bb2 Nxb4 5.a3 Nc6 (Еще одна попытка - своеобразная 5...Na6 6. e3 Nc5 (черные стремятся контролировать клетку e4 своими конями) 7.Nf3 c6 8.d4 (8.Be2, чтобы держать d2-d4 в резерве, тоже вполне возможно) 8...Ne4 9.Bd3 Ngf6 10.0-0 Bd6 11.Ne5 Qb6 12.Qc1 Qc7 13.Nd2 Nxd2 14.Qxd2 Ne4 (14...Be6 15.f4 дает белым нечто, напоминающее атаку Колле, где белые разменяли пешку b на пешку e черных, чего не происходит в Колле; я думаю, шансы белых предпочтительнее) 15.Qe2 и с возможностью разрыва c2-c4 у белых несколько лучшие шансы, Хесс-Йорданова, ICCF email 2018) 6.e3 Nf6 7.Nf3, и здесь черные попробовали несколько альтернатив:
 
-a) 7...Be7 8.c4 0-0 9.cxd5 Nxd5 10.d4 and White has an extra pawn in the center and better chances.
+a) 7...Be7 8.c4 0-0 9.cxd5 Nxd5 10.d4 и у белых лишняя пешка в центре и лучшие шансы.
 
-b) 7...Na5!?, making it more difficult for White to play c2–c4 and thus preventing the direct exchange of another of Black’s central pawns 8.d3 Be7 9.c4 0-0 (9...dxc4 10.Qa4+ c6 11.dxc4 0-0 12.Nbd2 is probably also close to even though I prefer White’s position) 10.cxd5 (or 10.Qc2 c5 11.Be2 with about even chances) 10...Qxd5 (10...Nxd5!? may improve) 11.Nc3 Qh5 12.d4 Be6 13.Be2 Nc4 14.Qc2 Qa5 15.0-0 Nxb2 16.Qxb2 with a small plus for White who has a nice center whereas Black has the bishop pair, Myrberg-Rohde, Poland 2001.
+б) 7...Na5!?, затрудняя белым игру c2-c4 и тем самым предотвращая прямой размен еще одной центральной пешки черных 8.d3 Be7 9.c4 0-0 (9...dxc4 10.Qa4+ c6 11.dxc4 0-0 12.Nbd2, вероятно, тоже близко к тому, хотя позиция белых мне больше нравится) 10. cxd5 (или 10.Qc2 c5 11.Be2 с примерно равными шансами) 10...Qxd5 (10...Nxd5!? может улучшить) 11.Nc3 Qh5 12.d4 Be6 13.Be2 Nc4 14.Qc2 Qa5 15.0-0 Nxb2 16.Qxb2 с небольшим плюсом для белых, у которых хороший центр, тогда как у черных слоновая пара, Мирберг-Роде, Польша 2001.
 
-c) 7...Bd6 (the natural square for the bishop) but 8.c4 0-0 9.d4 Bf5 10.Nbd2 Re8 11.Be2 a6 12.0-0 Rb8 13.Rc1 dxc4 14.Nxc4 and with his extra central pawn, White has the better chances, Poschmann- J.Rodriguez, IECC email 2003.
+в) 7...Bd6 (естественная клетка для слона), но 8.c4 0-0 9.d4 Bf5 10.Nbd2 Re8 11.Be2 a6 12.0-0 Rb8 13.Rc1 dxc4 14.Nxc4 и с лишней центральной пешкой у белых лучшие шансы, Пошманн - Х.Родригез, IECC email 2003.
 
-B) 2...Qf6?! The queen is poorly placed on this square, but it is not an outright mistake, nor does it lose material. 3.Nf3 Nc6 4.b5 Nd4 5.Nxd4 exd4 6.c3!? Bc5 7.cxd4 Bxd4 8.Bxd4 Qxd4 9.Nc3 White has a clear advantage thanks to a small lead in development, the ability to quickly mobilize the remainder of the pieces to start creating threats.
+B) 2...Qf6?! Ферзь плохо расположен на этой клетке, но это не является явной ошибкой и не приводит к потере материала. 3.Nf3 Nc6 4.b5 Nd4 5.Nxd4 exd4 6.c3!? Bc5 7.cxd4 Bxd4 8.Bxd4 Qxd4 9.Nc3 У белых явное преимущество благодаря небольшому перевесу в развитии, возможности быстро мобилизовать оставшиеся фигуры и начать создавать угрозы.
 
-C) 2...Qe7!? Another peculiar-looking move, but this move makes a lot more sense than the
-previously covered queen move. 3.b5 d5!
+C) 2...Qe7!? Еще один необычный на вид ход, но этот ход имеет гораздо больше смысла, чем ранее рассмотренный ход ферзем. 3.b5 d5!
 
 ![](pics/pic-1-6.png)
 
-(Best! A player named Ziese has instead opted for 3...f5 instead, for instance, 4.e3 Nf6 5.Be2 d6 6.c4, and we have reached some kind of English Opening where Black has spent time on the unproductive ...Qe7 and White has the better chances. If Black wanted this kind of set-up, then 1.b4 e5 2.Bb2 d6 followed by ...f7–f5 is a better choice. 3...Qb4?! Black should not play this. 4.Bxe5 d6 5.Bc3 Qxb5 6.Nf3 gives White a pleasant edge due to Black’s vulnerable queen) 4.e3 Nf6 5.Nf3 e4 6.Nd4 a6 7.a4 axb5 (or 7...c5 8.bxc6 bxc6 9.Nb3 c5 10.d3 where Black has invested a lot of time in pushing pawns but is actually doing rather well) 8.axb5 Rxa1 9.Bxa1 Nbd7 10.d3 Qe5 11.Nd2 with chances to both sides. Black has to be on the alert to various discovered threats against the queen on e5, but otherwise, Black is doing okay. 2...Bd6 Another ridiculous-looking move, but the idea is to scoot the bishop back to c7 after playing ...c7–c6. 3.c4 c6 4.Nf3 Qe7 5.a3 Nf6 (or 5...Bc7 6.e3 d6 7.d4 e4 8.Nfd2 f5 9.Be2 Nd7 10.Nc3 and White is marginally better, but, of course, Black’s position is entirely playable) 6.e3 Bc7 7.Nc3 (or 7.d4 d6 (7...e4!?) 8.Be2 0-0 9.Nc3 Nbd7 10.d5 and White has a small plus; Black has opted for some sort of Old Indian style set-up where the queen on e7 and the bishop on c7 have switched places, Schulze-Just, Nuremberg 2003) 7...0-0 8.Qc2 d6 9.Be2 Re8 10.0- 0, and White has no more than a tiny plus.
+(Лучше всего! Игрок по фамилии Зис вместо 3...f5 выбрал, например, 4.e3 Nf6 5.Be2 d6 6.c4, и мы достигли некоего подобия английского дебюта, где черные потратили время на непродуктивное ...Qe7, а у белых лучшие шансы. Если бы черным нужна была такая расстановка, то 1.b4 e5 2.Bb2 d6 с последующим ...f7-f5 - лучший выбор. 3...Qb4?! Черным не следует так играть. 4.Bxe5 d6 5.Bc3 Qxb5 6.Nf3 дает белым приятный перевес за счет уязвимого ферзя черных) 4.e3 Nf6 5.Nf3 e4 6.Nd4 a6 7.a4 axb5 (или 7...c5 8.bxc6 bxc6 9.Nb3 c5 10. d3, где черные потратили много времени на продвижение пешки, но на самом деле все идет довольно хорошо) 8.axb5 Rxa1 9.Bxa1 Nbd7 10.d3 Qe5 11.Nd2 с шансами для обеих сторон. Черные должны быть начеку в связи с различными обнаруженными угрозами против ферзя на е5, но в остальном у черных все в порядке. 2...Bd6 Еще один нелепый на вид ход, но идея в том, чтобы отбросить слона на с7 после игры ...c7-c6. 3.c4 c6 4.Nf3 Qe7 5.a3 Nf6 (или 5...Bc7 6.e3 d6 7.d4 e4 8.Nfd2 f5 9.Be2 Nd7 10.Nc3 и у белых незначительно лучше, но, конечно, позиция черных вполне играбельна) 6.e3 Bc7 7.Nc3 (или 7.d4 d6 (7...e4!??) 8.Be2 0-0 9.Nc3 Nbd7 10.d5 и у белых небольшой плюс; черные выбрали что-то вроде староиндийской расстановки, где ферзь на e7 и слон на c7 поменялись местами, Шульце-Юст, Нюрнберг 2003) 7...0-0 8.Qc2 d6 9.Be2 Re8 10.0- 0, и у белых не более чем крошечный плюс.
 
-**3.c4 Nf6 4.a3**
+**3.c4 Nf6 4.a3**.
 
-White should avoid in this particular position, for example, 4.b5?! a6 5.a4 d5 6.cxd5 (or 6.e3?! Nbd7 7.cxd5 Nxd5 and Black has a good game; the d3–square can quickly become a problem after ...Nb4 and ...Nc5) 6...Nbd7 7.Nc3 Nc5 8.g3 Bf5 9.Bg2 Qd7 and Black has a good position, where White is somewhat cramped. The development of the remaining pieces is far from simple.
+В данной конкретной позиции белым следует избегать, например, 4.b5?! a6 5.a4 d5 6.cxd5 (или 6.e3?! Nbd7 7.cxd5 Nxd5 и у черных хорошая игра; клетка d3 может быстро стать проблемой после ...Nb4 и ...Nc5) 6...Nbd7 7.Nc3 Nc5 8.g3 Bf5 9.Bg2 Qd7 и у черных хорошая позиция, где белым несколько тесно. Развитие остальных фигур далеко не простое.
 
 **4...a5**
 
-Black is trying to force White to play b4–b5 to provide Black with access to the c5–square. An alternative is 4...c6 5.e3 d5 6.cxd5 (or 6.Nc3 Be7 7.Nge2 dxc4 8.Nd4 Nbd7 9.Bxc4 with an interesting position where both sides have a share of the chances) 6...cxd5 7.Bb5+ Nc6 8.Ne2 (or 8.d3 a5) 8...Bd6 9.d3 0-0 10.dxe4 dxe4 11.Bxc6 bxc6 12.Nd2 a5 13.Nc4 Bc7 with about equal chances.
+Черные пытаются вынудить белых сыграть b4-b5, чтобы обеспечить черным доступ к клетке c5. Альтернативой является 4...c6 5.e3 d5 6.cxd5 (или 6.Nc3 Be7 7.Nge2 dxc4 8.Nd4 Nbd7 9.Bxc4 с интересной позицией, где обе стороны имеют долю шансов) 6...cxd5 7.Bb5+ Nc6 8.Ne2 (или 8.d3 a5) 8...Bd6 9.d3 0-0 10.dxe4 dxe4 11.Bxc6 bxc6 12.Nd2 a5 13.Nc4 Bc7 с примерно равными шансами.
 
 **5.b5**
 
@@ -104,34 +103,35 @@ Black is trying to force White to play b4–b5 to provide Black with access to t
 
 **5...d5**
 
-Two alternatives are 5...Be7 6.e3 0-0 7.d4 c6 8.d5 cxd5 9.Nc3 d6 10.Nxd5 Nxd5 11.Qxd5 Bf6 12.Rb1 Bxb2 13.Rxb2 Qf6 14.Qd4 with a position that is objectively even as seen in Kural-J.Jensen, ICCF email 2018. 5...Bc5 6.e3 0-0 7.Nc3 Re8 8.Nge2 d6 9.Ng3 Nbd7 10.Qc2 Qe7 11.Be2 c6 as played in Lapshun-Papp, Budapest 2007, and now 12.0-0 would have been comfortably better for White.
+Две альтернативы - 5...Be7 6.e3 0-0 7.d4 c6 8.d5 cxd5 9.Nc3 d6 10.Nxd5 Nxd5 11.Qxd5 Bf6 12.Rb1 Bxb2 13.Rxb2 Qf6 14.Qd4 с объективно ровной позицией, как показано в партии Курал-Дж.Дженсен, ICCF email 2018. 5...Bc5 6.e3 0-0 7.Nc3 Re8 8.Nge2 d6 9.Ng3 Nbd7 10.Qc2 Qe7 11.Be2 c6 в партии Лапшун - Папп, Будапешт 2007, и теперь 12.0-0 было бы комфортно лучше для белых.
 
-**6.e3 Nbd7 7.cxd5 Nxd5**
+**6.e3 Nbd7 7.cxd5 Nxd5**.
 
-Also, 7...Nc5 has been tried: 8.Nc3 Bf5 9.Bc4 Nfd7 10.Na4 Qg5 11.Kf1 h5 12.Nxc5 Bxc5 13.Qc2 Nb6 14.h4 Qg6 was Muri-Tsygankov, ICCF email 2012, and here 15.Bb3 Bd6 16.a4 would have given White a small plus, but it is clear that Black has decent compensation for the sacrificed pawn.
+Также было опробовано 7...Nc5: 8.Nc3 Bf5 9.Bc4 Nfd7 10.Na4 Qg5 11.Kf1 h5 12.Nxc5 Bxc5 13.Qc2 Nb6 14.h4 Qg6 - Мури-Цыганков, ICCF email 2012, и здесь 15.Bb3 Bd6 16.a4 дало бы белым небольшой плюс, но ясно, что у черных достойная компенсация за пожертвованную пешку.
 
-**8.d3 exd3 9.Bxd3 Nc5 10.Bc2!?**
+**8.d3 exd3 9.Bxd3 Nc5 10.Bc2!**
 
-This is better than 10.Be2 Bf5 11.Nf3 Nb6, which is fine for Black.
+Это лучше, чем 10.Be2 Bf5 11.Nf3 Nb6, что вполне устраивает черных.
 
-**10...Qd7 11.Qe2**
+**10...Qd7 11.Qe2**.
 
 ![](pics/pic-1-8.png)
 
-White protects the b5–pawn without allowing Black access to the b4–square and prepares the development of the remaining pieces.
-11...Bd6 12.Nd2 0-0 13.Rd1 Nb6 14.Ngf3 and White had a pleasant position in Kural-Selen, ICCF email 2016.
+Белые защищают пешку b5, не давая черным доступа к клетке b4 и подготавливают развитие остальных фигур.
 
-**The Magnus Method**
+**11...Bd6 12.Nd2 0-0 13.Rd1 Nb6 14.Ngf3** и у белых приятная позиция в Курал-Селен, ICCF email 2016.
+
+**Метод Магнуса**
 
 **1.b4 e5 2.Bb2 Bxb4 3.Bxe5 Nf6 4.c3**
 
 ![](pics/pic-1-9.png)
 
-While this move is not new, the concept introduced by Magnus Carlsen in this variation is. White voluntarily hands over his bishop pair; in return, he gets a strong center. It is difficult for Black to use the bishop pair because the center is closed, and White decides when it should be opened. Also, with Black’s dark-squared bishop staring at a wall of white pawns on dark squares, sometimes c3–d4–e3– f2–g3–h2(or -h4), it is not a very good piece, and Black often struggles to figure out what to do with it.
+Хотя этот ход не является новым, концепция, представленная Магнусом Карлсеном в этом варианте, является новой. Белые добровольно отдают свою слоновую пару; взамен они получают сильный центр. Черным трудно использовать пару слонов, потому что центр закрыт, и белые решают, когда его открывать. Кроме того, если чернопольный слон черных смотрит на стену белых пешек на темных клетках, иногда c3-d4-e3-f2-g3-h2 (или -h4), это не очень хорошая фигура, и черные часто пытаются понять, что с ней делать.
 
 **4...Be7**
 
-Black has several alternatives that we need to discuss at this point:
+У черных есть несколько альтернатив, которые мы должны обсудить на данном этапе:
 
 a) 4...Ba5!?
 

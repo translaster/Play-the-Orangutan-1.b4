@@ -112,30 +112,31 @@ g) 7...Qe7 8.0-0 Nc6 9.b5 Nd8 10.Nc3 Re8 11.Nd5 Nxd5 12.cxd5 Bd7 13.a4!? (это
 
 **8...Nbd7**
 
-Natural and consistent with a King’s Indian set-up. Nevertheless, Black has tried several other things in this position:
+Естественно и соответствует индийской расстановке короля. Тем не менее, в этой позиции черные пробовали и несколько других вариантов:
 
-a) 8...e4 in contrast to 7...e4, White welcomes this option for Black, for instance, 9.dxe4 Nxe4 10.Bxg7 Kxg7 11.0-0 Qf6 12.Nd4 Nd7 13.Bf3!? (or 13.f3 Nec5 14.Nc3 Nb6 15.Qd2 (15.Rc1!?) 15...Be6 16.Nxe6+?! Qxe6 and Black had already developed a small plus in Svidler-Nepomniachtchi, chess24.com INT 2020) 13...Ndc5 14.Nd2 Nxd2 15.Qxd2 and White has some pressure and the slightly better chances.
+a) 8...e4 в отличие от 7...e4, белые приветствуют этот вариант за черных, например, 9.dxe4 Nxe4 10.Bxg7 Kxg7 11.0-0 Qf6 12.Nd4 Nd7 13.Bf3!? (или 13.f3 Nec5 14.Nc3 Nb6 15.Qd2 (15.Rc1!?) 15...Be6 16.Nxe6+?! Qxe6 и черные уже развили небольшой плюс в партии Свидлер - Непомнящий, chess24.com INT 2020) 13...Ndc5 14.Nd2 Nxd2 15.Qxd2 и у белых некоторое давление и чуть лучшие шансы.
 
-b) 8...b6 9.Nc3! (9.Nbd2?! Bb7 10.Qc2 Nbd7 11.0-0 Qe7 12.Rfe1 Rae8 13.Rad1 Nh5 14.Nb1 f5 and here Black was already putting pressure on White, Poley-P.H.Nielsen, Aaland/Stockholm 1997) 9...Re8 10.Qc2 Bb7 11.0-0 Nbd7 12.d4 Rc8 13.Rad1 and White is command.
+b) 8...b6 9.Nc3! (9.Nbd2?! Bb7 10.Qc2 Nbd7 11.0-0 Qe7 12.Rfe1 Rae8 13.Rad1 Nh5 14.Nb1 f5 и здесь черные уже оказывали давление на белых, Поли-Нильсен, Ааланд/Стокгольм 1997) 9...Re8 10.Qc2 Bb7 11.0-0 Nbd7 12.d4 Rc8 13.Rad1 и белые командуют.
 
-c) 8...Re8 9.Nc3 e4 10.Nd4 exd3 (if 10...c5 11.bxc6 bxc6? (this natural recapture is a clear-cut mistake, instead 11...exd3 12.Qxd3 Nxc6 13.Ncb5 and White is in command) 12.dxe4 a4 13.Rb1 Qc7 14.0-0 Nxe4 15.Nxe4 Rxe4 16.Bf3 Re8 17.Nb5 and White was already winning, Khurtsidze- Videnova, Plovdiv 2014) 11.Qxd3 Nbd7 12.0-0 Nc5 13.Qc2 Ne6 14.Nxe6 (also 14.Nf3 Nc5 15.Rad1 b6 16.Nd4 Bb7 17.Bf3 Bxf3 18.Nxf3 Nce4 19.Rfe1 with a small plus for White could be considered, Hasangatin-Mrva, Piestany 2005) 14...Bxe6 15.Rad1 c6 (15...Qe7 16.Na4 Bf5 17.Qc1 b6 18.Bd4 and White has more space and the easier position to play) 16.h3 with nice pressure for White.
+c) 8...Re8 9.Nc3 e4 10.Nd4 exd3 (если 10...c5 11.bxc6 bxc6? (этот естественный захват - явная ошибка, вместо этого 11...exd3 12.Qxd3 Nxc6 13.Ncb5 и белые командуют) 12. dxe4 a4 13.Rb1 Qc7 14.0-0 Nxe4 15.Nxe4 Rxe4 16.Bf3 Re8 17.Nb5 и белые уже выигрывали, Хурцидзе - Виденова, Пловдив 2014) 11.Qxd3 Nbd7 12.0-0 Nc5 13. Qc2 Ne6 14.Nxe6 (также можно рассмотреть 14.Nf3 Nc5 15.Rad1 b6 16.Nd4 Bb7 17.Bf3 Bxf3 18.Nxf3 Nce4 19.Rfe1 с небольшим плюсом для белых, Хасангатин - Мрва, Пьештяны 2005) 14...Bxe6 15.Rad1 c6 (15...Qe7 16.Na4 Bf5 17.Qc1 b6 18.Bd4 и у белых больше пространства и легче позиция для игры) 16.h3 с хорошим давлением для белых.
 
-d) 8...a4 9.0-0 Nbd7 10.Ba3!? (if 10.a3, then 10...Nc5 11.Nbd2 Re8 12.Qc2 Bf5 13.Rad1 c6 and Black had a pleasant position, Anastasian-I.Gurevich, Glendale 1994) 10...e4 11.Nd4 exd3 12.Qxd3 Nc5 13.Qc2 Nfe4 14.Nd2 Ng5 15.Rad1 Qe7 16.Nb1 and I prefer White’s position s there are several weaknesses in Black’s position to play against.
+d) 8...a4 9.0-0 Nbd7 10.Ba3!? (если 10.a3, то 10...Nc5 11.Nbd2 Re8 12.Qc2 Bf5 13.Rad1 c6 и у черных выгодная позиция, Анастасян-И.Гуревич, Глендейл 1994) 10...e4 11.Nd4 exd3 12. Qxd3 Nc5 13.Qc2 Nfe4 14.Nd2 Ng5 15.Rad1 Qe7 16.Nb1 и я предпочитаю позицию белых, так как в позиции черных есть несколько слабостей, против которых можно играть.
+
 
 **9.0-0 Re8 10.Nc3 Nc5 11.Rc1**
 
-White can also try 11.Qc2 e4 12.dxe4 Nfxe4 13.Nxe4 Nxe4 14.Bxg7 Kxg7 15.Nd2 Nxd2 16.Qxd2 was played in Lenderman-Chigaev, chess24.com INT 2020; White seems to have a little pressure, but it is nothing too serious for Black.
+Белые также могут попробовать 11.Qc2 e4 12.dxe4 Nfxe4 13.Nxe4 Nxe4 14.Bxg7 Kxg7 15.Nd2 Nxd2 16.Qxd2 было сыграно в партии Лендерман - Чигаев, chess24.com INT 2020; белые, похоже, имеют небольшое давление, но ничего слишком серьезного для черных.
 
 **11...a4**
 
-11...e4 12.Nxe4! (this is much better than 12.Ne1 Bf5 13.Ba1 h5 14.h3 b6 15.dxe4 Nfxe4 16.Nxe4 Bxe4 17.Bxg7 when a draw was agreed upon, ½–½, Hasangatin-Mrva, Zvolen 2008, but Black is doing reasonably well at this point) 12...Nfxe4 13.Bxg7 Kxg7 14.dxe4 Rxe4 15.Nd2 (15.Nd4!?) 15...Re8 16.Nb1 followed by Nc3 and White has the better chances.
+11...e4 12.Nxe4! (это гораздо лучше, чем 12.Ne1 Bf5 13.Ba1 h5 14.h3 b6 15.dxe4 Nfxe4 16.Nxe4 Bxe4 17.Bxg7, когда была согласована ничья, ½-½, Хасангатин - Мрва, Зволен 2008, но у черных на данный момент все достаточно хорошо) 12. ...Nfxe4 13.Bxg7 Kxg7 14.dxe4 Rxe4 15.Nd2 (15.Nd4!?) 15...Re8 16.Nb1 с последующим Nc3 и у белых лучшие шансы.
 
 **12.Ba3 e4**
 
 ![](pics/pic-4-6.png)
 
-**13.Nd4!?**
+**13.Nd4! **.
 
-В недавнем чемпионате мира белые вместо этого пошли на 13.dxe4 Nfxe4 14.Nxe4 Nxe4 15.Nd4 h5 16.Bf3 Qg5 17.Bxe4 Rxe4 18.Nf3 Qd8 (черные могли улучшить путем 18...Qf5 19.Qd5; или 18...Qf6!? 19.h3) 19.Qd5 Re8, как сыграно в партии Андрейкин - Ивич, Красная Поляна 2021, а здесь 20.Ng5 Qd7 21.h4 и у белых небольшой плюс.
+В недавнем чемпионате мира белые вместо этого пошли на 13.dxe4 Nfxe4 14.Nxe4 Nxe4 15.Nd4 h5 16.Bf3 Qg5 17.Bxe4 Rxe4 18.Nf3 Qd8 (черные могли улучшить путем 18. ...Qf5 19.Qd5; или 18...Qf6!? 19.h3) 19.Qd5 Re8, как сыграно в партии Андрейкин - Ивич, Красная Поляна 2021, а здесь 20.Ng5 Qd7 21.h4 и у белых небольшой плюс.
 
 **13...exd3 14.Bxd3 Bg4 15.Be2 Bxe2 16.Ndxe2 h5 17.Qc2 Qe7 18.h3** и у белых небольшой перевес благодаря пространственному преимуществу.
