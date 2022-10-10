@@ -137,83 +137,84 @@ a) 4...Ba5!?
 
 ![](pics/pic-1-10.png)
 
-Considering the headaches Black occasionally face, when the bishop ends up on f6, this bishop retreat makes some sense, but this is only so if Black makes a concerted effort to find a use for it on the diagonal because sometimes it is just looking foolish on b6, staring at White pawns on d4–e3–f2, and being in a worse position than on f6. Now White has a few options:
+Учитывая головную боль, с которой иногда сталкиваются черные, когда слон оказывается на f6, такое отступление слона имеет определенный смысл, но это только в том случае, если черные прилагают целенаправленные усилия, чтобы найти ему применение на диагонали, потому что иногда он просто выглядит глупо на b6, глядя на белые пешки на d4-e3-f2, и находясь в худшей позиции, чем на f6. Теперь у белых есть несколько вариантов:
 
-a1) 5.Qa4!? Nc6 6.e3 d6 7.Bg3 Qe7 8.Bb5 Bd7 9.Nf3 Bb6 10.d4 Ne4 11.Qc2, and the chances are close to even, but his bishop on b6 looks quite ridiculous.
+a1) 5.Qa4!? Nc6 6.e3 d6 7.Bg3 Qe7 8.Bb5 Bd7 9.Nf3 Bb6 10.d4 Ne4 11.Qc2, и шансы близки к равным, но его слон на b6 выглядит довольно нелепо.
 
-a2) 5.g3?! is a move that I have played on several occasions myself. Still, if Black follows up accurately, he gets a reasonable position where White has plenty of opportunities to go wrong. 5...0-0 (or the normal 5...d5 6.Bxf6 Qxf6 7.Bg2 Be6 8.e3 c6 9.Ne2 Nd7 10.d4 0-0 11.0-0 Bf5 12.Nd2 Rfe8 13.Re1 g5 14.Qc1 (or 14.Nb3 Bc7 and Black is ready to attack on the kingside) 14...Rac8 15.Qb2 a6 16.Nc1 c5 and Black has no reason to complain) 6.Bxf6 Qxf6 7.Nf3 Re8 8.Bg2 c5! (Making it difficult for White to play the desired d2–d4 and giving purpose to the bishop on a5, which, if all else fails, can slide back to c7) 9.0-0 Nc6 10.d4 (10.e3 d5 11.d4 Bg4 is annoying for White) 10...b6 and White has a hard time hanging on to his nice center; this line is the reason why I have stopped playing 5.g3.
+a2) 5.g3?! - ход, который я сам неоднократно играл. Тем не менее, если черные точно выполнят его, то получат разумную позицию, в которой у белых будет много возможностей ошибиться. 5...0-0 (или обычное 5...d5 6.Bxf6 Qxf6 7.Bg2 Be6 8.e3 c6 9.Ne2 Nd7 10.d4 0-0 11.0-0 Bf5 12.Nd2 Rfe8 13.Re1 g5 14.Qc1 (или 14. Nb3 Bc7 и черные готовы к атаке на королевском фланге) 14...Rac8 15.Qb2 a6 16.Nc1 c5 и у черных нет причин жаловаться) 6.Bxf6 Qxf6 7.Nf3 Re8 8.Bg2 c5! (затрудняя белым желанное d2-d4 и давая цель слону на a5, который, в случае неудачи, может отступить на c7) 9.0-0 Nc6 10.d4 (10.e3 d5 11.d4 Bg4 раздражает белых) 10...b6 и белым трудно удержать свой хороший центр; эта линия - причина, по которой я перестал играть 5.g3.
 
-a3) 5.e3!? 0-0 (If 5...Nc6 then 6.Bxf6 Qxf6 7.Nf3 Ne7 8.d4 0-0 9.Bd3), and here:
+a3) 5.e3!? 0-0 (если 5...Nc6, то 6.Bxf6 Qxf6 7.Nf3 Ne7 8.d4 0-0 9.Bd3), и здесь:
 
-a31) 6.Qa4! (This queen move is better than the alternatives) 6...Nc6 7.Bxf6 (of course, White can also retreat with the bishop to g3, but I feel this is not ideal because White will struggle with than bishop if Black plays something like ...d7–d5, ...Ne4, followed by, at some point, ...h7–h5–h4, e.g., 7.Bg3 d5 8.Be2 Re8 9.Nf3 Ne4 10.0-0 a6 11.Rc1 h5 and Black has the initiative) 7...Qxf6 8.Nf3
+a31) 6.Qa4! (этот ход ферзем лучше альтернатив) 6...Nc6 7.Bxf6 (конечно, белые могут отступить со слоном на g3, но мне кажется, что это неидеально, потому что белым будет трудно справиться со слоном, если черные сыграют что-то вроде ...d7-d5, ...Ne4, после чего в какой-то момент последует ...h7-h5-h4, например, 7.Bg3 d5 8.Be2 Re8 9.Nf3 Ne4 10.0-0 a6 11.Rc1 h5 и инициатива у черных) 7...Qxf6 8.Nf3
+
 
 ![](pics/pic-1-11.png)
 
-8...d5 (8...Qg6!? is interesting when White can consider 9.h4!? h6 10.h5 Qf5 11.Na3 Bb6 12.Nc4 Bc5 13.d4 d5 14.Ncd2 Bd6 with a position that is probably more or less equal; note how many moves Black have used on the dark-squared bishop, f8–b4–a5–b6–c5–d6, while White has spent a few moves to get the b1–knight to d2 via a3–c4) 9.d4 Bf5 10.Bb5 Bb6! (tempting but terrible is 10...Bxb1 11.Rxb1 Bxc3+ when Black has won a pawn, with a check(!), for the time being, but the bishop on c3 is in serious trouble: 12.Ke2 a5 13.a3 Na7 14.Qb3 Bb4 15.Bd3 Bd6 16.Qxd5 and White has a clear advantage) 11.0-0 Rfd8 12.Nbd2 Ne7 13.Be2 with a position that the computer assesses as approximately equal, but the computer really likes the bishop pair and routinely overestimates those bishops’ value. I like White’s position slightly more.
+8...d5 (8...Qg6!? интересно, когда белые могут рассмотреть 9.h4!? h6 10.h5 Qf5 11.Na3 Bb6 12.Nc4 Bc5 13.d4 d5 14. Ncd2 Bd6 с позицией, вероятно, более или менее равной; обратите внимание, сколько ходов черные использовали для чернопольного слона, f8-b4-a5-b6-c5-d6, в то время как белые потратили несколько ходов, чтобы перевести коня b1 на d2 через a3-c4) 9.d4 Bf5 10.Bb5 Bb6! (заманчиво, но ужасно 10...Bxb1 11.Rxb1 Bxc3+, когда черные выиграли пешку, с шахом(!), на время, но слон на c3 в серьезной беде: 12.Ke2 a5 13.a3 Na7 14.Qb3 Bb4 15.Bd3 Bd6 16. Qxd5 и у белых явное преимущество) 11.0-0 Rfd8 12.Nbd2 Ne7 13.Be2 с позицией, которую компьютер оценивает как примерно равную, но компьютеру очень нравится пара слонов и он регулярно переоценивает ценность этих слонов. Мне позиция белых нравится чуть больше.
 
-a32) 6.Bxf6?! Qxf6 7.Nf3 d5 8.Be2 c5 9.0-0 Bc7 10.d4 c4 11.Nbd2 (an improvement over 11.Na3? a6 12.Nc2 Bf5 13.Nd2 b5 14.Bf3 Qd6 15.g3 Ba5 where Black has a massive advantage in Lebel- Gluckman, Bled 2002) 11...Qe7 12.Qb1 a6 13.a4 f5 and White has a passive and depressing position.
+a32) 6.Bxf6?! Qxf6 7.Nf3 d5 8.Be2 c5 9.0-0 Bc7 10.d4 c4 11.Nbd2 (улучшение по сравнению с 11.Na3? a6 12.Nc2 Bf5 13.Nd2 b5 14.Bf3 Qd6 15.g3 Ba5, где у черных огромный перевес в Лебель - Глюкман, Блед 2002) 11...Qe7 12.Qb1 a6 13.a4 f5 и у белых пассивная и унылая позиция.
 
-a33) 6.Qf3 Ne8! 7.c4 c5 8.Bc3 Nc6! and Black has a lead in development and the overall better position.
+a33) 6.Qf3 Ne8! 7.c4 c5 8.Bc3 Nc6! и у черных перевес в развитии и в целом лучшая позиция.
 
-b) 4...Nc6 is an interesting move that I have faced a couple of times, but White can reach a good position with accurate play, something I could not figure out until I had analyzed it more carefully: 5.d4!?
+b) 4...Nc6 - интересный ход, с которым я сталкивался пару раз, но белые могут достичь хорошей позиции при точной игре, чего я не мог понять, пока не проанализировал более тщательно: 5.d4!?
 
 ![](pics/pic-1-12.png)
 
-(I think this is best but also 5.Bxf6 is playable, e.g., 5...Qxf6 6.Nf3 d5 7.d4 Ba5 8.e3 Bf5 9.Bd3 0-0-0 10.Bxf5+ (10.0-0?! g5 gives Black the initiative) 10...Qxf5 11.a4 (the cheeky 11.Ke2 may, in fact, be better) 11...g5 12.Ra2 h5 13.Qc2 Qd7 14.Nbd2 with a sharp position and chances to both sides) 5...Ba5 (if 5...Be7 6.Bxf6 Bxf6 7.e3 d5, we are entering positions that White is striving for and that are covered below under 4...Be7) 6.Bxf6 Qxf6 7.e3, and now there are several options for Black:
+(Я думаю, что это лучше всего, но можно было сыграть и 5.Bxf6, например, 5...Qxf6 6.Nf3 d5 7.d4 Ba5 8.e3 Bf5 9.Bd3 0-0-0 10.Bxf5+ (10.0-0?! g5 дает черным инициативу) 10...Qxf5 11.a4 (наглое 11.Ke2 может, на самом деле, быть лучше) 11...g5 12.Ra2 h5 13.Qc2 Qd7 14.Nbd2 с острой позицией и шансами для обеих сторон) 5. ...Ba5 (если 5...Be7 6.Bxf6 Bxf6 7.e3 d5, то мы попадаем в позиции, к которым стремятся белые и которые рассматриваются ниже под 4...Be7) 6.Bxf6 Qxf6 7.e3, и теперь у черных есть несколько вариантов:
 
 ![](pics/pic-1-13.png)
 
-b1) 7...d5 8.Bd3 Be6 9.Ne2 0-0-0 10.Nd2 g5 11.Nb3 Bb6 12.a4 when I prefer White, but the chances are objectively more or less equal.
+b1) 7...d5 8.Bd3 Be6 9.Ne2 0-0-0 10.Nd2 g5 11.Nb3 Bb6 12.a4, когда я предпочитаю белых, но шансы объективно более-менее равны.
 
-b2) 7...0-0 8.Bd3 Re8 (or 8...d5 9.Ne2 Ne7 10.Qc2 with an interesting fight ahead, but I prefer White’s position thanks to the extra central pawn) 9.Ne2 d5 10.Qc2! g6 (the other pawn push is almost certainly wrong, for instance, 10...h6?! 11.0-0 Be6 12.Nd2 Rad8 13.Ng3 g6 14.f4! (White achieves less with 14.e4 dxe4 15.Ndxe4 Qg7 when White’s position is no more than marginally better, Hebels-Oomen, Netherlands 1990) 14...Ne7 15.f5 Bxf5 16.Nxf5 Nxf5 17.Bxf5 gxf5 18.Nb3 and White has a clear advantage) 11.0-0 Bd7 12.Nd2 Ne7 was played in Hebels-Abels, Netherlands 1989, and here 13.a4 c6 14.e4 and White has the initiative.
+b2) 7...0-0 8.Bd3 Re8 (или 8...d5 9.Ne2 Ne7 10.Qc2 с интересной борьбой впереди, но я предпочитаю позицию белых благодаря лишней центральной пешке) 9.Ne2 d5 10.Qc2! g6 (натиск другой пешки почти наверняка ошибочен, например, 10...h6?! 11.0-0 Be6 12.Nd2 Rad8 13.Ng3 g6 14.f4! (белые добиваются меньшего 14.e4 dxe4 15.Ndxe4 Qg7, когда позиция белых не более чем незначительно лучше, Гебельс-Оомен, Нидерланды 1990) 14...Ne7 15.f5 Bxf5 16.Nxf5 Nxf5 17. Bxf5 gxf5 18.Nb3 и у белых явный перевес) 11.0-0 Bd7 12.Nd2 Ne7 было сыграно в Гебельс-Абельс, Нидерланды 1989, и здесь 13.a4 c6 14.e4 и инициатива у белых.
 
-b3) 7...h5 8.Bd3 d5 9.Ne2 h4 10.h3 with about equal chances.
+b3) 7...h5 8.Bd3 d5 9.Ne2 h4 10.h3 с примерно равными шансами.
 
-c) 4...Bc5?! makes less sense as it assists White in getting what he wants while not accomplishing anything in its own right, e.g., 5.Bxf6 (or 5.d4 Be7 6.e3 d5 7.Bxf6 Bxf6 8.Ne2 c6 9.Nf4 Bg5 10.Nd3 Bf5 11.Be2 Nd7 12.Nd2 0-0 13.0-0 and White has a pleasant position) 5...Qxf6 6.e3 d5 7.d4 Be7 8.Nd2 c6 9.Bd3 (also 9.g3 can be played, for example, 9...b5 10.Bg2 Nd7 11.Ngf3 (or 11.Ne2 Nb6 12.0-0 0-0 13.e4 with a position that the computer assesses as equal but in praxis, Black has a difficult position to play) 11...0-0 12.0-0 Nb6 13.Ne5 and White has the initiative) 9	0-0 10.Ne2 Rd8 11.0-0 and White has obtained the kind of position that is being strived for in this line.
+c) 4...Bc5?! имеет меньше смысла, так как помогает белым получить желаемое, но ничего не дает само по себе, например, 5.Bxf6 (или 5.d4 Be7 6.e3 d5 7.Bxf6 Bxf6 8.Ne2 c6 9.Nf4 Bg5 10.Nd3 Bf5 11.Be2 Nd7 12.Nd2 0-0 13.0-0 и у белых приятная позиция) 5. ...Qxf6 6.e3 d5 7.d4 Be7 8.Nd2 c6 9.Bd3 (также можно сыграть 9.g3, например, 9...b5 10.Bg2 Nd7 11.Ngf3 (или 11.Ne2 Nb6 12.0-0 0-0 13.e4 с позицией, которую компьютер оценивает как равную, но на практике черным трудно играть) 11...0-0 12.0-0 Nb6 13.Ne5 и инициатива у белых) 9 0-0 10.Ne2 Rd8 11.0-0 и белые получили ту позицию, к которой стремятся в этой линии.
 
 ![](pics/pic-1-14.png)
 
 **5.e3**
 
-The text move has been played Magnus himself, whereas I have given preference to 5.g3, and now we have a few options to look at for Black:
+Данный ход сыграл сам Магнус, тогда как я отдал предпочтение 5.g3, и теперь у нас есть несколько вариантов для черных:
 
-a) 5...d5 6.Bxf6 (it is less accurate to play 6.Bg2?! due to 6...Nbd7 because after 7.Bxf6, Black can recapture with the knight when I think Black has the better chances 7...Nxf6) 6...Bxf6 7.e3 (7.d4 c5 8.e3 usually transposes) 7...Nd7 8.d4 Nb6 9.Bg2 0-0 10.Ne2 c6 11.Nd2 Be7 12.0-0 Bd6 13.a4 a5 14.Qc2 h5 15.Rfb1 (15.h4!?) 15...h4 16.gxh4 (in an online game between two strong young players from India, White played the natural but bad 16.e4? and after 16...dxe4 17.Nxe4 Bc7, Black was clearly better, even if White later managed to turn the game around, Gukesh-Vishnu, Tornelo INT 2021) 16...Re8 17.Ng3 Bc7 18.h5 and here White has the better chances.
+a) 5...d5 6.Bxf6 (менее точно играть 6.Bg2?! из-за 6...Nbd7, так как после 7.Bxf6 черные могут перехватить коня, когда я считаю, что у черных лучшие шансы 7. ...Nxf6) 6...Bxf6 7.e3 (7.d4 c5 8.e3 обычное перемещение (?)) 7...Nd7 8.d4 Nb6 9.Bg2 0-0 10.Ne2 c6 11.Nd2 Be7 12.0-0 Bd6 13.a4 a5 14.Qc2 h5 15.Rfb1 (15.h4!?) 15. ..h4 16.gxh4 (в онлайн партии между двумя сильными молодыми игроками из Индии, белые сыграли естественное, но плохое 16.e4? и после 16...dxe4 17.Nxe4 Bc7, у черных положение было явно лучше, даже если белым впоследствии удалось переломить ход, Гукеш-Вишну, Торнело INT 2021) 16...Re8 17.Ng3 Bc7 18.h5 и здесь у белых лучшие шансы.
 
-b) Black can also force the immediate departure of the dark-squared bishop with 5...Nc6 6.Bxf6 Bxf6 7.Bg2 0-0 8.e3 Na5 9.Ne2 d5 10.0-0 Bf5 11.d4 c6 12.Nd2, and here:
+b) Черные также могут вынудить немедленный уход чернопольного слона путем 5...Nc6 6.Bxf6 Bxf6 7.Bg2 0-0 8.e3 Na5 9.Ne2 d5 10.0-0 Bf5 11.d4 c6 12.Nd2, и здесь:
 
 ![](pics/pic-1-15.png)
 
-b1) 12...Re8 13.Re1 Rc8 14.Rc1 b5 15.Nf4 g6 16.e4 (interestingly, both 16.a4!? and 16.h4 are decent ideas for White) 16...dxe4 17.Nxe4 Bg7 18.Nc5 Qd6 19.Qf3 (this improves over 19.Nfd3 Nc4 20.a4 Rxe1+ 21.Qxe1 as played in an online game, where 21...a5 would have given Black a comfortable edge) 19...Rxe1+ 20.Rxe1 Nc4 21.g4 followed by h2–h4–h5 and White is command.
+b1) 12...Re8 13.Re1 Rc8 14.Rc1 b5 15.Nf4 g6 16.e4 (интересно, что и 16.a4!? и 16.h4 - достойные идеи для белых) 16...dxe4 17.Nxe4 Bg7 18.Nc5 Qd6 19.Qf3 (это улучшает 19.Nfd3 Nc4 20.a4 Rxe1+ 21.Qxe1, как было сыграно в сетевой партии, где 21...a5 дало бы черным комфортный перевес) 19...Rxe1+ 20.Rxe1 Nc4 21.g4 с последующим h2-h4-h5 и белые командуют.
 
-b2) 12...h6 13.Nf4 (a high-rated online game saw White continue in a less accurate fashion: 13.Rc1?! b5 14.e4 dxe4 15.Nxe4 Be7 16.Nc5 Bxc5 17.dxc5 Bd3 18.Re1 Bxe2 19.Rxe2 Qxd1+ 20.Rxd1 Rad8 21.Rxd8 Rxd8 22.Bf3?! (22.Re7 is best) 22...Rd3?? (22...Kf8 is best) 23.Re8+ Kh7 24.Be4+, and Black resigned) 13...Re8 14.h4! (14.Qa4?! b5 15.Qd1 Nc4 16.Nxc4 bxc4 was played in an online game that White won, but at this point, Black is doing very well with the control over the b1–square and ability to use the b-file) 14...Qd7 15.Re1 Be7 16.e4 and White has the initiative.
+b2) 12...h6 13.Nf4 (в высокорейтинговой сетевой партии белые продолжали менее аккуратно: 13.Rc1?! b5 14.e4 dxe4 15.Nxe4 Be7 16.Nc5 Bxc5 17.dxc5 Bd3 18.Re1 Bxe2 19.Rxe2 Qxd1+ 20.Rxd1 Rad8 21.Rxd8 Rxd8 22.Bf3?! (22.Re7 лучше) 22...Rd3??? (лучше 22...Kf8) 23.Re8+ Kh7 24.Be4+, и черные сдались) 13...Re8 14.h4! (14.Qa4?! b5 15.Qd1 Nc4 16.Nxc4 bxc4 было сыграно в онлайн партии, которую выиграли белые, но на данный момент у черных все очень хорошо с контролем над клеткой b1 и возможностью использовать поле(?) b ) 14...Qd7 15.Re1 Be7 16.e4 и белые владеют инициативой.
 
-c) 5...0-0 6.Bxf6 (White has to pay attention, for instance, 6.Bg2?! can be met by 6...Ng4!? 7.Bf4 g5 8.Be3 with a ridiculous position for White) 6...Bxf6 7.Bg2 c5 8.e3 d5 9.d4 Nc6 10.Ne2 (10.Nd2 Re8 11.Ne2 transposes) 10...Bg4 11.a4 Rc8 (or 11...h5!? 12.0-0 Re8 13.Ra2 h4 and Black has good position) 12.0-0 Qd7 13.a5 Bd8 and Black has a comfortable game.
+c) 5...0-0 6.Bxf6 (белые должны быть внимательны, например, на 6.Bg2?! можно ответить 6...Ng4!? 7.Bf4 g5 8.Be3 со смешной позицией для белых) 6...Bxf6 7.Bg2 c5 8.e3 d5 9.d4 Nc6 10.Ne2 (10.Nd2 Re8 11.Ne2 перемещает(?)) 10...Bg4 11.a4 Rc8 (или 11...h5!? 12.0-0 Re8 13.Ra2 h4 и у черных хорошая позиция) 12.0-0 Qd7 13.a5 Bd8 и у черных комфортная игра.
 
-d) 5...c5 6.e3 Nc6 7.Bxf6 Bxf6 8.Bg2 d5 9.d4 0-0 transposes.
+d) 5...c5 6.e3 Nc6 7.Bxf6 Bxf6 8.Bg2 d5 9.d4 0-0 перемещает(?).
 
-I am less convinced by 5.d4 0-0 6.Nf3 d5 7.e3 (or 7.Bxf6 Bxf6 8.e3 c5) 7...Nbd7 8.Bd3 Nxe5 9.dxe5 Ne4 10.Qc2 f5 11.0-0 Nc5 12.Rd1 Bd7 (or 12...Qe8 13.Bf1 c6 14.c4 dxc4 15.Bxc4+ Kh8 16.Nd4 and here a draw was agreed upon, ½–½, in Vidonyak-Sadewasser, Germany 2007; according to the computer, the chances are about even) 13.Nbd2 Qe8 14.Nb3 Nxd3 15.Qxd3 c6 16.Nbd4 Rd8 17.a4 f4 with interesting position where both sides have chances, Stefanov-Mlynareik, ICCF email 2008.
+Меня меньше убеждает 5.d4 0-0 6.Nf3 d5 7.e3 (или 7.Bxf6 Bxf6 8.e3 c5) 7...Nbd7 8.Bd3 Nxe5 9.dxe5 Ne4 10.Qc2 f5 11.0-0 Nc5 12.Rd1 Bd7 (или 12...Qe8 13.Bf1 c6 14.c4 dxc4 15.Bxc4+ Kh8 16. Nd4 и здесь была согласована ничья, ½-½, в партии Видоняк - Садевассер, Германия 2007; согласно компьютеру, шансы примерно равны) 13.Nbd2 Qe8 14.Nb3 Nxd3 15.Qxd3 c6 16.Nbd4 Rd8 17.a4 f4 с интересной позицией, где шансы есть у обеих сторон, Стефанов - Млынарейк, ICCF email 2008.
 
 ![](pics/pic-1-16.png)
 
 **5...c5!?**
 
-Knowing that White will want to play d2–d4, Nakamura challenges the center in anticipation of this. However, there are some important alternatives to consider at this point:
+Зная, что белые захотят сыграть d2-d4, Накамура в ожидании этого бросает вызов центру. Однако в этот момент необходимо рассмотреть несколько важных альтернатив:
 
-a) 5...0-0 6.d4 c5 7.Ne2 (if 7.Bxf6 Bxf6 8.Bd3, then Black has the additional option of playing 8...b6 9.Ne2) 7...Nc6 8.Bxf6 Bxf6 9.g3 d5 10.Bg2 (if 10.Nd2 Re8 11.Bg2 then 11...cxd4 12.cxd4 Bxd4 13.Nxd4 Nxd4 14.0-0 Nc6 15.Nb3 Be6 and Black has won a pawn and while White has some compensation, Black is definitely having the better chances) 10...Bg4 11.a4 Re8 (or 11...Rc8 12.0-0 Re8 13.Ra2 Qd7 14.a5 Bd8 15.a6 bxa6 and Black has equalized) 12.Ra2 cxd4 13.cxd4 Qa5+ 14.Qd2 Nb4 15.Rb2 Be7 16.Nbc3 Rac8 with chances to both sides.
+a) 5...0-0 6.d4 c5 7.Ne2 (если 7.Bxf6 Bxf6 8.Bd3, то у черных есть дополнительная возможность сыграть 8...b6 9.Ne2) 7...Nc6 8.Bxf6 Bxf6 9.g3 d5 10.Bg2 (если 10.Nd2 Re8 11.Bg2, то 11...cxd4 12.cxd4 Bxd4 13.Nxd4 Nxd4 14.0-0 Nc6 15.Nb3 Be6 и черные выиграли пешку, и хотя у белых есть некоторая компенсация, шансы у черных явно лучше) 10...Bg4 11.a4 Re8 (или 11...Rc8 12.0-0 Re8 13.Ra2 Qd7 14.a5 Bd8 15.a6 bxa6 и черные уравняли) 12.Ra2 cxd4 13.cxd4 Qa5+ 14.Qd2 Nb4 15.Rb2 Be7 16.Nbc3 Rac8 с шансами для обеих сторон.
 
-b) 5...Nc6 6.Bxf6 Bxf6 7.d4 d5, and now White has a couple of options:
+b) 5...Nc6 6.Bxf6 Bxf6 7.d4 d5, и теперь у белых есть пара вариантов:
 
-b1) 8.Bd3 0-0 9.Ne2 Re8 10.0-0 g6 (10...Bg5?! to prevent the knight from jumping to f4, but it fails to convince us about its viability: 11.h3 Qd6 12.Qc2 g6 13.Nd2 b6 14.e4 dxe4 15.Nxe4 Qe7 16.Nxg5 Qxg5 17.f4 and White has a strong initiative and the better chances, P.Stefanov-Mrkvicka, ICCF email 2008) 11.Nd2 Ne7 12.Nf4 c6 13.Rb1 Qc7 14.Qf3 Bg5 15.g4!? (A fascinating idea; natural but less accurate is 15.Rfc1 Bxf4 16.exf4 Bf5 17.g3 Bxd3 18.Qxd3 Nf5 19.Re1 Qd7 20.Nf1 Nd6 21.Nd2 and here a draw was agreed upon, ½–½, in Blechar-Cross, ICCF email 2007, but Black has the better pawn structure and the advantage) 15...f5 16.h3 Rf8 17.Rfe1 fxg4 (interestingly, if Black plays 17...Bxf4?, the problems are much bigger than they first appear, for instance, 18.Qxf4 Qxf4? 19.exf4 Re8 20.g5 which is very bad for Black, bordering on losing) 18.hxg4 Qd7 19.Nf1 Qxg4+ 20.Qxg4 Bxg4 21.Rxb7 and White has the initiative but Black should be okay.
+b1) 8.Bd3 0-0 9.Ne2 Re8 10.0-0 g6 (10...Bg5?! чтобы предотвратить прыжок коня на f4, но это не убеждает нас в его жизнеспособности: 11.h3 Qd6 12.Qc2 g6 13.Nd2 b6 14.e4 dxe4 15. Nxe4 Qe7 16.Nxg5 Qxg5 17.f4 и у белых сильная инициатива и лучшие шансы, П.Стефанов-Мрквичка, ICCF email 2008) 11.Nd2 Ne7 12.Nf4 c6 13.Rb1 Qc7 14.Qf3 Bg5 15.g4!?? (увлекательная идея; естественным, но менее точным является 15.Rfc1 Bxf4 16.exf4 Bf5 17.g3 Bxd3 18.Qxd3 Nf5 19.Re1 Qd7 20.Nf1 Nd6 21.Nd2 и здесь была согласована ничья, ½-½, в партии Блехар-Кросс, электронная почта ICCF 2007, но у черных лучшая пешечная структура и преимущество) 15. ..f5 16.h3 Rf8 17.Rfe1 fxg4 (интересно, что если черные играют 17...Bxf4?, то проблем гораздо больше, чем кажется на первый взгляд, например, 18.Qxf4 Qxf4? 19.exf4 Re8 20.g5, что очень плохо для черных, граничит с проигрышем) 18.hxg4 Qd7 19.Nf1 Qxg4+ 20.Qxg4 Bxg4 21.Rxb7 и инициатива у белых, но черные должны быть в порядке.
 
 b2) 8.Nd2 0-0 9.Bd3 Ne7 10.Ne2!
 
 ![](pics/pic-1-17.png)
 
-10...b6 (or 10...g6 11.Rb1 c5 12.0-0 Qc7 13.Re1 Rd8 with approximately equal chances, but here White went a little bonkers and went aggressive with 14.e4 cxd4 15.cxd4 dxe4 16.Nxe4 Bg7 17.Qb3 Nd5 18.Ng5 h6 19.Bc4 hxg5 (19...Bf5!?) 20.Bxd5 Bf5 and Black has the marginally better chances, P.Stefanov-Parushev, ICCF email 2008) 11.0-0 c5 12.a4 g6 13.Nf4 Rb8 14.Qf3 with a position that I find easier to play for White; the mostly fixed center makes the value of Black’s bishop pair significantly less.
+10...b6 (или 10...g6 11.Rb1 c5 12.0-0 Qc7 13.Re1 Rd8 с примерно равными шансами, но здесь белые немного сошли с ума и пошли агрессивным путем 14.e4 cxd4 15.cxd4 dxe4 16.Nxe4 Bg7 17.Qb3 Nd5 18.Ng5 h6 19.Bc4 hxg5 (19...Bf5!?) 20. Bxd5 Bf5 и у черных незначительно лучшие шансы, П.Стефанов-Парушев, ICCF email 2008) 11.0-0 c5 12.a4 g6 13.Nf4 Rb8 14.Qf3 с позицией, которую мне легче играть за белых; в основном фиксированный центр делает ценность слоновой пары черных значительно меньшей.
 
-c) 5...d6 does not make too much sense, e.g., 6.Bxf6 Bxf6 7.g3 0-0 8.Bg2 c6 9.Ne2 Nd7 10.d4 when White has the slightly better chances thanks to the extra central pawn.
+c) 5...d6 не имеет особого смысла, например, 6.Bxf6 Bxf6 7.g3 0-0 8.Bg2 c6 9.Ne2 Nd7 10.d4, когда у белых чуть лучшие шансы благодаря лишней центральной пешке.
 
-d) 5...d5 tends to transpose to other lines. The immediate threat is ...Nbd7, allowing Black to recapture with the knight on f6, when White plays Bxf6 and, therefore, White’s next move is a given: 6.Bxf6 Bxf6 7.d4 0-0 8.Bd3 c5 9.Ne2 g6 10.0-0 Nc6 with approximately equal chances; my preferred continuation is now 11.a4 Qd6 12.Nd2 b6.
+d) 5...d5 имеет тенденцию переходить в другие линии. Непосредственной угрозой является ...Nbd7, позволяя черным перехватить коня на f6, когда белые играют Bxf6 и, следовательно, следующий ход белых является само собой разумеющимся: 6.Bxf6 Bxf6 7.d4 0-0 8.Bd3 c5 9.Ne2 g6 10.0-0 Nc6 с примерно равными шансами; сейчас я предпочитаю продолжение 11.a4 Qd6 12.Nd2 b6.
 
 ![](pics/pic-1-18.png)
 
@@ -223,16 +224,15 @@ d) 5...d5 tends to transpose to other lines. The immediate threat is ...Nbd7, al
 
 **7...b6?!**
 
-Black aims to play on the light squares in White’s position, a natural consequence of White putting all his pawns on dark squares and developing the bishop to g2. An alternative is 7	0-0 8.Ne2 d5 9.d4 Nc6 10.h3 (stopping the pin on g4; Black seems to have a good position after 10.Bg2 Bg4 11.a4 Rc8) 10...Re8 (10	Qa5 11.Nd2 cxd4 12.Nb3 Qa3 13.cxd4 Nb4 14.Bg2 with more or less equal chances)
-11.Bg2 b6 12.0-0 Ba6 13.Re1 and here Black can enter the forced sequence 13...Bxe2 14.Rxe2 cxd4 15.cxd4 Nxd4 16.exd4 Rxe2 17.Qxe2 Bxd4 18.Nc3 Bxc3, winning a pawn, but White should not lose after 19.Rd1 Qe8 20.Qg4.
+Черные стремятся играть на светлых полях в позиции белых, что является естественным следствием того, что белые ставят все свои пешки на темные поля и развивают слона на g2. Альтернативой является 7.0-0 8.Ne2 d5 9.d4 Nc6 10.h3 (останавливая пешку(?) на g4; кажется, что у черных хорошая позиция после 10.Bg2 Bg4 11.a4 Rc8) 10...Re8 (10 Qa5 11.Nd2 cxd4 12.Nb3 Qa3 13.cxd4 Nb4 14.Bg2 с более или менее равными шансами) 11.Bg2 b6 12.0-0 Ba6 13.Re1 и здесь черные могут ввести форсированную последовательность 13...Bxe2 14.Rxe2 cxd4 15.cxd4 Nxd4 16.exd4 Rxe2 17.Qxe2 Bxd4 18.Nc3 Bxc3, выигрывая пешку, но белые не должны проигрывать после 19.Rd1 Qe8 20.Qg4.
 
 **8.Bg2 Nc6 9.d4**
 
-The more modest 9.Ne2 is also an option as long as White does not allow Black to put a minor piece on d3, for instance, 9...d5 10.0-0 0-0 11.Nf4 Ne7 12.Qf3 (12.d4 is also fine) 12...Bb7 13.d4 Bg5 14.Nd3 and White has a pleasant position and perhaps somewhat better chances.
+Более скромное 9.Ne2 также является вариантом, если белые не позволяют черным поставить второстепенную фигуру на d3, например, 9...d5 10.0-0 0-0 11.Nf4 Ne7 12.Qf3 (12.d4 также хорошо) 12...Bb7 13.d4 Bg5 14.Nd3 и у белых приятная позиция и, возможно, несколько лучшие шансы.
 
-**9...Ba6 10.Ne2 0-0 11.0-0 Re8 12.Re1**
+**9...Ba6 10.Ne2 0-0 11.0-0 Re8 12.Re1**.
 
-White can also play 12.Nd2!? Rc8 13.Re1, transposing back into our main line.
+Белые также могут сыграть 12.Nd2!? Rc8 13.Re1, возвращаясь к нашей главной линии.
 
 **12...Rc8**
 
@@ -240,14 +240,14 @@ White can also play 12.Nd2!? Rc8 13.Re1, transposing back into our main line.
 
 **13.Nd2**
 
-Here Magnus Carlsen played less accurately with 13.a3?!, allowing Nakamura a tactic that he would never miss: 13...Bxe2 14.Rxe2 cxd4 15.cxd4 Nxd4 16.exd4 Rxe2 17.Qxe2 Bxd4 18.Ra2 Rc1+ 19.Bf1 Rxb1, and while Black has two extra pawns at this point, White secured a draw without too many headaches, Carlsen-Nakamura, chess24.com INT 2021.
+Здесь Магнус Карлсен сыграл менее точно 13.a3?!, предоставив Накамуре тактику, которую тот никогда не упустит: 13...Bxe2 14.Rxe2 cxd4 15.cxd4 Nxd4 16.exd4 Rxe2 17.Qxe2 Bxd4 18.Ra2 Rc1+ 19.Bf1 Rxb1, и хотя у черных в этот момент две лишние пешки, белые добились ничьей без лишней головной боли, Карлсен-Накамура, chess24.com INT 2021.
 
-**13...cxd4 14.cxd4**
+**13...cxd4 14.cxd4**.
 
-White could also play 14.exd4 d5 15.Nf1 with chances to both sides.
+Белые могли также сыграть 14.exd4 d5 15.Nf1 с шансами для обеих сторон.
 
 **14...Nb4 15.Qa4 Be7 16.Be4 Bd3 17.Bxd3 Nxd3 18.Rf1**
 
 ![](pics/pic-1-21.png)
 
-And according to the computer, the chances are about even, but White has the better pawn structure.
+И, согласно компьютеру, шансы примерно равны, но у белых лучшая пешечная структура.
