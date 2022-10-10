@@ -1,32 +1,32 @@
-# Chapter 5: Grünfeld Indian Set-ups
+# Глава 5: Индийские расстановки Грюнфельда
 
-Several lines transpose to other openings, some classified as the English Opening, and some are, technically speaking, a Grünfeld proper. The lines in this chapter have in other works often been covered together with the King’s Indian lines, but since they are quite distinctive and very Grünfeld - like, it makes sense to cover them separately. Nevertheless, I have chosen quite rare lines but offer White excellent chances to play for an advantage.
+Некоторые позиции переходят в другие дебюты, некоторые классифицируются как английский дебют, а некоторые, технически говоря, являются собственно грюнфельдовскими. Позиции, приведенные в этой главе, в других работах часто рассматривались вместе с индийскими позициями, но поскольку они весьма своеобразны и очень похожи на Грюнфельда, имеет смысл рассказать о них отдельно. Тем не менее, я выбрал довольно редкие позиции, но при этом дающие белым отличные шансы на преимущество.
 
-**1.b4 Nf6 2.Bb2 g6**
+**1.b4 Nf6 2.Bb2 g6**.
 
-Another move order is 2...d5 3.e3 g6 4.Nf3 Bg7 5.c4 dxc4 (both 5...0-0 and 5...c6 will take us to lines that are covered below) 6.Bxc4 0-0 7.0-0 Nbd7 (or 7...c6 8.a4 Nbd7 9.d4 Nd5 10.b5 N7b6 11.Be2 cxb5 12.axb5 Bg4 13.Nbd2 h6 14.h3 Be6 15.Nb3 Nf6 16.Nc5 and White has a large advantage, Känel-Z.Ilic, Bern 1989) 8.d4 b6 9.Qe2 c6 10.a4 Nd5 11.b5 was played in Känel-Gheorghiu, Lenk 1995, and here the players settled for a draw, ½–½, but White is already comfortably better, for instance, 11...Bb7 12.bxc6 Bxc6 13.e4 Nc7 14.Rc1 Bb7 15.h4 Nf6 16.Nbd2 and it is obvious that Black has a miserable position.
+Другой порядок ходов: 2...d5 3.e3 g6 4.Nf3 Bg7 5.c4 dxc4 (и 5...0-0, и 5...c6 ведут нас к позициям, которые будут рассмотрены ниже) 6.Bxc4 0-0 7.0-0 Nbd7 (или 7...c6 8.a4 Nbd7 9.d4 Nd5 10.b5 N7b6 11.Be2 cxb5 12.axb5 Bg4 13.Nbd2 h6 14.h3 Be6 15.Nb3 Nf6 16.Nc5 и у белых большой перевес, Кэнел-З.Илич, Бёрн 1989) 8.d4 b6 9.Qe2 c6 10.a4 Nd5 11.b5 было сыграно в партии Кэнель-Георгиу, Ленк 1995, и здесь игроки довольствовались ничьей, ½-½, но у белых уже комфортно лучше, например, 11...Bb7 12.bxc6 Bxc6 13.e4 Nc7 14.Rc1 Bb7 15.h4 Nf6 16.Nbd2 и очевидно, что у черных жалкая позиция.
 
 **3.c4 Bg7 4.Nf3 0-0**
 
-4...c6 5.e3 0-0 transposes to 4...0-0 5.e3 c6.
+4...c6 5.e3 0-0 перекликается с 4...0-0 5.e3 c6.
 
 **5.e3 d5**
 
-Another Grunfeld Indian set-up is 5...c6, aiming for a Schlechter Variation type of set-up.
+Другая индийская расстановка Грюнфельда - 5...c6, нацеленная на расстановку типа вариации Шлехтера.
 
 ![](pics/pic-5-1.png)
 
-A) 6.d4!? takes the game into lines that are classified as an English Opening. Now 6...d5 7.a4!?
+A) 6.d4!? переводит игру в позиции, которые классифицируются как английский дебют. Теперь 6...d5 7.a4!?
 
-White has two alternatives that numerous strong players have played many times, 7.Nbd2 and 7.Nc3, but I do not think they offer White anything. Therefore, I recommend this four-pawn queenside attack, a specialty of the Swiss international master Hansjürg Känel.
+У белых есть две альтернативы, которые многие сильные игроки играли много раз, 7.Nbd2 и 7.Nc3, но я не думаю, что они что-то предлагают белым. Поэтому я рекомендую эту атаку ферзевого фланга с четырьмя пешками, специализацию швейцарского международного мастера Хансюрга Кенеля.
 
-Objectively speaking, Black should be able to equalize. Still, my experience is that Black’s position is not as easy to play as White’s, giving us an excellent opportunity to outplay Black even when Black plays the best continuation.
+Объективно говоря, черные должны быть в состоянии уравнять. Тем не менее, мой опыт показывает, что позиция черных не так проста, как позиция белых, что дает нам прекрасную возможность переиграть черных, даже когда они играют лучшее продолжение.
 
-Despite White’s continuation being relatively rare, Black has tried a few different things in this position:
+Несмотря на то, что продолжение белых встречается относительно редко, черные в этой позиции пробовали несколько разных вещей:
 
 ![](pics/pic-5-2.png)
 
-a) 7...Bf5 8.a5!? (untried; the more common option is 8.Nbd2!? Nbd7 (8...Ne4 9.Be2 Nxd2 10.Qxd2 dxc4 11.Bxc4 Be4 12.Qe2 Nd7 13.0-0 and White had more space and the slightly better chances, Ulanov-Korniushin, Ekaterinburg 2013) 9.Be2 Ne4 (after 9...a5 I prefer 10.b5 cxb5 11.axb5 dxc4 12.Nxc4 for White) 10.0-0
+a) 7...Bf5 8.a5!? (не опробовано; более распространенный вариант - 8.Nbd2!? Nbd7 (8...Ne4 9.Be2 Nxd2 10.Qxd2 dxc4 11.Bxc4 Be4 12.Qe2 Nd7 13.0-0 и у белых было больше пространства и чуть лучшие шансы, Уланов-Корнюшин, Екатеринбург 2013) 9.Be2 Ne4 (после 9...a5 я предпочитаю 10.b5 cxb5 11.axb5 dxc4 12.Nxc4 за белых) 10.0-0
 
 ![](pics/pic-5-3.png)
 
