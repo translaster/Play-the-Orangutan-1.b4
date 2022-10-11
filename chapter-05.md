@@ -30,39 +30,37 @@ a) 7...Bf5 8.a5!? (не опробовано; более распростран�
 
 ![](pics/pic-5-3.png)
 
-and now 10...Nxd2 (10...Re8 11.cxd5! cxd5 12.Nxe4 Bxe4 13.Qb3 Rc8 14.Rac1 Nf6 15.Ne5 Bf5 16.f3 and the French #1 was clearly struggling as Black, So-Vachier Lagrave, Chess.com INT 2017; 10...Ndf6 11.a5! or 11.b5!?, in both cases White has the initiative) 11.Nxd2 e5 12.cxd5 cxd5 13.dxe5 Nxe5 14.Bd4 Re8 was Morovic Fernandez-Darcyl, Buenos Aires 2017, and now 15.Nb3 Rc8 16.Ra2 Qc7 17.Qa1 would White would have had an edge) 8...Ne4 9.Qb3 Na6 10.Nc3 (White can also consider 10.cxd5 Qxd5 11.Bc4 Qd6 12.Ra4 with an interesting position) 10...Nxc3 11.Bxc3 Be4 12.h4!? (a fun alternative to 12.Be2 dxc4 13.Bxc4 Bxf3 14.gxf3 with chances to both sides) 12...dxc4 13.Bxc4 Nc7 14.h5 Qd7 15.Rh4 and while the chances are more or less even, we are having fun.
+и теперь 10...Nxd2 (10...Re8 11.cxd5! cxd5 12.Nxe4 Bxe4 13.Qb3 Rc8 14.Rac1 Nf6 15.Ne5 Bf5 16.f3 и француз №1 явно боролся черными, Со-Вашье Лаграв, Chess.com INT 2017; 10...Ndf6 11.a5! или 11.b5!?, в обоих случаях инициатива у белых) 11.Nxd2 e5 12.cxd5 cxd5 13. dxe5 Nxe5 14.Bd4 Re8 - Морович Фернандез - Дарсил, Буэнос-Айрес 2017, и теперь 15.Nb3 Rc8 16.Ra2 Qc7 17.Qa1 у белых был бы перевес) 8. ...Ne4 9.Qb3 Na6 10.Nc3 (белые также могут рассмотреть 10.cxd5 Qxd5 11.Bc4 Qd6 12.Ra4 с интересной позицией) 10...Nxc3 11.Bxc3 Be4 12.h4!? (забавная альтернатива 12.Be2 dxc4 13.Bxc4 Bxf3 14.gxf3 с шансами для обеих сторон) 12...dxc4 13.Bxc4 Nc7 14.h5 Qd7 15.Rh4 и пока шансы более-менее равны, мы развлекаемся.
 
-b) 7...Bg4 8.Nbd2 a5 9.b5 dxc4 10.Bxc4 cxb5 11.Bxb5 Nc6 12.0-0 Rc8 13.h3 and White has a pleasant advantage with an extra central pawn, M.Richter-Krefenstein, Berlin 2014.
+b) 7...Bg4 8.Nbd2 a5 9.b5 dxc4 10.Bxc4 cxb5 11.Bxb5 Nc6 12.0-0 Rc8 13.h3 и у белых приятное преимущество с лишней центральной пешкой, М.Рихтер-Крефенштейн, Берлин 2014.
 
-c) 7...Nbd7 8.Nbd2 (or 8.Nc3 a5 9.b5 c5 10.Nxd5 Nxd5 11.cxd5 Nb6 12.e4 e6 13.d6 cxd4 14.e5 f6 15.Bxd4 fxe5 16.Bxe5 Bxe5 17.Nxe5 Qh4 18.Nf3 Qb4+ 19.Qd2 is assessed as equal by my computer but I still think White has the better chances due to Black’s perforated pawn structure) 8...e5 (or 8...Re8 9.Be2 Ne4 10.0-0 (White achieves less with 10.Nxe4 dxe4 11.Nd2 e5 12.dxe5? (12.d5!? would have been a decent try for more; after the capture on e5, Black is simply better) 12...Nxe5 13.Nxe4 Bf5 14.Nd6 Nd3+ 15.Bxd3 Qxd6 16.Bxg7 Bxd3 17.Bc3 Rad8 with a clear advantage for Black, G.Szabo-Dragomirescu, Sarata Monteoru 2012) 10...Nxd2 11.Nxd2 e5 12.cxd5 cxd5 13.dxe5 Nxe5 14.Bd4 and White has a positional plus) 9.dxe5 Ng4 10.cxd5 (10.Bd4!?) 10...Ngxe5 11.Qb3 (11.Qc2!?) 11...a5 12.Be2 axb4 13.Qxb4 Nxf3+ 14.Nxf3 Bxb2 15.Qxb2 Qa5+
-16.Qd2 Qxd5 17.Qxd5 cxd5 18.Nd4 Nc5 19.Bb5 and White has at most a tiny plus on account of Black’s isolated d-pawn.
+c) 7...Nbd7 8.Nbd2 (или 8.Nc3 a5 9.b5 c5 10.Nxd5 Nxd5 11.cxd5 Nb6 12.e4 e6 13.d6 cxd4 14.e5 f6 15.Bxd4 fxe5 16.Bxe5 Bxe5 17.Nxe5 Qh4 18.Nf3 Qb4+ 19. Qd2 оценивается компьютером как равная, но я считаю, что у белых лучшие шансы из-за разреженной пешечной структуры черных) 8...e5 (или 8...Re8 9.Be2 Ne4 10.0-0 (белые добиваются меньшего при 10.Nxe4 dxe4 11.Nd2 e5 12.dxe5? (12.d5!? было бы приличной попыткой добиться большего; после взятия на e5 у черных просто лучше) 12...Nxe5 13.Nxe4 Bf5 14.Nd6 Nd3+ 15.Bxd3 Qxd6 16.Bxg7 Bxd3 17.Bc3 Rad8 с явным перевесом у черных, Г.Сзабо-Драгомиреску, Сарата Монтеору 2012) 10. ..Nxd2 11.Nxd2 e5 12.cxd5 cxd5 13.dxe5 Nxe5 14.Bd4 и у белых позиционный плюс) 9.dxe5 Ng4 10. cxd5 (10.Bd4!?) 10...Ngxe5 11.Qb3 (11.Qc2!?) 11...a5 12.Be2 axb4 13.Qxb4 Nxf3+ 14.Nxf3 Bxb2 15.Qxb2 Qa5+ 16.Qd2 Qxd5 17.Qxd5 cxd5 18.Nd4 Nc5 19.Bb5 и у белых лишь небольшой плюс за счет изолированной d-пешки черных.
 
-d) 7...a5 8.b5 cxb5 9.axb5 dxc4 10.Bxc4 b6? (this looks normal but leaves Black with a structural weakness on c6) 11.0-0 Bb7 12.Nbd2 Ne4 13.Nxe4 Bxe4 14.Ne5 Ra7 15.Qb3 with a clear advantage for White, Känel-Zollbrecht, Biel 2004.
+d) 7...a5 8.b5 cxb5 9.axb5 dxc4 10.Bxc4 b6? (это выглядит нормально, но оставляет черным структурную слабость на c6) 11.0-0 Bb7 12.Nbd2 Ne4 13.Nxe4 Bxe4 14.Ne5 Ra7 15.Qb3 с явным преимуществом белых, Кэнель-Зольбрехт, Биль 2004.
 
-e) 7...dxc4 8.Bxc4 a5 (if 8...Nd5 then 9.b5 a6 10.Nbd2 axb5 11.axb5 Rxa1 12.Qxa1 is better for White) 9.bxa5 Qxa5+ 10.Nbd2 c5 11.0-0 cxd4 12.Nxd4 Bd7 13.Nb5 and White has a small plus.
+e) 7...dxc4 8.Bxc4 a5 (если 8...Nd5, то 9.b5 a6 10.Nbd2 axb5 11.axb5 Rxa1 12.Qxa1 лучше у белых) 9.bxa5 Qxa5+ 10.Nbd2 c5 11.0-0 cxd4 12.Nxd4 Bd7 13.Nb5 и у белых небольшой плюс.
 
-B) White can also play the immediate 6.a4!? d5 7.Be2 dxc4 8.Bxc4 Bg4 9.0-0 with a comfortable position for White, who can decide to play d2–d4 sooner or later with a space advantage for White.
+B) Белые могут сыграть и немедленное 6.a4!? d5 7.Be2 dxc4 8.Bxc4 Bg4 9.0-0 с удобной позицией для белых, которые рано или поздно могут решиться на d2-d4 с пространственным преимуществом для белых.
 
-C) A far more common option is 6.Be2 d5 (another idea is 6...a5 7.b5 cxb5 8.cxb5 d5 (or 8...d6 9.0-0 Nbd7 10.d3 Nb6 11.a4 Nfd5 12.Qd2 Bxb2 13.Qxb2 Nb4 14.h3 and the chances are about even) 9.a4 (or 9.0-0!? Nbd7 10.d4 Nb6 11.Nbd2 Ne8 12.a4 Nd6 13.Rc1 f6 was played in McNab-Hennigan, Isle of Man 1993, and now 14.Ba3 would have given White pleasant advantage) 9...Ne4 10.Bxg7 Kxg7 11.Qb3 Qd6 12.Qb2+ Nf6 13.h3 Nbd7 14.0-0 and the chances are more or less equal) 7.cxd5 (7.0-0 is the main line move which has been played in more than 100 games and Black is probably doing fine after 7...dxc4 8.Bxc4 b5 9.Be2 a5; a fun alternative is 7.Na3 Bg4 8.h3 Bxf3 9.Bxf3 a5 10.b5 dxc4 11.bxc6 Nxc6 12.Nxc4 Rc8 was played in Kryakvin-Duzhakov, St Petersburg 2019, and now 13.Qb3 Nb4 14.d4 gives White a small advantage) 7...Nxd5 (if Black is playing to equalize then the recapture with the pawn is the better option, for instance, 7...cxd5 8.0-0 Bg4 9.a4 Nc6 10.b5 Na5 11.d3 when I prefer White but Black should not be worse) 8.Bxg7 Kxg7 9.Qc2 Kg8 10.a3 a5
-11.bxa5 Rxa5 12.d4 Bg4 13.Nbd2 when I prefer White but Black should close to equal.
+C) Гораздо более распространенный вариант - 6.Be2 d5 (другая идея - 6...a5 7.b5 cxb5 8.cxb5 d5 (или 8...d6 9.0-0 Nbd7 10.d3 Nb6 11.a4 Nfd5 12.Qd2 Bxb2 13.Qxb2 Nb4 14.h3 и шансы примерно равны) 9.a4 (или 9.0-0!? Nbd7 10.d4 Nb6 11.Nbd2 Ne8 12.a4 Nd6 13.Rc1 f6 было сыграно в партии МакНаб-Хенниган, Остров Мэн 1993, и теперь 14.Ba3 дало бы белым приятное преимущество) 9...Ne4 10.Bxg7 Kxg7 11.Qb3 Qd6 12.Qb2+ Nf6 13.h3 Nbd7 14. 0-0 и шансы более или менее равны) 7.cxd5 (7.0-0 - главный линейный ход, который был сыгран в более чем 100 партиях, и черные, вероятно, прекрасно справляются после 7...dxc4 8.Bxc4 b5 9.Be2 a5; забавная альтернатива - 7. Na3 Bg4 8.h3 Bxf3 9.Bxf3 a5 10.b5 dxc4 11.bxc6 Nxc6 12.Nxc4 Rc8 было сыграно в партии Кряквин - Дужаков, Санкт-Петербург 2019, и теперь 13.Qb3 Nb4 14.d4 дает белым небольшой перевес) 7... Nxd5 (если черные играют на уравнивание, то возврат пешки - лучший вариант, например, 7...cxd5 8.0-0 Bg4 9.a4 Nc6 10.b5 Na5 11.d3, когда я предпочитаю белых, но черные не должны быть хуже) 8.Bxg7 Kxg7 9.Qc2 Kg8 10.a3 a5 11.bxa5 Rxa5 12.d4 Bg4 13.Nbd2, когда я предпочитаю белых, но черные должны быть близки к равенству.
 
 **6.cxd5 Nxd5**
 
 ![](pics/pic-5-4.png)
 
-The knight capture is the more logical option of Black’s choices. The dark-squared bishops will now be exchanged. Who does that favor? I think the exchange is in White’s favor, even if it is nothing dramatic.
-The alternative is 6...Qxd5 7.Nc3, and here:
+Взятие коня - более логичный вариант из всех возможных вариантов черных. Теперь чернопольные слоны будут разменяны. В чью пользу это произойдет? Я думаю, что размен в пользу белых, даже если в нем нет ничего драматичного.
+Альтернатива - 6...Qxd5 7.Nc3, и здесь:
 
-a) 7...Qd8 8.Be2 (this is probably best but White can also consider 8.Bc4 Nc6 9.b5 Na5 10.Be2 Bg4?! (10...a6!?) 11.0-0 Bxf3 12.Bxf3 e5 13.d3 c6 14.a4 and White has a small but clear advantage thanks to the bishop pair and pressure against Black’s queenside, G.Jones-Aakanksha, Chess.com INT 2020) 8...Nbd7 (as usual, some Black players will consider 8...a5 9.b5 Nbd7?! (if Black plays to exchange two sets of minor pieces on c3, then 9...Nd5 10.d4 c6 11.0-0 Bf5 12.a4 leaves White with a pleasant position) 10.0-0 Nb6 11.Na4 Nbd5 12.Be5 Bg4 13.h3 Bxf3 14.Bxf3 e6 15.Rc1 Ne8 16.Bxg7 Kxg7 17.Nc3 and White is firmly in control of the game, if not to say, Black has a horrible position, M.Jirovsky-Reschke, Germany 2004) 9.0-0 e5 10.d3 c6 11.a4 (preparing White’s campaign on the queenside) 11...b6 (11...a5 12.b5 is good for White) 12.Qb3 Re8 13.Rfd1 Qe7 14.d4! (14.Nd2!? can also be played) 14...exd4 15.exd4 Nf8 16.Ne5 Be6 17.Qa3 Rac8 was seen in Kurajica-Firat, Izmir 2016, and here 18.b5 Qxa3 19.Rxa3 c5 20.d5 Bd7 21.f4 would have given White a pleasant advantage.
+a) 7...Qd8 8.Be2 (это, вероятно, лучше, но белые могут рассмотреть и 8.Bc4 Nc6 9.b5 Na5 10.Be2 Bg4?! (10...a6!?) 11.0-0 Bxf3 12.Bxf3 e5 13.d3 c6 14.a4 и у белых небольшой, но явный перевес благодаря паре слонов и давлению на ферзевый фланг черных, Г.Джонс-Ааканкша, Chess.com INT 2020) 8...Nbd7 (как обычно, некоторые черные игроки будут рассматривать 8...a5 9.b5 Nbd7?! (если черные играют на размен двух комплектов второстепенных фигур на с3, то 9. ...Nd5 10.d4 c6 11.0-0 Bf5 12.a4 оставляет белым приятную позицию) 10.0-0 Nb6 11.Na4 Nbd5 12.Be5 Bg4 13.h3 Bxf3 14.Bxf3 e6 15.Rc1 Ne8 16.Bxg7 Kxg7 17.Nc3 и белые прочно контролируют игру, если не сказать, что у черных ужасная позиция, М.Жировски-Решке, Германия 2004) 9.0-0 e5 10.d3 c6 11.a4 (подготавливая поход белых на ферзевом фланге) 11...b6 (11...a5 12.b5 хорошо для белых) 12.Qb3 Re8 13.Rfd1 Qe7 14.d4! (можно сыграть и 14.Nd2!?) 14...exd4 15.exd4 Nf8 16.Ne5 Be6 17.Qa3 Rac8 было сыграно в партии Кураица - Фират, Измир 2016, и здесь 18.b5 Qxa3 19.Rxa3 c5 20.d5 Bd7 21.f4 дало бы белым приятное преимущество.
 
-b) 7...Qd6 8.a3 (or 8.Nb5 Qd8 9.Bc4 c6 10.Na3 Nbd7 11.0-0 Nb6, which was played in Sydor- Zoltek, Bydgoszcz 1976, and now 12.Be2 Be6 13.h3 Qd7 would have been very close to equal) 8...Bg4 9.Be2 Nc6?! (the knight almost certainly does not belong on this square; a more solid and better option was 9...c6 10.d4 Nbd7 11.0-0, which is pleasant for White and quite boring for Black, which often happens in this line) 10.d4 e6? (10...Rfd8 is still playable for Black) 11.h3 Bxf3 12.Bxf3 a6 13.0-0 Rab8 14.Rc1 Rfc8 15.Na4 and Black is close to being busted, Lebredo Zaragoitia-DeWinter, Mexico City 1978.
-**7.Bxg7 Kxg7 8.Qb3 Qd6**
+b) 7...Qd6 8.a3 (или 8.Nb5 Qd8 9.Bc4 c6 10.Na3 Nbd7 11.0-0 Nb6, что было сыграно в партии Сидор - Золтек, Быдгощ 1976, и теперь 12.Be2 Be6 13.h3 Qd7 было бы очень близко к равенству) 8...Bg4 9.Be2 Nc6?! (коню почти наверняка не место на этой клетке; более солидным и лучшим вариантом было 9...c6 10.d4 Nbd7 11.0-0, что выгодно для белых и довольно неприятно для черных, что часто случается в этой позиции) 10.d4 e6? (10...Rfd8 все еще играбельно для черных) 11.h3 Bxf3 12.Bxf3 a6 13.0-0 Rab8 14.Rc1 Rfc8 15.Na4 и черные близки к поражению, Лебредо Зарагойтиа-ДеВинтер, Мексико Сити 1978.
+**7.Bxg7 Kxg7 8.Qb3 Qd6**.
 
-Two alternatives are:
+Две альтернативы:
 
-a) 8...c6 9.Nc3 Qd6 10.Bc4 Nxc3 11.Qxc3+ f6 12.a4 Bg4 13.Be2 e5 14.0-0 Nd7 15.h3 Be6 16.d4 and White has the initiative, Triapishko-Mirzaev, Yaroslavl 2019.
+a) 8...c6 9.Nc3 Qd6 10.Bc4 Nxc3 11.Qxc3+ f6 12.a4 Bg4 13.Be2 e5 14.0-0 Nd7 15.h3 Be6 16.d4 и у белых инициатива, Тряпишко-Мирзаев, Ярославль 2019.
 
-b) 8...Nb6 9.Qb2+ f6 10.d4 (or 10.Be2 c6 11.0-0 and White is better) 10...Qd6 11.Nbd2 a5 12.b5 Be6 13.Be2 and White’s position is both better and easier to play.
+б) 8...Nb6 9.Qb2+ f6 10.d4 (или 10.Be2 c6 11.0-0 и у белых положение лучше) 10...Qd6 11.Nbd2 a5 12.b5 Be6 13.Be2 и позиция белых и лучше, и играть легче.
 
 **9.a3**
 
@@ -70,15 +68,15 @@ b) 8...Nb6 9.Qb2+ f6 10.d4 (or 10.Be2 c6 11.0-0 and White is better) 10...Qd6 11
 
 **9...a5**
 
-Some other options are:
+Возможны и другие варианты:
 
-a) 9...c5 10.Nc3 Nf6 11.Be2 cxb4 12.Qxb4! and White has a strong initiative on the queenside.
+a) 9...c5 10.Nc3 Nf6 11.Be2 cxb4 12.Qxb4! и у белых сильная инициатива на ферзевом фланге.
 
-b) 9...e5 10.Nc3 Nxc3 11.Qxc3 Re8 12.Rc1 (or 12.Be2 Nd7 13.0-0 Nf6 14.d3 Bg4 15.b5 h6 16.Rfc1 and White has pressure on the queenside, Steinbacher-Van Wessel, Groningen 1994) 12...c6 13.d4 Nd7 14.dxe5 Nxe5 15.Be2 and White has the initiative.
+b) 9...e5 10.Nc3 Nxc3 11.Qxc3 Re8 12.Rc1 (или 12.Be2 Nd7 13.0-0 Nf6 14.d3 Bg4 15.b5 h6 16.Rfc1 и у белых давление на ферзевом фланге, Штейнбахер-Ван Вессель, Гронинген 1994) 12...c6 13.d4 Nd7 14.dxe5 Nxe5 15.Be2 и у белых инициатива.
 
 **10.b5 c5**
 
-Or 10...c6 11.d4 cxb5 12.Bxb5 Bd7 13.Be2 b5 14.Nbd2, and while the position is objectively even, White’s position seems easier to play.
+Или 10...c6 11.d4 cxb5 12.Bxb5 Bd7 13.Be2 b5 14.Nbd2, и хотя позиция объективно ровная, позиция белых кажется более легкой.
 
 **11.Nc3 Nxc3 12.Qxc3+**
 
@@ -86,10 +84,10 @@ Or 10...c6 11.d4 cxb5 12.Bxb5 Bd7 13.Be2 b5 14.Nbd2, and while the position is o
 
 **12...f6 13.h4**
 
-13.Be2!? Be6 14.0-0 Nd7 15.Rac1 Rfc8 16.d3 Nb6 17.Nd2 when White should be an inkling better, but it clearly is not by much.
+13.Be2!? Be6 14.0-0 Nd7 15.Rac1 Rfc8 16.d3 Nb6 17.Nd2, когда у белых должно быть хоть на йоту лучше, но явно не на много.
 
 **13...h5**
 
-Thus far, we have been following Konstantinov-Feletar, ICCF email 2018, which was more or less even, but I like White’s position after
+До сих пор мы следили за партией Константинов - Фелетер, ICCF email 2018, которая была более или менее ровной, но мне нравится позиция белых после
 
-**14.Bd3 Bg4 15.Be4 Ra7 16.d3 Nd7 17.Nd2** and White’s pieces leave a better impression.
+**14.Bd3 Bg4 15.Be4 Ra7 16.d3 Nd7 17.Nd2** и фигуры белых оставляют лучшее впечатление.
