@@ -4,24 +4,26 @@
 
 ## Ранние выходы, гипермодернизм и именование
 
-Unlike classical openings such as the Ruy Lopez, Italian Game, the King’s Gambit, and countless other openings, the Orangutan history is a lot shorter and contains far fewer games; that, unfortunately, goes with the territory of unusual openings.
+В отличие от классических дебютов, таких как делют Руи Лопеса, Итальянская партия, Королевский гамбит и других, история "Орангутана" намного короче и содержит гораздо меньше партий; это, к сожалению, относится к территории необычных дебютов.
 
-The earliest example I could find is Chinarev – Alyekhin, a correspondence game played in 1870; it starts with 1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4 d6 6.Nh3 Nh6 7.c3 Ba5 8.d4 exd4 9.0-0 dxc3 10.Nxc3, and here the reference ends with an assessment of White being slightly better.
-However, that is somewhat optimistic, possibly flavored by the eventual result of the game and the fact that gambit play was beloved in those days. Looking at the position with today’s objective eyes, Black must be doing fine after 10...Bg4 11.Qc2 (or 11.Qb3 Bb6+ 12.Nf2 Nd4) 11...Qd7 12.f5 Bxh3 13.gxh3 Nd4 14.Qd1 c6 15.Na4 b5 16.Qxd4 bxc4 17.Qxc4 Nf7 and White does not have sufficient compensation for the pawn.
+Самый ранний пример, который я смог найти, это Чинарев - Алехин, партия по переписке, сыгранная в 1870 году; она начинается с **1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Nc6 5.f4 d6 6.Nh3 Nh6 7.c3 Ba5 8.d4 exd4 9.0-0 dxc3 10.Nxc3**, и здесь ссылка заканчивается оценкой того, что у белых позиция немного лучше.
+Впрочем, это несколько оптимистичная оценка, возможно, приправленная конечным результатом партии и тем, что в те времена гамбитная игра была в почете. Если посмотреть на позицию сегодняшним объективным взглядом, то после 10...Bg4 11.Qc2 (или 11.Qb3 Bb6+ 12.Nf2 Nd4) 11...Qd7 12.f5 Bxh3 13.gxh3 Nd4 14.Qd1 c6 15.Na4 b5 16.Qxd4 bxc4 17.Qxc4 Nf7 у белых нет достаточной компенсации за пешку.
 
-Next follows the adventures of the university professor and mathematician Nikolai Vasilyevich Bugayev (1837-1903) from Moscow, who had his analysis of the opening published in 1903 in the Russian magazine Shakmatnoye Obozreniyi, possibly in conjunction with his death.
+Далее следуют приключения профессора университета и математика Николая Васильевича Бугаева (1837-1903) из Москвы, анализ дебюта которого был опубликован в 1903 году в русском журнале "Шакматное обозрение", возможно, в связи с его смертью.
 
-In match in 1888 Solovziev, Bugayev played 1.b4 in four of the games, one, referenced by Sokolsky, started with 1.b4 e5 2.Bb2 f6 3.a3 d5 4.e3 Be6 5.Nf3 Bd6 6.Be2 Ne7 7.d4 e4 8.Nfd2 0-0 9.c4 c6 10.f3? f5 11.f4 Nd7 12.Nc3 Rf7 13.c5 Bc7 14.0-0? g5! with a position that is definitely in Black’s favor and he did indeed go on to win the game.
+В матче 1888 года Соловьев, Бугаев сыграл 1.b4 в четырех партиях, одна, на которую ссылается Сокольский, началась с **1.b4 e5 2.Bb2 f6 3.a3 d5 4.e3 Be6 5.Nf3 Bd6 6.Be2 Ne7 7. d4 e4 8.Nfd2 0-0 9.c4 c6 10.f3? f5 11.f4 Nd7 12.Nc3 Rf7 13.c5 Bc7 14.0-0? g5!** с позицией, которая определенно в пользу черных, и он действительно выиграл партию.
 
-Later on, Bugayev played 1.b4 in a simul game against former world champion Wilhelm Steinitz and eventually won:
-1.b4 e5 2.Bb2 f6 3.b5 d5 4.e3 Bd6 5.c4 c6 6.a4 Ne7 7.Nc3 0-0 8.Qb3?! 8.Nf3!? 8...Bc7? 8...Nd7 was a better option. 9.cxd5 cxd5 10.e4?! 10.Ba3!, attacking the defender of the d5–pawn, looks promising. 10...Be6 11.exd5 11.Nxd5! Nxd5 12.Bc4 gives White an advantage. 11...Nxd5 12.Nxd5 Bxd5 13.Bc4 Bxc4 14.Qxc4+ Kh8 15.Ne2 Nd7 16.0-0 Nb6 17.Qc2 Rc8 18.Bc3 Nd5 At this point, Black is in control of the game. 19.Rfd1 Bb6 20.Qb2 Qd7 21.a5 Bc7 22.Ng3 Nf4 23.d4 Qd5 24.f3 Rfd8 25.Rd2 Qc4 26.dxe5 Nd3? Here, Black misses 26...Rxd2 27.Qxd2 Rd8 28.Qb2 Nd3 29.Qd2 Qc5+ with a decisive advantage for Black. 27.Qa3 Bxe5?! 28.Bxe5 fxe5?? 28...Nxe5 was necessary, leading to a, more or less, equal position. 29.Ne4? 29.Rad1! Qd4+ 30.Kf1 wins for White. 29...Rd7 30.Rad1 Rcd8 31.Nf2 Nc5?? Black misses his only defense: 31...Qc5 32.Qxc5 Nxc5 when a draw is likely. 32.Rxd7 Rxd7 33.Rc1 Qxb5 34.Qxc5 Qxc5 35.Rxc5 h6 36.Rxe5 Rc7 37.g4 Kg8 38.Kg2 Kf7 39.Ne4 Rc6 40.Kg3 b6 41.h4 and Black resigned. 1–0
+Позже Бугаев сыграл 1.b4 в симуляции против бывшего чемпиона мира Вильгельма Стейница и в итоге выиграл:
 
-The first game between major players was seen in the match between Berthold Englisch and Harry Pillsbury in Vienna 1896. For those not familiar with those names, according to Chessmetrics, both players were in the top 10 in the world at the time of the game, which went as follows:
-1.b4 e5 2.Bb2 f6 3.b5 d5 4.e3 Nh6 5.c4 Be6 5...d4 was a better move. 6.cxd5 Qxd5 7.Nc3 White already has a comfortable edge. 7...Qd7 8.Nf3 Bd6 9.d4 Nf7 10.d5 Bf5
+**1.b4 e5 2.Bb2 f6 3.b5 d5 4.e3 Bd6 5.c4 c6 6.a4 Ne7 7.Nc3 0-0 8.Qb3?! 8.Nf3!? 8...Bc7?** 8...Nd7 было лучшим вариантом. **9.cxd5 cxd5 10.e4?!** 10.Ba3!, атакуя защитника пешки d5, выглядит перспективно. **10...Be6 11.exd5** 11.Nxd5! Nxd5 12.Bc4 дает белым преимущество. **11...Nxd5 12.Nxd5 Bxd5 13.Bc4 Bxc4 14.Qxc4+ Kh8 15.Ne2 Nd7 16.0-0 Nb6 17.Qc2 Rc8 18.Bc3 Nd5** В этот момент черные контролируют игру. **19.Rfd1 Bb6 20.Qb2 Qd7 21.a5 Bc7 22.Ng3 Nf4 23.d4 Qd5 24.f3 Rfd8 25.Rd2 Qc4 26.dxe5 Nd3?** Здесь черные пропускают 26...Rxd2 27.Qxd2 Rd8 28.Qb2 Nd3 29.Qd2 Qc5+ с решающим перевесом у черных. **27.Qa3 Bxe5!!! 28.Bxe5 fxe5???** 28...Nxe5 было необходимо, что привело к более или менее равной позиции. **29.Ne4?** 29.Rad1! Qd4+ 30.Kf1 выигрывают белые. **29...Rd7 30.Rad1 Rcd8 31.Nf2 Nc5???** Черные пропускают свою единственную защиту: 31...Qc5 32.Qxc5 Nxc5, когда ничья вполне вероятна. **32.Rxd7 Rxd7 33.Rc1 Qxb5 34.Qxc5 Qxc5 35.Rxc5 h6 36.Rxe5 Rc7 37.g4 Kg8 38.Kg2 Kf7 39.Ne4 Rc6 40.Kg3 b6 41.h4** и черные сдались. **1-0**
+
+Первую партию между крупными игроками можно было увидеть в матче между Бертольдом Энглишем и Гарри Пильсбери в Вене 1896 года. Для тех, кто не знаком с этими именами, по данным Chessmetrics, оба игрока входили в топ-10 в мире на момент партии, которая проходила следующим образом:
+
+**1.b4 e5 2.Bb2 f6 3.b5 d5 4.e3 Nh6 5.c4 Be6** 5...d4 было лучшим ходом. **6.cxd5 Qxd5 7.Nc3** У белых уже комфортный перевес. **7...Qd7 8.Nf3 Bd6 9.d4 Nf7 10.d5 Bf5**
 
 ![](pics/pic-0-2.png)
 
-11.e4 11.Nh4!? Bg6 12.Be2 is very good for White. 11...Bg4 12.h3 Bxf3 13.Qxf3 0-0 14.Bd3 Qe7 15.0-0 Nd7 16.Bc2 Nh6 16...Ba3 to exchange the dark-squared bishops was a better choice, but Pillsbury was concerned about his c7–pawn, which will become a target on the open c-file and therefore chose a more passive set-up. 17.Qe2 g5 18.a4 Kh8 19.Nd1 Rg8 20.Ne3 Nf8 21.Qh5 Qg7
+**11.e4** 11.Nh4!? Bg6 12.Be2 очень хорошо для белых. **11...Bg4 12.h3 Bxf3 13.Qxf3 0-0 14.Bd3 Qe7 15.0-0 Nd7 16.Bc2 Nh6** 16...Ba3 с целью размена чернопольных слонов было лучшим выбором, но Пильсбери беспокоился о своей пешке c7, которая станет мишенью на открытой линии c, и поэтому выбрал более пассивную расстановку. **17.Qe2 g5 18.a4 Kh8 19.Nd1 Rg8 20.Ne3 Nf8 21.Qh5 Qg7**
 
 ![](pics/pic-0-3.png)
 
@@ -161,7 +163,7 @@ Black could defend with 30...f5 31.Nc3 Na5 32.Rb4 when White is better but very 
 
 In the years that followed, however, the opening mostly disappeared from top games, mostly being used, according to Sokolsky, by Polish players. Therefore, in some circles, the opening is referred to as Polish Opening.
 
-**Schiffler & Sokolsky – Authors & Practitioners**
+## Шиффлер и Сокольский - авторы и практики
 
 The first book on the opening came from the hands of Leonhard Schiffler, an East German player who wrote about his experiences with the opening. The book “Orang Utan-Eröffnung” (Orangutan Opening) was published in 1953 and saw a print run of 5000 copies that were quickly sold out. A second, expanded edition was commissioned and released the following year. In the picture, you will see my copy of the second edition of the book.
 
@@ -200,12 +202,14 @@ Black has been completely outplayed. Now desperation sets in... 19...d5!? 20.exd
 
 Ten years later, in 1963, Sokolsky’s book “Debjut 1.b2-b4 (Debjut Sokolskogo)” (1.b2-b4 Opening – Sokolsky Opening) with a foreword by the famous Soviet Grandmaster and opening theoretician Isak Boleslavski. The book was translated into German the following year and published in 1965 by the East German publisher Sportsverlag under the title “Die Eröffnung b2-b4 (Sokolski- Eröffnung)” (The Opening b2-b4 – Sokolsky Opening). Sokolsky was an international master and a much stronger player than Schiffler. Therefore, the analysis of the games in the book was much more thorough, presenting a lot of brilliant analysis and ideas, which has shaped the modern understanding of the opening. The book featured a lot of Sokolsky’s games both from his over-the-board efforts as well as his correspondence games and games of his student Boris Nikolaevich Katalymov (1932-2013), who, by the way, many years later, in 1995, took the silver medal in the World Senior Chess Championship.
 
-**Modern Times**
+## Настоящее время
 
-After Sokolsky, there were fewer people who carried a permanent torch for the opening. However, a few springs to mind. Original minds such as International Masters Michael Basman of England and Gerard Welling of the Netherlands played it with some frequency; the same can be said for International Master Yury Lapshun, who also wrote a book about the opening.
+После Сокольского было меньше людей, несущих постоянный факел дебюта. Тем не менее, несколько человек все же вспоминается. Оригинальные умы, такие как международные мастера Михаил Басман из Англии и Герард Веллинг из Голландии, играли его с определенной частотой; то же самое можно сказать и о международном мастере Юрии Лапшуне, который также написал книгу об этом дебюте.
 
-Other strong players, grandmasters, and international masters have played it on occasion Some correspondence players also played it regularly, amongst which Pavel Degterev, Aziz Kural, and Heinrich Muri are probably the most noteworthy. Particularly former of these has popped up several times in the writing of this book, whereas the latter two have truly prodigious numbers of games in my database. Hats off to both of them for their efforts to keep the opening a viable choice for White.
+Другие сильные игроки, гроссмейстеры и международные мастера играли его время от времени.
 
-In the online world, some names are seen regularly in connection with the Orangutan: Grandmaster Hikaru Nakamura (who seems to play everything a lot in online blitz), Women Grandmaster and International Master Julija Osmak of Ukraine, and Dutch International Master Mark Timmermans, both of whom seem to be true devotees, playing it regularly and with good results.
+Некоторые игроки по переписке также играли его регулярно, среди которых Павел Дегтерев, Азиз Курал и Генрих Мури, вероятно, наиболее примечательны. Особенно первый из них несколько раз всплывал в процессе написания этой книги, в то время как два последних имеют поистине огромное количество партий в моей базе данных. Снимаю шляпу перед ними обоими за их усилия по сохранению дебюта в качестве жизнеспособного выбора для белых.
 
-Should I add your name to this list for the next edition of this book? Only time will tell, but if you do not start now, it definitely will not happen.
+В сетевом мире некоторые имена регулярно встречаются в связи с орангутангом: Гроссмейстер Хикару Накамура (который, похоже, часто играет все в онлайновом блице), женский гроссмейстер и международный мастер Юлия Осьмак из Украины и голландский международный мастер Марк Тиммерманс, оба из которых, похоже, являются настоящими приверженцами, играющими его регулярно и с хорошими результатами.
+
+Стоит ли мне добавить ваше имя в этот список для следующего издания этой книги? Только время покажет, но если вы не начнете сейчас, то этого точно не произойдет.
