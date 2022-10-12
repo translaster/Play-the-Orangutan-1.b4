@@ -1,42 +1,42 @@
-# Chapter 7: Main Lines with 1...Nf6 2.Bb2 e6 & 3...d5
+# Глава 7: Основные позиции с 1...Nf6 2.Bb2 e6 и 3...d5
 
-These lines may not be the main lines after 1.b4, but they are a natural set-up and occur considerably when Black answers 1...Nf6 or 1...d5 or 1...e6. The black set-up is natural and does not require much thought for the first several moves, which is an appealing prospect. If White does not follow up accurately, Black will get a good game. Still, if White is careful, the black position will be surprisingly difficult to play, particularly in practical chess.
+Эти позиции, возможно, не являются основными после 1.b4, но они естественны и часто встречаются, когда черные отвечают 1...Nf6, 1...d5 или 1...e6. Расстановка черных естественна и не требует долгих размышлений в течение первых нескольких ходов, что является привлекательной перспективой. Если белые не будут действовать точно, черные получат хорошую игру. Тем не менее, если белые будут осторожны, позиция черных будет удивительно сложной для игры, особенно в практических шахматах.
 
-**1.b4 e6 2.Bb2 Nf6 3.b5 d5 4.e3 c5 5.Nf3**
+**1.b4 e6 2.Bb2 Nf6 3.b5 d5 4.e3 c5 5.Nf3**.
 
-Another option for White is 5.f4, but Black gets a great position after 5...Nbd7 6.Nf3 Bd6 7.Be2 0-0 8.0-0 Qc7.
+Другой вариант для белых - 5.f4, но черные получают отличную позицию после 5...Nbd7 6.Nf3 Bd6 7.Be2 0-0 8.0-0 Qc7.
 
 **5...Nbd7 6.c4 Bd6**
 
 ![](pics/pic-7-1.png)
 
-6...Be7 transposes to the lines covered in the Queen’s Indian chapter.
+6...Be7 переходит в позиции, рассмотренные в главе "Индийская ферзевая".
 
-Black can also try to capture on c4 before White plays d2–d3, but White easily gets the better position: 6...dxc4 7.Bxc4 (or 7.a4 b6 8.Na3 c3 9.Bxc3 Be7 10.Nc4; White will typically continue with d2–d3, e3–e4 and Be2) 7...Nb6 8.Be2 a6 9.Ne5 Bd6 10.bxa6 bxa6 11.Na3 and White has a positional advantage.
+Черные также могут попытаться взять на с4 до того, как белые сыграют d2-d3, но белые легко получают лучшую позицию: 6...dxc4 7.Bxc4 (или 7.a4 b6 8.Na3 c3 9.Bxc3 Be7 10.Nc4; после белые обычно продолжают d2-d3, e3-e4 и Be2) 7...Nb6 8.Be2 a6 9.Ne5 Bd6 10.bxa6 bxa6 11.Na3 и у белых позиционное преимущество.
 
 **7.d3!?**
 
-This patient little move appears to be best. After the alternatives, Black has no discernable problems, for instance, 7.Nc3 0-0 8.Qb3 d4! or 7.Be2 e5, in both cases, Black has an advantage.
+Этот терпеливый маленький ход кажется лучшим. После альтернативных вариантов у черных нет заметных проблем, например, 7.Nc3 0-0 8.Qb3 d4! или 7.Be2 e5, в обоих случаях у черных преимущество.
 
 **7...0-0**
 
-Black has some alternatives:
+У черных есть несколько альтернатив:
 
-a) 7...b6 transposes to the main line.
+a) 7...b6 переводит на главную позицию.
 
-b) 7...e5?! is a common idea at some point for Black, but it leads an easily better game for White: 8.cxd5 Nxd5 9.Nbd2, with another fork in the road:
+b) 7...e5?! - обычная идея для черных, но она ведет к более легкой игре для белых: 8.cxd5 Nxd5 9.Nbd2, с другой развилкой:
 
 ![](pics/pic-7-2.png)
 
-b1) 9	0-0 10.Be2 Re8 11.a4 (or 11.Qb3 N7b6 12.Ne4 Bf8 13.Nxe5 Be6 14.Qc2 Nb4 and Black has excellent play for the pawn) 11	Nf8 12.0-0 Bc7 13.g3 and White has comfortable reversed Sicilian-type of position.
+b1) 9...0-0 10.Be2 Re8 11.a4 (или 11.Qb3 N7b6 12.Ne4 Bf8 13.Nxe5 Be6 14.Qc2 Nb4 и у черных отличная игра за пешку) 11...Nf8 12.0-0 Bc7 13.g3 и у белых удобная перевернутая позиция сицилианского типа.
 
-b2) 9...Qe7 10.Be2 (10.Nc4 Bc7 11.Be2 (White can also fianchetto the bishop, e.g., 11.g3 0-0 12.Bg2 N5b6 13.Nfd2 Nf6 14.0-0 Rd8 15.Nxb6 axb6 as played in Melich-Baumgartner, Ceske Budejovice 1992, when 16.Qc2 h5 17.Nc4 with a pull for White) 11...0-0 12.0-0 N7b6 13.Qc2 Nxc4 14.Qxc4 Nb6 15.Qc2 Bf5 16.e4 Bg4 17.h3 Bxf3 18.Bxf3 and White is in control of the game, Dzieniszewski-Pelc, Mikolajki 1991) 10...b6 11.0-0 0-0 12.Qb3 Bb7 13.g3 a6 14.a4 Bc7 15.Nc4 Nb4 16.e4 Bc8 17.Bc3 and White is in complete control of the game.
+b2) 9...Qe7 10.Be2 (10.Nc4 Bc7 11.Be2 (белые также могут фианкеттировать слона, например, 11.g3 0-0 12.Bg2 N5b6 13.Nfd2 Nf6 14.0-0 Rd8 15.Nxb6 axb6 как сыграно в партии Мелих-Баумгартнер, Ческе Будейовице 1992, когда 16.Qc2 h5 17.Nc4 с перевесом у белых) 11...0-0 12.0-0 N7b6 13.Qc2 Nxc4 14.Qxc4 Nb6 15.Qc2 Bf5 16. e4 Bg4 17.h3 Bxf3 18.Bxf3 и белые контролируют игру, Дзинижевски-Пельш, Миколайки 1991) 10...b6 11.0-0 0-0 12.Qb3 Bb7 13.g3 a6 14.a4 Bc7 15.Nc4 Nb4 16.e4 Bc8 17.Bc3 и белые полностью контролируют игру.
 
-c) 7	a6 8.a4 axb5 9.axb5 Rxa1 10.Bxa1 0-0 11.Be2 and White has more space and a small edge.
+c) 7 a6 8.a4 axb5 9.axb5 Rxa1 10.Bxa1 0-0 11.Be2 и у белых больше пространства и небольшой перевес.
 
-**8.Nbd2!?**
+**8.Nbd2!?**.
 
-Or 8.Be2 b6 9.0-0 Bb7 10.Nbd2 with a transposition to our main line.
+Или 8.Be2 b6 9.0-0 Bb7 10.Nbd2 с переходом на нашу основную позицию.
 
 **8...b6 9.Be2 Bb7 10.0-0**
 
