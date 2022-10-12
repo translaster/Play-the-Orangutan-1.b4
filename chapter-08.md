@@ -1,16 +1,14 @@
-# Chapter 8: Other Set-ups with 1...Nf6 & 2...e6
+# Глава 8: Прочие расстановки с 1...Nf6 & 2...e6
 
-This chapter will cover the lines that are not discussed in the previous couple of chapters. Generally speaking, Black can often either equalize or get very close to it.
+В этой главе мы рассмотрим позиции, которые не обсуждались в предыдущих главах. Вообще говоря, черные часто могут либо уравнять, либо очень близко подойти к этому.
 
-**1.b4 Nf6 2.Bb2 e6 3.b5 c6**
-The ...c7–c6 move looks a little odd but has been played several times, also by quite strong players. However, there are a couple of interesting alternatives:
+**1.b4 Nf6 2.Bb2 e6 3.b5 c6**.
+Ход ...c7-c6 выглядит немного странным, но он был сыгран несколько раз, причем довольно сильными игроками. Однако есть пара интересных альтернатив:
 
-a) 3...b6 4.e3 Bb7 5.Nf3 Be7 6.Be2 (we are now in the Queen’s Indian territory) 6...d6 7.0-0 0-0 8.c4 c5 (8...Nbd7 is covered in our Queen’s Indian chapter) 9.d3 Nbd7 10.a4 Qc7 (or 10...a5 11.bxa6 Rxa6 12.Nc3 Ne8 13.d4 cxd4 14.exd4 Ra8 15.Nd2 Ndf6 was played in Remling-Lputian, Biel 1997, and now 16.d5 (16.Ba3!? is also interesting) 16...exd5 17.Bf3 Nc7 18.cxd5 Nfxd5 19.Nc4 Nxc3 20.Bxc3 Bxf3 21.Qxf3 Ne6 22.Rfb1 and White has some pressure) 11.Qc2 d5 12.Nbd2 e5?!
+a) 3...b6 4.e3 Bb7 5.Nf3 Be7 6.Be2 (теперь мы находимся на территории ферзевой индийской) 6...d6 7.0-0 0-0 8.c4 c5 (8...Nbd7 рассматривается в нашей главе о ферзевой индийской) 9.d3 Nbd7 10.a4 Qc7 (или 10...a5 11.bxa6 Rxa6 12.Nc3 Ne8 13.d4 cxd4 14. exd4 Ra8 15.Nd2 Ndf6 было сыграно в партии Ремлинг-Лпутиан, Биль 1997, а теперь 16.d5 (16.Ba3!? тоже интересно) 16...exd5 17.Bf3 Nc7 18.cxd5 Nfxd5 19.Nc4 Nxc3 20.Bxc3 Bxf3 21.Qxf3 Ne6 22.Rfb1 и у белых некоторое давление) 11.Qc2 d5 12.Nbd2 e5?!![](pics/pic-8-1.png)
 
-![](pics/pic-8-1.png)
-
-(this is a relatively common mistake, it looks reasonable to grab space but it weakens the light squares) 13.cxd5 Nxd5 14.Nc4 (another option is 14.Qb3, for instance, 14...Bf6 15.g3 a5 16.Nc4 Nb4 17.e4 and White has a clear advantage) 14...Bf6 15.Rfc1 Rfe8 16.Qb1 e4 17.dxe4 Bxb2 18.Qxb2 Rxe4 19.a5 Nb4? (19...Rd8 was better although 20.Rd1 Ree8 21.axb6 axb6 (or 21...N7xb6 22.Na5) 22.Ra7 leaves White with a large advantage) 20.Ncd2 Ree8 21.Qxb4 and Black resigned, 1– 0, Maeurer-Handke, Cappelle la Grande 2002.
-b) 3...c5 4.c4, and now:
+(это относительно распространенная ошибка, она выглядит разумной для захвата пространства, но ослабляет светлые поля) 13.cxd5 Nxd5 14.Nc4 (другой вариант - 14.Qb3, например, 14...Bf6 15.g3 a5 16.Nc4 Nb4 17.e4 и у белых явное преимущество) 14...Bf6 15.Rfc1 Rfe8 16.Qb1 e4 17.dxe4 Bxb2 18.Qxb2 Rxe4 19.a5 Nb4? (19...Rd8 было лучше, хотя 20.Rd1 Ree8 21.axb6 axb6 (или 21...N7xb6 22.Na5) 22.Ra7 оставляет белым большой перевес) 20.Ncd2 Ree8 21.Qxb4 и черные сдались, 1-0, Мауерер-Хендке, Cappelle la Grande 2002.
+b) 3...c5 4.c4, и теперь:
 
 ![](pics/pic-8-2.png)
 
