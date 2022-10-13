@@ -27,37 +27,35 @@
 
 ![](pics/pic-0-3.png)
 
-22.Ng4 Black has been completely outplayed and is without counterplay. Englisch here chose to exchange the knights to open the h-file, but it would have been far better to play more patiently for a breakthrough on the queenside, for instance, 22.g3 Ng6 23.Kh1 (to stop any potential tricks with ...Nf4 by Black) 23...Raf8 24.Rac1 b6 25.Bd3 Rf7 26.Nc4 Bc5 27.Ba3 Bxa3 28.Nxa3 and White will win. 22...Nxg4 23.hxg4 Ng6 24.g3 Ne7 25.Kg2 Qg6 26.Rh1 Qxh5 27.Rxh5 Ng6 28.Rah1 Rg7 29.Ra1?! Here, Englisch began to lose to the plot a bit, apparently frustrated that he could not find a way through. A better option was 29.Rh6 Kg8 30.Bd3 b6 31.Bc3 eventually followed by a4–a5 with pressure on the queenside. The breakthrough is not likely to happen soon because Black is solid, but he will suffer for a long time before White agrees to a draw. 29...Nf8 30.Rhh1 Nd7 31.Kf1?! a6 32.Ke2, and here the players settled for a draw. Black is no longer worse. A possible continuation could be 32...axb5 33.axb5 Rgg8 34.Bc3 Nb6 and White will never be able to make any progress. ½–½.
+22.Ng4 Черные полностью переиграны и лишены контригры. Энглиш здесь решил разменять коней, чтобы вскрыть вертикаль h, но гораздо лучше было бы терпеливее играть на прорыв на ферзевом фланге, например, 22.g3 Ng6 23.Kh1 (чтобы пресечь возможные трюки с ...Nf4 у черных) 23...Raf8 24.Rac1 b6 25.Bd3 Rf7 26.Nc4 Bc5 27.Ba3 Bxa3 28.Nxa3 и белые выигрывают. 22...Nxg4 23.hxg4 Ng6 24.g3 Ne7 25.Kg2 Qg6 26.Rh1 Qxh5 27.Rxh5 Ng6 28.Rah1 Rg7 29.Ra1?! Здесь Энглиш начал немного терять интригу, видимо, расстроившись, что не может найти выход. Лучшим вариантом было 29.Rh6 Kg8 30.Bd3 b6 31.Bc3 с последующим a4-a5 с давлением на ферзевый фланг. Прорыв вряд ли произойдет сразу, потому что черные сильны, но они будут долго мучиться, прежде чем белые согласятся на ничью. 29...Nf8 30.Rhh1 Nd7 31.Kf1?! a6 32.Ke2, и здесь игроки согласились на ничью. У черных уже не хуже. Возможным продолжением может быть 32...axb5 33.axb5 Rgg8 34.Bc3 Nb6 и белые уже не смогут добиться прогресса. ½-½.
 
-According to Sokolsky, Englisch played other games with 1.b4, but I could not find any record of them anywhere.
+По словам Сокольского, Энглиш играл и другие партии с 1.b4, но я нигде не смог найти записи о них.
 
-Another game, also from 1896, also between two of the world’s best players, saw the following action:
+В другой партии, тоже 1896 года, также между двумя лучшими игроками мира, наблюдалось следующее действие:
 
-Carl Schlechter - Siegbert Tarrasch
-Nuremberg 1896
+Карл Шлехтер - Зигберт Тарраш
+Нюрнберг 1896
 
-1.b4 d5 2.Bb2 Bf5 3.e3 e6 4.b5 Nf6 5.Nf3 c5 6.bxc6?! A misunderstanding of the position. Of course, 6.c4 or 6.Be2 were better options. 6...Nxc6 7.Be2 Bd6 7...Be7!? 8.0-0 h6 9.c4 0-0 10.cxd5 Nxd5 11.Nc3 Nxc3 12.Bxc3 Rc8 13.Qb3 Qe7 14.Nd4? 14.a4 followed by Qb2 is a much better choice. After the text move, White’s queen gets in trouble. 14...Nxd4 15.Bxd4 Bc2! 16.Qb5 a6 17.Qh5 Bg6 17...b5!? 18.Qf3 e5 Here, the game is recorded as a draw in the only available source, but as Sokolsky mentions, Black has the better chances, in fact clearly better chances. So, a draw in this particular position seems unlikely. ½–½
+1.b4 d5 2.Bb2 Bf5 3.e3 e6 4.b5 Nf6 5.Nf3 c5 6.bxc6?! Непонимание позиции. Конечно, 6.c4 или 6.Be2 были лучшими вариантами. 6...Nxc6 7.Be2 Bd6 7...Be7!? 8.0-0 h6 9.c4 0-0 10.cxd5 Nxd5 11.Nc3 Nxc3 12.Bxc3 Rc8 13.Qb3 Qe7 14.Nd4? 14.a4 с последующим Qb2 - гораздо лучший выбор. После этого хода ферзь белых попадает в беду. 14...Nxd4 15.Bxd4 Bc2! 16.Qb5 a6 17.Qh5 Bg6 17...b5!? 18.Qf3 e5 Здесь в единственном доступном источнике партия записана как ничья, но, как упоминает Сокольский, у черных лучшие шансы, причем явно лучшие. Так что ничья в этой конкретной позиции кажется маловероятной. ½-½
 
-The next world-class player at the helm was the Polish Grandmaster Saviely Tartakower. He used it in his 1919 match against Hungarian Richard Reti.
+Следующим игроком мирового класса в этой позиции был польский гроссмейстер Савелий Тартаковер. Он применил ее в матче 1919 года против венгра Рихарда Рети.
 
-Saviely Tartakower - Richard Reti
+**Савелий Тартаковер - Ричард Рети**
 Vienna 1919
 
-1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Ne7 5.f4
+**1.b4 e5 2.Bb2 f6 3.e4 Bxb4 4.Bc4 Ne7 5.f4**
 
 ![](pics/pic-0-4.png)
 
-This takes the game to a strange version of a King’s Gambit. 5...d5 6.exd5 Bd6 6...exf4, as played by Colle in a later game, is also an option. 7.fxe5 fxe5 8.Qh5+ Ng6 9.Nf3 Nd7
+Это приводит игру к странному варианту королевского гамбита. **5...d5 6.exd5 Bd6 6...exf4**, как сыграл Колль в более поздней партии, также является вариантом. **7.fxe5 fxe5 8.Qh5+ Ng6 9.Nf3 Nd7**
 
 ![](pics/pic-0-5.png)
 
-10.0-0? White continues in the romantic fashion of the King’s Gambit, but the text move is, in fact, not particularly good. An untried option is 10.Qg5!? Be7 (if 10...Qxg5 then 11.Nxg5 0-0 12.Nc3 Rf4 13.Be2 gives White a marginal edge) 11.Qe3 with an interesting position; my computer now offers some utterly mad lines, for instance, 11...Nb6 (or 11...b5!?) 12.Bb3 Nxd5 13.Qe4 c6 14.0-0 Rf8 15.Nxe5 Qb6+ 16.Bd4 Rxf1+ 17.Kxf1 Bf5 18.Qxd5 cxd5 19.Bxb6 axb6 20.Nf3 with even chances in the endgame according to the silicon beast; I’m less convinced, but it is challenging to assess accurately with so many imbalances. 10	0-0 11.Nc3 Rf4 12.d3?! Nf6 13.Qg5 h6? Black could
-improve with 13...Qe8!, threatening 14.-- 14	h6 15.Qg3 Rxc4 16.dxc4 e4 with a large advantage for
-Black. 14.Qg3 e4? Unnecessary and premature. Black would have had a comfortable edge after 14...Bd7. 15.Nxe4 Nxe4 16.dxe4 Bg4 17.Qe1? White can improve with 17.Bd3! Bh5 (even worse is 17...Rxe4?? 18.Qf2! and White is winning) 18.e5 and White has a clear advantage. 17...Bxf3 18.Rxf3 Rxf3 19.gxf3 Qg5+
+**10.0-0?** Белые продолжают в романтической манере королевского гамбита, но данный ход, на самом деле, не особенно хорош. Неопробованный вариант - 10.Qg5!? Be7 (если 10...Qxg5, то 11.Nxg5 0-0 12.Nc3 Rf4 13.Be2 дает белым незначительный перевес) 11.Qe3 с интересной позицией; мой компьютер теперь предлагает несколько совершенно безумных позиций, например, 11...Nb6 (или 11...b5!?) 12.Bb3 Nxd5 13.Qe4 c6 14. 0-0 Rf8 15.Nxe5 Qb6+ 16.Bd4 Rxf1+ 17.Kxf1 Bf5 18.Qxd5 cxd5 19.Bxb6 axb6 20.Nf3 с равными шансами в эндшпиле по мнению кремниевого зверя; я менее убедителен, но при таком количестве дисбалансов трудно оценить точно. **10…0-0 11.Nc3 Rf4 12.d3?! Nf6 13.Qg5 h6?** Черные могли улучшить путем 13...Qe8!, угрожая 14.-- 14 h6 15.Qg3 Rxc4 16.dxc4 e4 с большим перевесом у черных. 14.Qg3 e4? Ненужное и преждевременное. После 14...Bd7 у черных был бы комфортный перевес. **15.Nxe4 Nxe4 16.dxe4 Bg4 17.Qe1?** Белые могут улучшить ситуацию путем 17.Bd3! Bh5 (еще хуже 17...Rxe4?? 18.Qf2! и белые выигрывают) 18.e5 и у белых явное преимущество. **17...Bxf3 18.Rxf3 Rxf3 19.gxf3 Qg5+**
 
 ![](pics/pic-0-6.png)
 
-White has an extra pawn and the bishop pair, which sounds like huge plusses for White, but on the con-side, White’s king is open, the bishop on c4 is poor, and Black has excellent control over the dark squares. The chances are approximately even according to the computer, but I must admit that I would much rather play Black in this position. 20.Kh1 Qh5 21.Qf2 Rf8 22.Be2 Be5 23.Bxe5 Qxe5 24.Rg1 Nf4 Black’s compensation is beyond dispute: the knight on f4 is gorgeous, and White’s light- squared bishop is still miserable. 25.Bf1 Rf6?! Now Black begins to play less accurately. With 25...Qc3, Black would hold White tied down, although the computer finds an attractive draw after 26.Bd3 (returning the extra pawn) 26...Nxd3 (26...g5!? can also be considered) 27.cxd3 Qxd3 28.Rxg7+!! Kxg7 29.Qg3+ with a perpetual check. 26.Qxa7 Rb6?!
+У белых лишняя пешка и пара слонов, что звучит как огромный плюс для белых, но с другой стороны, король белых открыт, слон на с4 беден, а у черных отличный контроль над темными клетками. По мнению компьютера, шансы примерно равны, но я должен признать, что в этой позиции я бы предпочел играть черными. **20.Kh1 Qh5 21.Qf2 Rf8 22.Be2 Be5 23.Bxe5 Qxe5 24.Rg1 Nf4** Компенсация черных не вызывает сомнений: конь на f4 великолепен, а белопольный слон белых по-прежнему жалок. **25.Bf1 Rf6?!** Теперь черные начинают играть менее точно. При 25...Qc3 черные держат белых на привязи, хотя компьютер находит привлекательной ничью после 26.Bd3 (возвращая лишнюю пешку) 26...Nxd3 (можно рассмотреть и 26...g5!?) 27.cxd3 Qxd3 28.Rxg7+!!! Kxg7 29.Qg3+ с вечным шахом. **26.Qxa7 Rb6?!**
 
 ![](pics/pic-0-7.png)
 

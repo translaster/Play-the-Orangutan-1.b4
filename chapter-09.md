@@ -1,56 +1,54 @@
-# Chapter 9: 1...d5 followed by ...Bf5 or ...Bg4
+# Глава 9: 1...d5 с последующим ...Bf5 или ...Bg4
 
-Like in the Reti Opening (1.Nf3 d5 2.g3), Black can reasonably consider developing the light-squared bishop to either f5 or g4. This chapter will look at the lines where Black opts for these options on the 2nd, 3rd, and 4th moves.
+Как и в дебюте Рети (1.Nf3 d5 2.g3), черные могут разумно рассматривать развитие белопольного слона на f5 или g4. В этой главе мы рассмотрим позиции, в которых черные выбирают эти варианты на 2-м, 3-м и 4-м ходах.
 
-**...Bf5 Lines**
+**Позиции ...Bf5**
 
-**1.b4 d5 2.Bb2 Bf5**
+**1.b4 d5 2.Bb2 Bf5**.
 
-Also frequently is 2...Nf6 3.Nf3 and now 3...Bf5 4.e3 e6 transposes to our main lines below.
+Также часто встречается 2...Nf6 3.Nf3 и теперь 3...Bf5 4.e3 e6 переводит в наши основные позиции ниже.
 
 **3.e3 e6**
 
-Most of Black’s options on 3rd and 4th moves transpose to other lines covered in this chapter, but there are some lines with an independent vibe, and we will look at hose now:
+Большинство вариантов черных на 3-м и 4-м ходах переходят в другие позиции, рассмотренные в этой главе, но есть несколько позиций с независимой перспективой(?), и сейчас мы рассмотрим их:
 
-a) 3...Nd7 4.Nf3 Ngf6 5.c4 dxc4 (5...c6 6.c5 e6 transposes) 6.Bxc4 Nb6 7.Be2 e6 8.a3 a5 (or 8...Bd6 9.d3 Bg6 10.Ne5 a5 11.b5 a4 12.Nxg6 hxg6 13.Bf3 Ra7 14.Bd4 Qe7 15.Qc2 0-0 16.0-0 and White has better chances, the black pieces are oddly placed, J.Dominguez-Baules, Dresden 2008) 9.b5 Bd3 10.Bd4 Bxe2 11.Qxe2 Nbd7 12.0-0 and White has the easier position to play with a space advantage and a lead in development, Zilberman-Kogan, Ramat Aviv 2000.
+a) 3...Nd7 4.Nf3 Ngf6 5.c4 dxc4 (5...c6 6.c5 e6 переносится(?)переставляет) 6.Bxc4 Nb6 7.Be2 e6 8.a3 a5 (или 8...Bd6 9.d3 Bg6 10.Ne5 a5 11. b5 a4 12.Nxg6 hxg6 13.Bf3 Ra7 14.Bd4 Qe7 15.Qc2 0-0 16.0-0 и у белых лучшие шансы, черные фигуры странно расположены, Дж.Доминигуез=Баулес, Дрезден 2008) 9.b5 Bd3 10.Bd4 Bxe2 11.Qxe2 Nbd7 12.0-0 и у белых более легкая позиция с преимуществом в пространстве и перевесом в развитии, Зильберман-Коган, Рамат Авив 2000.
 
-b) 3...c6 4.Nf3 e6 5.c4!? Bxb4?? (5...Nf6 transposes to 5.c4 below) 6.Bxg7 and White is winning.
+b) 3...c6 4.Nf3 e6 5.c4!? Bxb4?? (5...Nf6 переходит в 5.c4 ниже) 6.Bxg7 и белые выигрывают.
 
 **4.Nf3**
 
-There is a good argument for playing 4.c4 immediately as it avoids some of Black’s better options in the ...Bf5 set-ups. 4...Nf6 (most of Black’s moves will transpose to other lines covered below, e.g., 4...c6 5.c5, but like 4...Nf6, it gives good chances of an edge) 5.b5 Be7 6.a4 0-0 7.Nf3 Nbd7 8.Be2 h6 9.0-0 c6 10.Nd4 Bxb1 11.Qxb1 Rc8 12.Rc1 c5 13.Nf3 Bd6 14.h3 Qe7 15.d4 cxd4 16.Nxd4 and White was clearly in command in Timmermans-Maiorov, Chess.com INT 2021; White has the bishop pair and more space.
+Есть хороший аргумент в пользу немедленной игры 4.c4, так как это позволяет избежать некоторых лучших вариантов черных в расстановке ...Bf5. 4...Nf6 (большинство ходов черных переходят в другие позиции, рассмотренные ниже, например, 4...c6 5.c5, но, как и 4...Nf6, это дает хорошие шансы на перевес) 5.b5 Be7 6.a4 0-0 7.Nf3 Nbd7 8.Be2 h6 9.0-0 c6 10.Nd4 Bxb1 11.Qxb1 Rc8 12.Rc1 c5 13. Nf3 Bd6 14.h3 Qe7 15.d4 cxd4 16.Nxd4 и белые явно командовали в партии Тиммерманс - Майоров, Chess.com INT 2021; у белых пара слонов и больше пространства.
 
 **4...Nf6**
 
-Or 4...Nd7 5.c4 c6 (5...Ngf6 6.c5 transposes 4...Nf6 5.c4 Nbd7 6.c5 below) 6.b5 Ngf6 7.bxc6 bxc6 8.Nd4!? Qb6 9.Qb3 Nc5 10.Qxb6 axb6 11.Nxf5 (or 11.Nxc6 Nd3+ 12.Bxd3 Bxd3 13.cxd5 Nxd5 14.Nc3 Nxc3 15.Bxc3 and White has a tiny edge, the pawn advantage is likely of a temporary nature because of Black’s activity and bishop pair) 11...exf5 12.Bxf6 gxf6 13.Nc3 dxc4 14.Bxc4 with an interesting position where I prefer White because of Black’s tripled f-pawn.
+Или 4...Nd7 5.c4 c6 (5...Ngf6 6.c5 переводите 4...Nf6 5.c4 Nbd7 6.c5 ниже) 6.b5 Ngf6 7.bxc6 bxc6 8.Nd4!? Qb6 9.Qb3 Nc5 10.Qxb6 axb6 11.Nxf5 (или 11.Nxc6 Nd3+ 12.Bxd3 Bxd3 13.cxd5 Nxd5 14.Nc3 Nxc3 15.Bxc3 и у белых крошечный перевес, преимущество пешки скорее всего носит временный характер из-за активности черных и пары слонов) 11..exf5 12.Bxf6 gxf6 13.Nc3 dxc4 14.Bxc4 с интересной позицией, где я предпочитаю белых из-за тройной пешки f у черных.
 
 **5.b5**
 
-This advance is the traditional continuation that I usually have opted for when facing the ...Bf5 lines. However, White also has 5.c4!?.
+Это наступление является традиционным продолжением, которое я обычно выбираю, когда сталкиваюсь с линией ...Bf5. Однако у белых также есть 5.c4!?
 
 ![](pics/pic-9-1.png)
 
-This line is exciting and a bit less explored than 5.b5. There are some pawn sacrifices and other non- traditional ideas. Black has tried several moves in this position:
+Эта позиция интересна и немного менее изучена, чем 5.b5. Здесь есть несколько жертв пешки и другие нетрадиционные идеи. Черные пробовали несколько ходов в этой позиции:
 
-a) 5...Bxb4 (accepting White’s challenge) 6.cxd5 Qxd5 7.Qa4+ Nc6 8.Bb5 a5 (or 8...Bd6 9.Nc3 Qc5 10.Rc1 a6 11.Nd4 Bg6 12.Bxc6+ bxc6 13.Nce2 Qd5 14.Qxc6+ Qxc6 15.Nxc6 Bd3 16.f3 when White has the better pawn structure) 9.a3 Be7 10.Nc3 Qc5 11.Rc1 and White has excellent compensation for pawn.
+a) 5...Bxb4 (принимая вызов белых) 6.cxd5 Qxd5 7.Qa4+ Nc6 8.Bb5 a5 (или 8...Bd6 9.Nc3 Qc5 10.Rc1 a6 11.Nd4 Bg6 12.Bxc6+ bxc6 13.Nce2 Qd5 14. Qxc6+ Qxc6 15.Nxc6 Bd3 16.f3, когда у белых лучшая пешечная структура) 9.a3 Be7 10.Nc3 Qc5 11.Rc1 и у белых отличная компенсация за пешку.
 
-b) 5...Nbd7 6.c5 and now Black has some alternatives to choose between:
+b) 5...Nbd7 6.c5 и теперь у черных есть несколько альтернатив на выбор:
 
-b1) 6...Be7 7.Nd4 0-0 8.Nxf5 exf5 9.d4 c6 10.Nd2 Ne4 11.Bd3 and White has more space and the bishop pair.
+b1) 6...Be7 7.Nd4 0-0 8.Nxf5 exf5 9.d4 c6 10.Nd2 Ne4 11.Bd3 и у белых больше пространства и пара слонов.
 
-b2) 6...c6 7.Be2 a5 8.a3 Be7 9.Nh4 axb4 10.Nxf5 exf5 11.axb4 with better chances for White.
+b2) 6...c6 7.Be2 a5 8.a3 Be7 9.Nh4 axb4 10.Nxf5 exf5 11.axb4 с лучшими шансами у белых.
 
-b3) 6...a5 7.a3 axb4 8.axb4 Rxa1 9.Bxa1 Qa8 10.Nc3 Qa3 11.Nb5 Qxb4 12.Nxc7+ Kd8 13.Bc3 Qxc5 14.Nb5 Ne4 15.Ba1 and White has excellent compensation for the sacrificed pawn; the king being on d8 being the primary reason.
+b3) 6...a5 7.a3 axb4 8.axb4 Rxa1 9.Bxa1 Qa8 10.Nc3 Qa3 11.Nb5 Qxb4 12.Nxc7+ Kd8 13.Bc3 Qxc5 14.Nb5 Ne4 15.Ba1 и у белых отличная компенсация за пожертвованную пешку; король на d8 - главная причина.
 
-c) 5...Nc6 is played quite frequently but is, in my opinion, one of Black’s worst options. 6.a3 (not 6.b5? because of 6...Nb4! and White is facing early elimination) 6...dxc4 (or 6...Be7 7.d4 0-0 8.c5 with a position where Black’s knight is very poorly placed on c6) 7.Bxc4 Bd3 8.Qb3 Bxc4 9.Qxc4 Qd5 10.Qxd5 Nxd5 11.Ke2 Bd6, and here the players agreed upon a draw, ½–½, in Rodin- Galkovsky, USSR 1979, but White has the better chances after 12.h4 h5 13.Nc3 Nxc3+ 14.Bxc3 f6 15.d4 with an extra central pawn for White and the overall better chances.
+c) 5...Nc6 играется довольно часто, но, на мой взгляд, является одним из худших вариантов черных. 6.a3 (не 6.b5? из-за 6...Nb4! и белым грозит ранняя ликвидация) 6...dxc4 (или 6...Be7 7.d4 0-0 8.c5 с позицией, где конь черных очень плохо расположен на c6) 7.Bxc4 Bd3 8.Qb3 Bxc4 9.Qxc4 Qd5 10.Qxd5 Nxd5 11. Ke2 Bd6, и здесь игроки согласились на ничью, ½-½, в матче Родин - Галковский, СССР 1979, но у белых лучшие шансы после 12.h4 h5 13.Nc3 Nxc3+ 14.Bxc3 f6 15.d4 с лишней центральной пешкой у белых и общими лучшими шансами.
 
-d) 5...dxc4 6.Bxc4 Nbd7 7.b5 Nb6 8.Be2 Bd3 9.Bxd3 (9.0-0 is also playable) 9...Qxd3 10.Qb3 Qxb3 11.axb3 Ne4 12.Bd4 Nd5 (12...f6 13.Bxb6 cxb6 14.Ke2 Be7 15.Rc1 Nc5 16.Rc3 e5 17.d4 exd4 18.Nxd4 and White has a small but clear advantage; White’s doubled b-pawns easily controls Black’s three queenside pawn) 13.Nc3 Ndxc3 14.dxc3 and White has a small plus thanks to his space advantage and strong d4–bishop.
+d) 5...dxc4 6.Bxc4 Nbd7 7.b5 Nb6 8.Be2 Bd3 9.Bxd3 (9.0-0 тоже можно играть) 9...Qxd3 10.Qb3 Qxb3 11.axb3 Ne4 12.Bd4 Nd5 (12...f6 13.Bxb6 cxb6 14.Ke2 Be7 15.Rc1 Nc5 16.Rc3 e5 17.d4 exd4 18. Nxd4 и у белых небольшой, но явный перевес; сдвоенные b-пешки белых легко контролируют три пешки черных на ферзевом фланге) 13.Nc3 Ndxc3 14.dxc3 и у белых небольшой плюс за счет преимущества в пространстве и сильного слона d4.
 
-e) 5...Be7 6.Nc3 (the «normal» 6.cxd5 exd5 7.b5 0-0 is nothing special for White although I have played it in blitz and won) 6	0-0 7.a3 c6 8.c5 b6 9.d4 and White has more space, but Black is perfectly okay.
+e) 5...Be7 6.Nc3 ("обычное" 6.cxd5 exd5 7.b5 0-0 ничего особенного для белых не представляет, хотя я играл его в блице и выиграл) 6…0-0 7.a3 c6 8.c5 b6 9.d4 и у белых больше пространства, но черные в полном порядке.
 
-f) 5	c6 6.c5 a5 7.a3, and now Black has a few moves to choose between:
-
-![](pics/pic-9-2.png)
+f) 5…c6 6.c5 a5 7.a3, и теперь у черных есть несколько ходов на выбор:![](pics/pic-9-2.png)
 
 f1) 7...Na6 8.Qb3 Be7 9.d4 0-0 10.Nc3 and White has a big space advantage, but Black has a solid position.
 
