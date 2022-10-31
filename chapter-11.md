@@ -1,15 +1,15 @@
-# Chapter 11: Dutch Set-ups
+# Глава 11: Голландские расстановки
 
-Petrosian once said, “that if people want to play the Dutch, there is no reason to prevent them from doing so.” That being said, stopping anybody from playing a Dutch set-up after 1.b4 is pretty much an impossibility. Nevertheless, White does not need to worry unduly about the Dutch.
+Петросян однажды сказал, "что если люди хотят играть голландку, то нет причин препятствовать им в этом". Учитывая это, остановить кого-либо от голландской расстановки после 1.b4 практически невозможно. Тем не менее, белым не нужно чрезмерно беспокоиться о голландцах.
 
 **1.b4 f5 2.Bb2 Nf6**
 
-In one of my blitz games, my grandmaster opponent instead preferred another move order: 2...e6 3.e3 (The sharp 3.e4 is less effective but can lead to interesting play, for instance, 3...Qh4 4.Nc3 fxe4 5.g3 Qh6 6.Nxe4 d5 (or 6...Bxb4 making it a fully-fledged gambit, but White gets satisfactory compensation after 7.Qg4 Bf8 8.Bg2 Nc6 9.f4 d6?! 10.Qe2 Be7 11.Nf3 as in Telljohann-Heimrath, Apolda 2017 when White was clearly better, but it should not be difficult to improve on Black’s play) 7.Nc5 Nc6 8.Bb5!? Bd6 9.Bxc6+ bxc6 10.Nf3 Ne7 11.0-0 0-0 12.Ne5 a5 13.a3 Ng6 14.f4 with a
-fascinating position and chances to both sides) 3...Nf6 4.b5 Be7 5.Nf3 b6 (5...0-0 transposes to 2...Nf6 3.e3 e6 4.b5 Be7 5.Nf3 0-0 below) 6.Be2 Bb7 7.c4 0-0 8.0-0 Ne4?! (8...Qe8 9.d4 d5 10.a4 is also very unpleasant for Black) 9.d3 Nc5 10.Nbd2 d6 11.Qc2 Nbd7
+В одной из моих блиц-партий гроссмейстерский соперник предпочел другой порядок ходов: 2...e6 3.e3 (Острое 3.e4 менее эффективно, но может привести к интересной игре, например, 3...Qh4 4.Nc3 fxe4 5.g3 Qh6 6.Nxe4 d5 (или 6...Bxb4, превращая его в полноценный гамбит, но белые получают удовлетворительную компенсацию после 7.Qg4 Bf8 8.Bg2 Nc6 9.f4 d6?! 10.Qe2 Be7 11.Nf3 как в партии Теллйоханн-Хеймрат, Апольда 2017, когда белые были явно лучше, но улучшить игру черных не должно быть сложно) 7.Nc5 Nc6 8.Bb5!?? Bd6 9.Bxc6+ bxc6 10.Nf3 Ne7 11.0-0 0-0 12.Ne5 a5 13.a3 Ng6 14.f4 с
+увлекательной позицией и шансами для обеих сторон) 3...Nf6 4.b5 Be7 5.Nf3 b6 (5...0-0 соответствует 2...Nf6 3.e3 e6 4.b5 Be7 5. Nf3 0-0 ниже) 6.Be2 Bb7 7.c4 0-0 8.0-0 Ne4?! (8...Qe8 9.d4 d5 10.a4 также очень неприятно для черных) 9.d3 Nc5 10.Nbd2 d6 11.Qc2 Nbd7
 
 ![](pics/pic-11-1.png)
 
-12.Nd4!? (White is playing for control over the c6–square, but it was possibly better to continue with 12.d4! Ne4 13.a4 and White has a solid advantage) 12...Bf6 13.Bf3 Qc8 14.Nc6 e5? (the lesser evil would have been 14...Bxc6 when 15.Bxc6 Bxb2 16.Qxb2 Nxd3 17.Qc3 N7c5 18.Bxa8 Qxa8 19.Nb3 would have given White a small material advantage, but the conversion is far from simple) 15.Bd5+ Kh8 16.d4! Ne4 17.Nxe4 fxe4 18.Bxe4 and Black’s position was collapsing Ca. Hansen- Amir Bagheri, Chess.com 2021.
+12.Nd4!? (Белые играют за контроль над полем c6, но, возможно, лучше было продолжить 12.d4! Ne4 13.a4 и у белых солидный перевес) 12...Bf6 13.Bf3 Qc8 14.Nc6 e5? (меньшим злом было бы 14...Bxc6, когда 15.Bxc6 Bxb2 16.Qxb2 Nxd3 17.Qc3 N7c5 18.Bxa8 Qxa8 19.Nb3 дало бы белым небольшой материальный перевес, но размен далеко не прост) 15.Bd5+ Kh8 16.d4! Ne4 17.Nxe4 fxe4 18.Bxe4 и позиция черных рушилась Кa.Хансен - Амир Багери, Chess.com 2021.
 
 **3.Nf3**
 
