@@ -1,4 +1,4 @@
-# Bibliography
+# Библиография
 
 1 b4 Sokolsky Opening by D.N.L.Levy (The Chess Player 1977)
 
@@ -6,7 +6,7 @@
 
 500 Orangutan Games by Bill Wall (Bill Wall Chess 2021)
 
-Debjut 1.b2-b4 by Alexey Sokolsky (Minsk 1963)
+Дебют 1.b2-b4 Алексей сокольский (Минск 1963)
 
 Die Eröffnung b2-b4 by Alexei Sokolsky (Sportverlag 1965)
 

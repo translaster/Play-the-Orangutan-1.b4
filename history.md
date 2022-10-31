@@ -59,52 +59,52 @@ Vienna 1919
 
 ![](pics/pic-0-7.png)
 
-Black should have played 26...Qc3 27.Qf2 g5 with full compensation for the sacrificed pawns. 27.d6!? It was better to play 27.Qa5!, intending to return the queen to d2 with a clear advantage. 27...Qxd6?? A dreadful blunder: Black should have played 27...Rxd6! 28.Qb8+ Kh7 29.Qxc7 Ne6 30.Qb8 Qf4 31.Be2 and White is, perhaps, a little better, but Black still has very reasonable compensation for the sacrificed pawns. 28.Bc4+! Kh7 29.Qb8! This is undoubtedly what Black had missed. Now White wins relatively easily. 29...Ne6 30.Bxe6 Qxe6 31.Qxc7 Qf6 32.Rxg7+ Qxg7 33.Qxb6 Black resigned. 1–0
-This game inspired Reti to try the opening in one of his own games as White:
+Черным следовало играть 26...Qc3 27.Qf2 g5 с полной компенсацией за пожертвованную пешку. 27.d6!? лучше было сыграть 27.Qa5!, намереваясь вернуть ферзя на d2 с явным преимуществом. 27...Qxd6??? ужасная ошибка: черным следовало сыграть 27...Rxd6! 28.Qb8+ Kh7 29.Qxc7 Ne6 30.Qb8 Qf4 31.Be2 и у белых, возможно, чуть лучше, но у черных все равно очень разумная компенсация за пожертвованную пешку. 28.Bc4+! Kh7 29.Qb8! это, несомненно, то, чего не хватало черным. Теперь белые выигрывают относительно легко. 29...Ne6 30.Bxe6 Qxe6 31.Qxc7 Qf6 32.Rxg7+ Qxg7 33.Qxb6 черные сдались. 1-0
+Эта партия вдохновила Рети попробовать дебют в одной из своих партий белыми:
 
-Richard Reti - Abraham Speijer
-Scheveningen 1923
+Ричард Рети - Абрахам Спейер
+Шевенинген 1923
 
-1.b4 d5 2.Bb2 Nf6 3.f4? A bit too extravagant. 3...Qd6! Immediately exploiting the fact that cannot keep both pawns protected. 4.Be5 Qb6?! There is nothing wrong with 4...Qxb4! 5.Bxc7 Nbd7 when Black already has a very large advantage. 5.e3 Bg4?! Again, 5...Qxb4!? was called for. 6.Nf3 Nbd7 7.Nc3 e6 8.Bd4 Qd6 9.Nb5 Now White is already better. 9...Qc6 10.Nxa7 Rxa7 11.b5 Qd6 12.Bxa7 b6 Trying to trap the bishop on a7. The immediate threat is ...Qa3. 13.a4 Ne4? A better option was 13...Bxf3 14.Qxf3 Be7 when Black is still in the game. 14.a5 Be7 15.Be2 Bf6 16.c3 White is close to winning. 16...0-0 17.Nd4 Bxe2 18.Qxe2 e5 19.Nc6 exf4 20.0-0 fxe3 21.Qxe3 Bg5 22.Qd4 Bxd2 23.axb6 Bxc3 24.Qxd5 Bxa1 25.Qxe4 Nf6 26.Qc4 Re8 27.b7 and Black resigned.
-1–0
+1.b4 d5 2.Bb2 Nf6 3.f4? Слишком экстравагантно. 3...Qd6! немедленно используя тот факт, что невозможно держать обе пешки под защитой. 4.Be5 Qb6?! нет ничего плохого в 4...Qxb4! 5.Bxc7 Nbd7, когда у черных уже очень большой перевес. 5.e3 Bg4?! и снова напрашивалось 5...Qxb4!? 6.Nf3 Nbd7 7.Nc3 e6 8.Bd4 Qd6 9.Nb5 теперь у белых положение уже лучше. 9...Qc6 10.Nxa7 Rxa7 11.b5 Qd6 12.Bxa7 b6 пытаясь поймать слона на a7. Непосредственной угрозой является ...Qa3. 13.a4 Ne4? Лучшим вариантом было 13...Bxf3 14.Qxf3 Be7, когда черные все еще в игре. 14.a5 Be7 15.Be2 Bf6 16.c3 белые близки к победе. 16...0-0 17.Nd4 Bxe2 18.Qxe2 e5 19.Nc6 exf4 20.0-0 fxe3 21.Qxe3 Bg5 22.Qd4 Bxd2 23.axb6 Bxc3 24.Qxd5 Bxa1 25.Qxe4 Nf6 26.Qc4 Re8 27.b7 и черные сдались.
+1-0
 
-There were a couple of related and significant games before Tartakower’s next game with 1.b4. These were very much in the vein of the hypermodern era
+До следующей партии Тартаковера с 1.b4 было несколько связанных и значимых партий. Они были очень в духе эпохи гипермодерна.
 
-Aron Nimzowitsch – Richard Reti
-Karlovy Vary (Karlsbad) 1923
+Арон Нимцович - Ричард Рети
+Карловы Вары (Карлсбад) 1923
 
-1.Nf3 Nf6 2.c4 g6 3.b4 Now, we are entering “Orangutan territory,” avoiding the popular King’s Indian lines and instead entering lines that are classified as an English Opening.
+1.Nf3 Nf6 2.c4 g6 3.b4 теперь мы вступаем на "территорию орангутангов", избегая популярных линий индийской королевской, и вместо этого вступаем в линии, которые классифицируются как английский дебют.
 
 ![](pics/pic-0-8.png)
 
-3...a5 This advance is incredibly common, even nowadays and by strong players, but, in my opinion, it is misguided, allowing White to play b4–b5 for free. The normal 3...Bg7 is best. 4.b5 Bg7 5.Bb2 The move order White chose in the game gives White an additional option that cannot be reached through the move order used in our repertoire: 5.e3 0-0 and now rather than the normal 6.Bb2, which would take us to our repertoire lines, White has the fascinating, provocative, and some might even say ‘Nimzowitsch-like’ 6.Ba3!? d6 (or 6...d5 7.Nc3 c6 8.d4 where the bishop is rather well-placed on a3, in fact, reaching a position from the Grunfeld where White has scored a rather massive 5.5/6 in my database!) 7.Nc3 e5 8.Be2 Nbd7 (or 8...e4 9.Nd4 Re8 10.0-0 Nbd7 11.h3 Nc5 12.Rb1 Bd7 13.f4 and White has a good game) 9.0-0 Re8 10.d3 where White has reached an improved version over our recommendations in chapter 4. 5...0-0 6.e3 d6 7.d4 Nbd7 8.Be2 e5 9.0-0 exd4 10.exd4 Re8
+**3...a5** это продвижение невероятно распространено, даже в наши дни и у сильных игроков, но, на мой взгляд, оно ошибочно, позволяя белым свободно играть b4-b5. Лучше обычное 3...Bg7. 4.b5 Bg7 5.Bb2 порядок ходов, выбранный белыми в партии, дает белым дополнительную возможность, которую нельзя получить через порядок ходов, используемый в нашем репертуаре: 5.e3 0-0 и теперь вместо обычного 6.Bb2, которая привела бы нас к нашим репертуарным позициям, у белых есть увлекательное, провокационное, и некоторые даже могут сказать "похожее на Нимцовича" 6.Ba3!? d6 (или 6...d5 7.Nc3 c6 8.d4, где слон довольно хорошо расположен на a3, фактически, достигая позиции из Грюнфельда, где белые получили довольно массивные 5.5/6 в моей базе данных!) 7.Nc3 e5 8.Be2 Nbd7 (или 8...e4 9.Nd4 Re8 10.0-0 Nbd7 11.h3 Nc5 12.Rb1 Bd7 13.f4 и у белых хорошая игра) 9.0-0 Re8 10.d3, где белые достигли улучшенного варианта по сравнению с нашими рекомендациями в Главе 4. **5...0-0 6.e3 d6 7.d4 Nbd7 8.Be2 e5 9.0-0 exd4 10.exd4 Re8**
 
 ![](pics/pic-0-9.png)
 
-While White has more space, Black’s position is fully playable and objectively speaking, the chances are about even. 11.Nbd2 Nf8 12.Re1 Ne6 13.g3 h6!? 14.Bf1 Ng5 15.Nxg5 hxg5 16.Bg2 d5 17.Rxe8+ Qxe8 18.cxd5 Qxb5 19.Qb3 Bd7 20.Qxb5 Bxb5 Black has solved his opening problems successfully and is now at least equal. However, rather remarkably, in the remainder of the game, which I will leave unannotated, the needle barely moves away from the equality mark. 21.Rc1 Re8 22.Rxc7 Re1+ 23.Nf1 Bxf1 24.Bxf1 Nxd5 25.Rxb7 Rb1 26.Rb8+ Kh7 27.Rb5 Nc7 28.Rb7 Ne6 29.Kg2 Bxd4 30.Rxf7+ Kg8 31.Re7 Rxb2 32.Bc4 Rxf2+ 33.Kh3 Rf6 34.Bxe6+ Kf8 35.Rd7 Rxe6 36.Rxd4 Re5 37.Rd6 Kf7 38.Ra6 Rc5 39.Kg4 Rd5 40.Kh3 Kg7 41.a4 g4+ 42.Kxg4 Rd4+ 43.Kg5 Rd5+ 44.Kh4 Rc5 45.Kh3 Kh6 46.Rf6 Rc4 47.Rf4 Rb4 48.Kg4 g5 49.Rxb4 axb4 50.a5 b3 ½–½
-Even future world champion Alekhine joined the fun:
+Хотя у белых больше пространства, позиция черных вполне играбельна, и, объективно говоря, шансы примерно равны. 11.Nbd2 Nf8 12.Re1 Ne6 13.g3 h6!? 14.Bf1 Ng5 15.Nxg5 hxg5 16.Bg2 d5 17.Rxe8+ Qxe8 18.cxd5 Qxb5 19.Qb3 Bd7 20.Qxb5 Bxb5 черные успешно решили свои дебютные проблемы и теперь шансы как минимум равны. Однако, что весьма примечательно, в оставшейся части партии, которую я оставлю без комментариев, стрелка едва удаляется от отметки равенства. 21.Rc1 Re8 22.Rxc7 Re1+ 23.Nf1 Bxf1 24.Bxf1 Nxd5 25.Rxb7 Rb1 26.Rb8+ Kh7 27.Rb5 Nc7 28.Rb7 Ne6 29.Kg2 Bxd4 30.Rxf7+ Kg8 31.Re7 Rxb2 32.Bc4 Rxf2+ 33.Kh3 Rf6 34.Bxe6+ Kf8 35.Rd7 Rxe6 36.Rxd4 Re5 37.Rd6 Kf7 38.Ra6 Rc5 39.Kg4 Rd5 40.Kh3 Kg7 41.a4 g4+ 42.Kxg4 Rd4+ 43.Kg5 Rd5+ 44.Kh4 Rc5 45.Kh3 Kh6 46.Rf6 Rc4 47.Rf4 Rb4 48.Kg4 g5 49.Rxb4 axb4 50.a5 b3 ½-½
 
-Alexander Alekhine - John Arthur James Drewitt
-Portsmouth (Southsea) 1923
+К веселью присоединился даже будущий чемпион мира Алехин:
 
-1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.a3 c5 5.bxc5 Bxc5 6.e3 0-0 7.c4 Nc6 8.d4 Bb6?! The bishop does not belong on b6; it was better to return the bishop in the other direction: 8...Be7. 9.Nbd2 Qe7 10.Bd3 Rd8 11.0-0 Bd7 12.Ne5 Be8 13.f4 Rac8 14.Rc1 Nd7?! A better choice was 14...Ba5.
-15.Nxc6 Rxc6? It was necessary to play 15...bxc6 16.c5 Bc7 17.Bc3 Rb8 when Black is still in the game. 16.c5 Nxc5 17.dxc5 Bxc5 18.Rf3 Bxa3? 19.Rxc6 Bxc6 20.Bxh7+ Kxh7 21.Rh3+ Kg8 22.Bxg7 This is not the strongest move, but it sufficed to make Black resign. It was even better to play 22.Qh5 f6 23.Bxa3 Qxa3 24.Qh8+, winning a rook. 1–0
+Александр Алехин - Джон Артур Джеймс Древитт
+Портсмут (Southsea) 1923
 
-Then came the New York 1924 tournament where Tartakower, after visiting the Central Park Zoo and having an encounter with the residing Orangutan, Susie, felt sufficiently inspired to wheel out 1.b4 again and name the opening “The Orangutan.” The result was a great fight.
+**1.Nf3 d5 2.b4 e6 3.Bb2 Nf6 4.a3 c5 5.bxc5 Bxc5 6.e3 0-0 7.c4 Nc6 8.d4 Bb6?!** Слону не место на b6; лучше было вернуть слона в другом направлении: 8...Be7. **9.Nbd2 Qe7 10.Bd3 Rd8 11.0-0 Bd7 12.Ne5 Be8 13.f4 Rac8 14.Rc1 Nd7?!** Лучшим вариантом было 14...Ba5. 15.Nxc6 Rxc6? Нужно было играть 15...bxc6 16.c5 Bc7 17.Bc3 Rb8, когда черные еще в игре. 16.c5 Nxc5 17.dxc5 Bxc5 18.Rf3 Bxa3? 19.Rxc6 Bxc6 20.Bxh7+ Kxh7 21.Rh3+ Kg8 22.Bxg7 это не самый сильный ход, но его хватило, чтобы заставить черных сдаться. Еще лучше было сыграть 22.Qh5 f6 23.Bxa3 Qxa3 24.Qh8+, выиграв ладью. 1-0
 
-Saviely Tartakower – Geza Maroczy
-New York 1924
+Затем состоялся турнир в Нью-Йорке 1924 года, где Тартаковер, после посещения зоопарка Центрального парка и встречи с живущим там орангутангом Сьюзи, почувствовал достаточное вдохновение, чтобы снова сыграть 1.b4 и назвать дебют "Орангутанг". В результате получился отличный поединок.
 
-1.b4 Nf6 2.Bb2 e6 3.b5 d5 4.e3 Be7 5.f4 There is a certain amount of logic to this move as White firms the grip on the e5–square, but it also makes White’s overall pawn structure more vulnerable, for instance, adding opportunities for Black to play ...c7–c5 followed by ...d5–d4 in some positions.
-Therefore, I will not recommend that white players opt for this line.
+Савелий Тартаковер - Геза Мароци
+Нью-Йорк 1924
+
+1.b4 Nf6 2.Bb2 e6 3.b5 d5 4.e3 Be7 5.f4 В этом ходе есть определенная логика, поскольку белые укрепляют контроль над полем e5, но он также делает общую пешечную структуру белых более уязвимой, например, добавляет черным возможности сыграть ...c7-c5 с последующим ...d5-d4 в некоторых позициях.
+Поэтому я не рекомендую белым игрокам выбирать эту линию.
 
 ![](pics/pic-0-10.png)
 
-5...0-0 6.Bd3 a6 7.a4 axb5 8.axb5 Rxa1 9.Bxa1 Nbd7 10.Nf3 Ne4 11.0-0 f5?! Black tries to clamp onto the e4–square, but it leaves Black some permanently weak dark squares in return. A better choice for Black was 11...Ndc5 12.Bd4 b6, which the computer assesses as about equal although, I must admit, I still rather like White’s position more. 12.Be2!? White would have a small but clear positional advantage after 12.c4 Ndc5 13.Be2 when the weak dark squares are obvious. 12...Nd6 13.Qc1 Bf6 14.Na3 c6 15.bxc6 bxc6 Black has a typical Stonewall pawn structure, and the dark- squared bishops are about to depart the board, leaving Black with a long-term problem.
+5...0-0 6.Bd3 a6 7.a4 axb5 8.axb5 Rxa1 9.Bxa1 Nbd7 10.Nf3 Ne4 11.0-0 f5?! Черные пытаются зацепиться за поле е4, но это оставляет черным взамен несколько постоянно слабых темных полей. Лучшим выбором для черных было 11...Ndc5 12.Bd4 b6, которое компьютер оценивает как примерно равное, хотя, должен признаться, позиция белых мне все же нравится больше. 12.Be2!? У белых будет небольшой, но явный позиционный перевес после 12.c4 Ndc5 13.Be2, когда слабые темные поля очевидны. 12...Nd6 13.Qc1 Bf6 14.Na3 c6 15.bxc6 bxc6 У черных типичная пешечная структура Стоунволла, и темные слоны вот-вот уйдут с доски, оставив черным долгосрочные проблемы.
 
 ![](pics/pic-0-11.png)
 
-16.Ne5?! A standard idea in the Stonewall: put a knight on e5, but Tartakower clearly either missed or underestimated Black’s response. A better choice was 16.Nd4!? Bxd4 17.exd4 when White has the slightly better chances. 16...Bxe5! It is not an obvious decision, but it is brave and very good to make this exchange despite giving up the dark-squared bishop. 17.fxe5 Nf7 18.d4 Ng5 This was Black’s plan. The knight ends up on e4, where it will support the eventual ...c6–c5 break. White’s dark- squared bishop is not a happy piece, and it seems unlikely that it will come back to life any time soon. 19.c4?! Making matters worse. White should have played 19.Nb1 Qa5 20.Bc3 Qa4 21.Qa3 Qxa3 22.Nxa3 Ne4 23.Nb1 c5 when the chances are about even. 19...Ba6! A strong move that prevents White from exchanging on d5 or playing c4–c5 due to the pin on c4–pawn as well as the fact that an exchange of the light-squared bishops will permanently hand over the e4–square to Black’s knights while White will be left with a miserable bishop on a1. 20.Re1 Qa8! Another strong move, protecting the bishop while preparing ...Rb8 and ...Nb6. 21.Bc3 Rb8 22.Qc2 Ne4 22...Nb6!? is possibly even stronger. 23.Bd3 Rb7?!
+16.Ne5?! Стандартная идея в стоунволле: поставить коня на е5, но Тартаковер явно либо пропустил, либо недооценил ответ черных. Лучшим выбором было 16.Nd4!? Bxd4 17.exd4, когда у белых чуть лучшие шансы. 16...Bxe5! Это неочевидное решение, но это смелый и очень хороший размен, несмотря на отказ от чернопольного слона. 17.fxe5 Nf7 18.d4 Ng5 Таков был план черных. Конь оказывается на e4, где он поддержит возможный прорыв ...c6-c5. Слон белых на темных полях (?) не является счастливой фигурой, и кажется маловероятным, что он вернется к жизни в ближайшее время. 19.c4?! Усугубляя ситуацию. Белым следовало сыграть 19.Nb1 Qa5 20.Bc3 Qa4 21.Qa3 Qxa3 22.Nxa3 Ne4 23.Nb1 c5, когда шансы примерно равны. 19...Ba6! Сильный ход, не позволяющий белым разменяться на d5 или сыграть c4-c5 из-за блокады пешки c4, а также из-за того, что размен легких слонов навсегда отдаст поле e4 коням черных, а белые останутся с несчастным слоном на a1. 20.Re1 Qa8! Еще один сильный ход, защищающий слона и одновременно подготавливающий ...Rb8 и ...Nb6. 21.Bc3 Rb8 22.Qc2 Ne4 22...Nb6!? возможно, еще сильнее. 23.Bd3 Rb7?!
 
 ![](pics/pic-0-12.png)
 
